@@ -34,8 +34,18 @@ def get100(xxx, xx, x, isNoZero=False):
 	else:
 		return get1(xxx, True) + 'sataa' + get10(xx, x, True)
 
-for xxx in range(0, 10):
-	for xx in range(0, 10):
-		for x in range(0, 10):
-			result = get100(xxx, xx, x)
-			print('{}\t{}{}{}'.format(result, xxx, xx, x))
+def get1000(iv, xxx, xx, x, isNoZero=False):
+	if iv == 0:
+		return get100(xxx, xx, x, isNoZero)
+	elif iv == 1:
+		return 'tuhat' + get100(xxx, xx, x, True)
+	else:
+		return get1(iv, True) + 'tuhatta' + get100(xxx, xx, x, True)
+
+# Generate numbers up to 9999
+for iv in range(10):
+	for xxx in range(10):
+		for xx in range(10):
+			for x in range(10):
+				result = get1000(iv, xxx, xx, x)
+				print('{}\t{}{}{}{}'.format(result, iv, xxx, xx, x))
