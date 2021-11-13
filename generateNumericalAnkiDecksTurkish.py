@@ -58,9 +58,7 @@ def get1000(iv, iii, ii, i, isNoZero=False):
 		return get1(iv, True) + ' ' + oneThousand + ' ' + get100(iii, ii, i, True)
 
 # Generate numbers up to 9999
-for iv in range(10):
-	for iii in range(10):
-		for ii in range(10):
-			for i in range(10):
-				result = get1000(iv, iii, ii, i)
-				print('{}\t{}{}{}{}'.format(result, iv, iii, ii, i))
+for x in range(10000):
+	xStr = '{:04d}'.format(x)
+	result = get1000(int(xStr[0]), int(xStr[1]), int(xStr[2]), int(xStr[3]))
+	print('{}\t{:04d}'.format(result, x))
