@@ -11,75 +11,31 @@ ones = [
 	'yhdeksän' # 9
 ]
 
-tens = [
-	'{}', # 0#
-	'{}toista', # 1#
-	'{}kymmentä{}', # 2#
-	'{}kymmentä{}', # 3#
-	'{}kymmentä{}', # 4#
-	'{}kymmentä{}', # 5#
-	'{}kymmentä{}', # 6#
-	'{}kymmentä{}', # 7#
-	'{}kymmentä{}', # 8#
-	'{}kymmentä{}' # 9#
-]
+def get1(x, isNoZero=False):
+	if isNoZero and x == 0:
+		return ''
+	return ones[x]
 
-hundreds = [
-	'{}', # 0##
-	'sata{}', # 1##
-	'{}sataa{}', # 2##
-	'{}sataa{}', # 3##
-	'{}sataa{}', # 4##
-	'{}sataa{}', # 5##
-	'{}sataa{}', # 6##
-	'{}sataa{}', # 7##
-	'{}sataa{}', # 8##
-	'{}sataa{}', # 9##
-]
-
-thousands = [
-	'{}', # 0##
-	'tuhat{}', # 1##
-	'{}tuhatta{}', # 2##
-	'{}tuhatta{}', # 3##
-	'{}tuhatta{}', # 4##
-	'{}tuhatta{}', # 5##
-	'{}tuhatta{}', # 6##
-	'{}tuhatta{}', # 7##
-	'{}tuhatta{}', # 8##
-	'{}tuhatta{}', # 9##
-]
-
-oneTen = 'kymmenen'
-
-def generateTens(xx, x):
-	# Edge case for ten
-	if (xx == 1 and x == 0):
-		return oneTen
-	# 1#
-	elif (tens[xx].count('{') == 1):
-		return tens[xx].format(ones[x])
-	# 2# or more
+def get10(xx, x, isNoZero=False):
+	if xx == 0:
+		return get1(x, isNoZero)
+	elif xx == 1 and x == 0:
+		return 'kymmenen'
+	elif xx == 1:
+		return get1(x, True) + 'toista'
 	else:
-		one = ones[x] if x != 0 else ''
-		return tens[xx].format(ones[xx], one)
+		return get1(xx, True) + 'kymmentä' + get1(x, True)
 
-def generateHundreds(xxx, xx, x):
-	# Edge case for non-hundreds
-	if (xxx == 0):
-		return generateTens(xx, x)
-	# 0## or 1##
-	elif (hundreds[xxx].count('{') == 1):
-		ten = generateTens(xx, x) if not (xx == 0 and x == 0) else ''
-		return hundreds[xxx].format(ten)	
-	# 2## or more
+def get100(xxx, xx, x, isNoZero=False):
+	if xxx == 0:
+		return get10(xx, x, isNoZero)
+	elif xxx == 1:
+		return 'sata' + get10(xx, x, True)
 	else:
-		hundred = ones[xxx] if xxx != 0 else ''
-		ten = generateTens(xx, x) if not (xx == 0 and x == 0) else ''
-		return hundreds[xxx].format(hundred, ten)
+		return get1(xxx, True) + 'sataa' + get10(xx, x, True)
 
 for xxx in range(0, 10):
 	for xx in range(0, 10):
 		for x in range(0, 10):
-			result = generateHundreds(xxx, xx, x)
+			result = get100(xxx, xx, x)
 			print('{}\t{}{}{}'.format(result, xxx, xx, x))
