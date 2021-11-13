@@ -1,0 +1,21 @@
+líng	0
+yī	1
+èr	2
+sān	3
+sì	4
+wǔ	5
+liù	6
+qī	7
+bā	8
+jiǔ	9
+shí 	10
+shí yī	11
+shí èr	12
+shí sān	13
+shí sì	14
+shí wǔ	15
+shí liù	16
+shí qī	17
+shí bā	18
+shí jiǔ	19
+èr shí 	20

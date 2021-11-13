@@ -44,7 +44,7 @@ def get1000(iv, iii, ii, i, isNoZero=False):
 	else:
 		return get1(iv, True) + 'tuhatta' + ' ' + get100(iii, ii, i, True)
 
-# Generate numbers from 0 to 20
+# Generate numbers
 def getListOfNumerals(start, end):
 	daList = ''
 	for x in range(start, end+1):

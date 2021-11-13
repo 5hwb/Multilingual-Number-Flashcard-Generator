@@ -1,3 +1,5 @@
+from file_io import load_file_to_str, save_str_to_file
+
 ones = [
 	'零', # 0
 	'一', # 1
@@ -48,8 +50,14 @@ def get1000(iv, iii, ii, i, isNoZero=False):
 	else:
 		return get1(iv, True) + oneThousand + get100(iii, ii, i, True)
 
-# Generate numbers up to 9999
-for x in range(10000):
-	xStr = '{:04d}'.format(x)
-	result = get1000(int(xStr[0]), int(xStr[1]), int(xStr[2]), int(xStr[3]))
-	print('{}\t{}'.format(result, x))
+# Generate numbers
+def getListOfNumerals(start, end):
+	daList = ''
+	for x in range(start, end+1):
+		xStr = '{:04d}'.format(x)
+		result = get1000(int(xStr[0]), int(xStr[1]), int(xStr[2]), int(xStr[3]))
+		daList += '{}\t{}\n'.format(result, x)
+	return daList
+
+save_str_to_file('first_20_numerals_hanzi.txt', getListOfNumerals(0, 20))
+save_str_to_file('numerals_to_9999_hanzi.txt', getListOfNumerals(21, 9999))
