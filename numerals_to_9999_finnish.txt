@@ -1,24 +1,3 @@
-tyhjä	0
-yksi	1
-kaksi	2
-kolme	3
-neljä	4
-viisi	5
-kuusi	6
-seitsemän	7
-kahdeksan	8
-yhdeksän	9
-kymmenen	10
-yksitoista	11
-kaksitoista	12
-kolmetoista	13
-neljätoista	14
-viisitoista	15
-kuusitoista	16
-seitsemäntoista	17
-kahdeksantoista	18
-yhdeksäntoista	19
-kaksikymmentä 	20
 kaksikymmentä yksi	21
 kaksikymmentä kaksi	22
 kaksikymmentä kolme	23
