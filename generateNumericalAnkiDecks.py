@@ -38,8 +38,6 @@ hundreds = [
 ]
 
 oneTen = 'kymmenen'
-oneHundred = 'sata'
-oneThousand = 'tuhat'
 
 def generateTens(xx, x):
 	# Edge case for ten
@@ -57,12 +55,10 @@ def generateHundreds(xxx, xx, x):
 	# Edge case for non-hundreds
 	if (xxx == 0):
 		return generateTens(xx, x)
-	# Edge case for hundred
-	elif (xxx == 1 and xx == 0 and x == 0):
-		return oneHundred
-	# 1##
-	elif (xxx == 1):
-		return oneHundred + generateTens(xx, x)
+	# 0## or 1##
+	elif (hundreds[xxx].count('{') == 1):
+		ten = generateTens(xx, x) if not (xx == 0 and x == 0) else ''
+		return hundreds[xxx].format(ten)	
 	# 2## or more
 	else:
 		hundred = ones[xxx] if xxx != 0 else ''
