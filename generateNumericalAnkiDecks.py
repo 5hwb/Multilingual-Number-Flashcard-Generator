@@ -37,6 +37,19 @@ hundreds = [
 	'{}sataa{}', # 9##
 ]
 
+thousands = [
+	'{}', # 0##
+	'tuhat{}', # 1##
+	'{}tuhatta{}', # 2##
+	'{}tuhatta{}', # 3##
+	'{}tuhatta{}', # 4##
+	'{}tuhatta{}', # 5##
+	'{}tuhatta{}', # 6##
+	'{}tuhatta{}', # 7##
+	'{}tuhatta{}', # 8##
+	'{}tuhatta{}', # 9##
+]
+
 oneTen = 'kymmenen'
 
 def generateTens(xx, x):
@@ -69,4 +82,4 @@ for xxx in range(0, 10):
 	for xx in range(0, 10):
 		for x in range(0, 10):
 			result = generateHundreds(xxx, xx, x)
-			print('{}{}{}: {}'.format(xxx, xx, x, result))
+			print('{}\t{}{}{}'.format(result, xxx, xx, x))
