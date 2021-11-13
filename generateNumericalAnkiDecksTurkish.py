@@ -61,4 +61,4 @@ def get1000(iv, iii, ii, i, isNoZero=False):
 for x in range(10000):
 	xStr = '{:04d}'.format(x)
 	result = get1000(int(xStr[0]), int(xStr[1]), int(xStr[2]), int(xStr[3]))
-	print('{}\t{:04d}'.format(result, x))
+	print('{}\t{}'.format(result, x))

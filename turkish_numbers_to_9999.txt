@@ -1,1003 +1,1003 @@
-sıfır	0000
-bir	0001
-iki	0002
-üç	0003
-dört	0004
-beş	0005
-altı	0006
-yedi	0007
-sekiz	0008
-dokuz	0009
-on	0010
-on bir	0011
-on iki	0012
-on üç	0013
-on dört	0014
-on beş	0015
-on altı	0016
-on yedi	0017
-on sekiz	0018
-on dokuz	0019
-yirmi	0020
-yirmi bir	0021
-yirmi iki	0022
-yirmi üç	0023
-yirmi dört	0024
-yirmi beş	0025
-yirmi altı	0026
-yirmi yedi	0027
-yirmi sekiz	0028
-yirmi dokuz	0029
-otuz	0030
-otuz bir	0031
-otuz iki	0032
-otuz üç	0033
-otuz dört	0034
-otuz beş	0035
-otuz altı	0036
-otuz yedi	0037
-otuz sekiz	0038
-otuz dokuz	0039
-kırk	0040
-kırk bir	0041
-kırk iki	0042
-kırk üç	0043
-kırk dört	0044
-kırk beş	0045
-kırk altı	0046
-kırk yedi	0047
-kırk sekiz	0048
-kırk dokuz	0049
-elli	0050
-elli bir	0051
-elli iki	0052
-elli üç	0053
-elli dört	0054
-elli beş	0055
-elli altı	0056
-elli yedi	0057
-elli sekiz	0058
-elli dokuz	0059
-altmış	0060
-altmış bir	0061
-altmış iki	0062
-altmış üç	0063
-altmış dört	0064
-altmış beş	0065
-altmış altı	0066
-altmış yedi	0067
-altmış sekiz	0068
-altmış dokuz	0069
-yetmiş	0070
-yetmiş bir	0071
-yetmiş iki	0072
-yetmiş üç	0073
-yetmiş dört	0074
-yetmiş beş	0075
-yetmiş altı	0076
-yetmiş yedi	0077
-yetmiş sekiz	0078
-yetmiş dokuz	0079
-seksen	0080
-seksen bir	0081
-seksen iki	0082
-seksen üç	0083
-seksen dört	0084
-seksen beş	0085
-seksen altı	0086
-seksen yedi	0087
-seksen sekiz	0088
-seksen dokuz	0089
-doksan	0090
-doksan bir	0091
-doksan iki	0092
-doksan üç	0093
-doksan dört	0094
-doksan beş	0095
-doksan altı	0096
-doksan yedi	0097
-doksan sekiz	0098
-doksan dokuz	0099
-yüz 	0100
-yüz bir	0101
-yüz iki	0102
-yüz üç	0103
-yüz dört	0104
-yüz beş	0105
-yüz altı	0106
-yüz yedi	0107
-yüz sekiz	0108
-yüz dokuz	0109
-yüz on	0110
-yüz on bir	0111
-yüz on iki	0112
-yüz on üç	0113
-yüz on dört	0114
-yüz on beş	0115
-yüz on altı	0116
-yüz on yedi	0117
-yüz on sekiz	0118
-yüz on dokuz	0119
-yüz yirmi	0120
-yüz yirmi bir	0121
-yüz yirmi iki	0122
-yüz yirmi üç	0123
-yüz yirmi dört	0124
-yüz yirmi beş	0125
-yüz yirmi altı	0126
-yüz yirmi yedi	0127
-yüz yirmi sekiz	0128
-yüz yirmi dokuz	0129
-yüz otuz	0130
-yüz otuz bir	0131
-yüz otuz iki	0132
-yüz otuz üç	0133
-yüz otuz dört	0134
-yüz otuz beş	0135
-yüz otuz altı	0136
-yüz otuz yedi	0137
-yüz otuz sekiz	0138
-yüz otuz dokuz	0139
-yüz kırk	0140
-yüz kırk bir	0141
-yüz kırk iki	0142
-yüz kırk üç	0143
-yüz kırk dört	0144
-yüz kırk beş	0145
-yüz kırk altı	0146
-yüz kırk yedi	0147
-yüz kırk sekiz	0148
-yüz kırk dokuz	0149
-yüz elli	0150
-yüz elli bir	0151
-yüz elli iki	0152
-yüz elli üç	0153
-yüz elli dört	0154
-yüz elli beş	0155
-yüz elli altı	0156
-yüz elli yedi	0157
-yüz elli sekiz	0158
-yüz elli dokuz	0159
-yüz altmış	0160
-yüz altmış bir	0161
-yüz altmış iki	0162
-yüz altmış üç	0163
-yüz altmış dört	0164
-yüz altmış beş	0165
-yüz altmış altı	0166
-yüz altmış yedi	0167
-yüz altmış sekiz	0168
-yüz altmış dokuz	0169
-yüz yetmiş	0170
-yüz yetmiş bir	0171
-yüz yetmiş iki	0172
-yüz yetmiş üç	0173
-yüz yetmiş dört	0174
-yüz yetmiş beş	0175
-yüz yetmiş altı	0176
-yüz yetmiş yedi	0177
-yüz yetmiş sekiz	0178
-yüz yetmiş dokuz	0179
-yüz seksen	0180
-yüz seksen bir	0181
-yüz seksen iki	0182
-yüz seksen üç	0183
-yüz seksen dört	0184
-yüz seksen beş	0185
-yüz seksen altı	0186
-yüz seksen yedi	0187
-yüz seksen sekiz	0188
-yüz seksen dokuz	0189
-yüz doksan	0190
-yüz doksan bir	0191
-yüz doksan iki	0192
-yüz doksan üç	0193
-yüz doksan dört	0194
-yüz doksan beş	0195
-yüz doksan altı	0196
-yüz doksan yedi	0197
-yüz doksan sekiz	0198
-yüz doksan dokuz	0199
-iki yüz 	0200
-iki yüz bir	0201
-iki yüz iki	0202
-iki yüz üç	0203
-iki yüz dört	0204
-iki yüz beş	0205
-iki yüz altı	0206
-iki yüz yedi	0207
-iki yüz sekiz	0208
-iki yüz dokuz	0209
-iki yüz on	0210
-iki yüz on bir	0211
-iki yüz on iki	0212
-iki yüz on üç	0213
-iki yüz on dört	0214
-iki yüz on beş	0215
-iki yüz on altı	0216
-iki yüz on yedi	0217
-iki yüz on sekiz	0218
-iki yüz on dokuz	0219
-iki yüz yirmi	0220
-iki yüz yirmi bir	0221
-iki yüz yirmi iki	0222
-iki yüz yirmi üç	0223
-iki yüz yirmi dört	0224
-iki yüz yirmi beş	0225
-iki yüz yirmi altı	0226
-iki yüz yirmi yedi	0227
-iki yüz yirmi sekiz	0228
-iki yüz yirmi dokuz	0229
-iki yüz otuz	0230
-iki yüz otuz bir	0231
-iki yüz otuz iki	0232
-iki yüz otuz üç	0233
-iki yüz otuz dört	0234
-iki yüz otuz beş	0235
-iki yüz otuz altı	0236
-iki yüz otuz yedi	0237
-iki yüz otuz sekiz	0238
-iki yüz otuz dokuz	0239
-iki yüz kırk	0240
-iki yüz kırk bir	0241
-iki yüz kırk iki	0242
-iki yüz kırk üç	0243
-iki yüz kırk dört	0244
-iki yüz kırk beş	0245
-iki yüz kırk altı	0246
-iki yüz kırk yedi	0247
-iki yüz kırk sekiz	0248
-iki yüz kırk dokuz	0249
-iki yüz elli	0250
-iki yüz elli bir	0251
-iki yüz elli iki	0252
-iki yüz elli üç	0253
-iki yüz elli dört	0254
-iki yüz elli beş	0255
-iki yüz elli altı	0256
-iki yüz elli yedi	0257
-iki yüz elli sekiz	0258
-iki yüz elli dokuz	0259
-iki yüz altmış	0260
-iki yüz altmış bir	0261
-iki yüz altmış iki	0262
-iki yüz altmış üç	0263
-iki yüz altmış dört	0264
-iki yüz altmış beş	0265
-iki yüz altmış altı	0266
-iki yüz altmış yedi	0267
-iki yüz altmış sekiz	0268
-iki yüz altmış dokuz	0269
-iki yüz yetmiş	0270
-iki yüz yetmiş bir	0271
-iki yüz yetmiş iki	0272
-iki yüz yetmiş üç	0273
-iki yüz yetmiş dört	0274
-iki yüz yetmiş beş	0275
-iki yüz yetmiş altı	0276
-iki yüz yetmiş yedi	0277
-iki yüz yetmiş sekiz	0278
-iki yüz yetmiş dokuz	0279
-iki yüz seksen	0280
-iki yüz seksen bir	0281
-iki yüz seksen iki	0282
-iki yüz seksen üç	0283
-iki yüz seksen dört	0284
-iki yüz seksen beş	0285
-iki yüz seksen altı	0286
-iki yüz seksen yedi	0287
-iki yüz seksen sekiz	0288
-iki yüz seksen dokuz	0289
-iki yüz doksan	0290
-iki yüz doksan bir	0291
-iki yüz doksan iki	0292
-iki yüz doksan üç	0293
-iki yüz doksan dört	0294
-iki yüz doksan beş	0295
-iki yüz doksan altı	0296
-iki yüz doksan yedi	0297
-iki yüz doksan sekiz	0298
-iki yüz doksan dokuz	0299
-üç yüz 	0300
-üç yüz bir	0301
-üç yüz iki	0302
-üç yüz üç	0303
-üç yüz dört	0304
-üç yüz beş	0305
-üç yüz altı	0306
-üç yüz yedi	0307
-üç yüz sekiz	0308
-üç yüz dokuz	0309
-üç yüz on	0310
-üç yüz on bir	0311
-üç yüz on iki	0312
-üç yüz on üç	0313
-üç yüz on dört	0314
-üç yüz on beş	0315
-üç yüz on altı	0316
-üç yüz on yedi	0317
-üç yüz on sekiz	0318
-üç yüz on dokuz	0319
-üç yüz yirmi	0320
-üç yüz yirmi bir	0321
-üç yüz yirmi iki	0322
-üç yüz yirmi üç	0323
-üç yüz yirmi dört	0324
-üç yüz yirmi beş	0325
-üç yüz yirmi altı	0326
-üç yüz yirmi yedi	0327
-üç yüz yirmi sekiz	0328
-üç yüz yirmi dokuz	0329
-üç yüz otuz	0330
-üç yüz otuz bir	0331
-üç yüz otuz iki	0332
-üç yüz otuz üç	0333
-üç yüz otuz dört	0334
-üç yüz otuz beş	0335
-üç yüz otuz altı	0336
-üç yüz otuz yedi	0337
-üç yüz otuz sekiz	0338
-üç yüz otuz dokuz	0339
-üç yüz kırk	0340
-üç yüz kırk bir	0341
-üç yüz kırk iki	0342
-üç yüz kırk üç	0343
-üç yüz kırk dört	0344
-üç yüz kırk beş	0345
-üç yüz kırk altı	0346
-üç yüz kırk yedi	0347
-üç yüz kırk sekiz	0348
-üç yüz kırk dokuz	0349
-üç yüz elli	0350
-üç yüz elli bir	0351
-üç yüz elli iki	0352
-üç yüz elli üç	0353
-üç yüz elli dört	0354
-üç yüz elli beş	0355
-üç yüz elli altı	0356
-üç yüz elli yedi	0357
-üç yüz elli sekiz	0358
-üç yüz elli dokuz	0359
-üç yüz altmış	0360
-üç yüz altmış bir	0361
-üç yüz altmış iki	0362
-üç yüz altmış üç	0363
-üç yüz altmış dört	0364
-üç yüz altmış beş	0365
-üç yüz altmış altı	0366
-üç yüz altmış yedi	0367
-üç yüz altmış sekiz	0368
-üç yüz altmış dokuz	0369
-üç yüz yetmiş	0370
-üç yüz yetmiş bir	0371
-üç yüz yetmiş iki	0372
-üç yüz yetmiş üç	0373
-üç yüz yetmiş dört	0374
-üç yüz yetmiş beş	0375
-üç yüz yetmiş altı	0376
-üç yüz yetmiş yedi	0377
-üç yüz yetmiş sekiz	0378
-üç yüz yetmiş dokuz	0379
-üç yüz seksen	0380
-üç yüz seksen bir	0381
-üç yüz seksen iki	0382
-üç yüz seksen üç	0383
-üç yüz seksen dört	0384
-üç yüz seksen beş	0385
-üç yüz seksen altı	0386
-üç yüz seksen yedi	0387
-üç yüz seksen sekiz	0388
-üç yüz seksen dokuz	0389
-üç yüz doksan	0390
-üç yüz doksan bir	0391
-üç yüz doksan iki	0392
-üç yüz doksan üç	0393
-üç yüz doksan dört	0394
-üç yüz doksan beş	0395
-üç yüz doksan altı	0396
-üç yüz doksan yedi	0397
-üç yüz doksan sekiz	0398
-üç yüz doksan dokuz	0399
-dört yüz 	0400
-dört yüz bir	0401
-dört yüz iki	0402
-dört yüz üç	0403
-dört yüz dört	0404
-dört yüz beş	0405
-dört yüz altı	0406
-dört yüz yedi	0407
-dört yüz sekiz	0408
-dört yüz dokuz	0409
-dört yüz on	0410
-dört yüz on bir	0411
-dört yüz on iki	0412
-dört yüz on üç	0413
-dört yüz on dört	0414
-dört yüz on beş	0415
-dört yüz on altı	0416
-dört yüz on yedi	0417
-dört yüz on sekiz	0418
-dört yüz on dokuz	0419
-dört yüz yirmi	0420
-dört yüz yirmi bir	0421
-dört yüz yirmi iki	0422
-dört yüz yirmi üç	0423
-dört yüz yirmi dört	0424
-dört yüz yirmi beş	0425
-dört yüz yirmi altı	0426
-dört yüz yirmi yedi	0427
-dört yüz yirmi sekiz	0428
-dört yüz yirmi dokuz	0429
-dört yüz otuz	0430
-dört yüz otuz bir	0431
-dört yüz otuz iki	0432
-dört yüz otuz üç	0433
-dört yüz otuz dört	0434
-dört yüz otuz beş	0435
-dört yüz otuz altı	0436
-dört yüz otuz yedi	0437
-dört yüz otuz sekiz	0438
-dört yüz otuz dokuz	0439
-dört yüz kırk	0440
-dört yüz kırk bir	0441
-dört yüz kırk iki	0442
-dört yüz kırk üç	0443
-dört yüz kırk dört	0444
-dört yüz kırk beş	0445
-dört yüz kırk altı	0446
-dört yüz kırk yedi	0447
-dört yüz kırk sekiz	0448
-dört yüz kırk dokuz	0449
-dört yüz elli	0450
-dört yüz elli bir	0451
-dört yüz elli iki	0452
-dört yüz elli üç	0453
-dört yüz elli dört	0454
-dört yüz elli beş	0455
-dört yüz elli altı	0456
-dört yüz elli yedi	0457
-dört yüz elli sekiz	0458
-dört yüz elli dokuz	0459
-dört yüz altmış	0460
-dört yüz altmış bir	0461
-dört yüz altmış iki	0462
-dört yüz altmış üç	0463
-dört yüz altmış dört	0464
-dört yüz altmış beş	0465
-dört yüz altmış altı	0466
-dört yüz altmış yedi	0467
-dört yüz altmış sekiz	0468
-dört yüz altmış dokuz	0469
-dört yüz yetmiş	0470
-dört yüz yetmiş bir	0471
-dört yüz yetmiş iki	0472
-dört yüz yetmiş üç	0473
-dört yüz yetmiş dört	0474
-dört yüz yetmiş beş	0475
-dört yüz yetmiş altı	0476
-dört yüz yetmiş yedi	0477
-dört yüz yetmiş sekiz	0478
-dört yüz yetmiş dokuz	0479
-dört yüz seksen	0480
-dört yüz seksen bir	0481
-dört yüz seksen iki	0482
-dört yüz seksen üç	0483
-dört yüz seksen dört	0484
-dört yüz seksen beş	0485
-dört yüz seksen altı	0486
-dört yüz seksen yedi	0487
-dört yüz seksen sekiz	0488
-dört yüz seksen dokuz	0489
-dört yüz doksan	0490
-dört yüz doksan bir	0491
-dört yüz doksan iki	0492
-dört yüz doksan üç	0493
-dört yüz doksan dört	0494
-dört yüz doksan beş	0495
-dört yüz doksan altı	0496
-dört yüz doksan yedi	0497
-dört yüz doksan sekiz	0498
-dört yüz doksan dokuz	0499
-beş yüz 	0500
-beş yüz bir	0501
-beş yüz iki	0502
-beş yüz üç	0503
-beş yüz dört	0504
-beş yüz beş	0505
-beş yüz altı	0506
-beş yüz yedi	0507
-beş yüz sekiz	0508
-beş yüz dokuz	0509
-beş yüz on	0510
-beş yüz on bir	0511
-beş yüz on iki	0512
-beş yüz on üç	0513
-beş yüz on dört	0514
-beş yüz on beş	0515
-beş yüz on altı	0516
-beş yüz on yedi	0517
-beş yüz on sekiz	0518
-beş yüz on dokuz	0519
-beş yüz yirmi	0520
-beş yüz yirmi bir	0521
-beş yüz yirmi iki	0522
-beş yüz yirmi üç	0523
-beş yüz yirmi dört	0524
-beş yüz yirmi beş	0525
-beş yüz yirmi altı	0526
-beş yüz yirmi yedi	0527
-beş yüz yirmi sekiz	0528
-beş yüz yirmi dokuz	0529
-beş yüz otuz	0530
-beş yüz otuz bir	0531
-beş yüz otuz iki	0532
-beş yüz otuz üç	0533
-beş yüz otuz dört	0534
-beş yüz otuz beş	0535
-beş yüz otuz altı	0536
-beş yüz otuz yedi	0537
-beş yüz otuz sekiz	0538
-beş yüz otuz dokuz	0539
-beş yüz kırk	0540
-beş yüz kırk bir	0541
-beş yüz kırk iki	0542
-beş yüz kırk üç	0543
-beş yüz kırk dört	0544
-beş yüz kırk beş	0545
-beş yüz kırk altı	0546
-beş yüz kırk yedi	0547
-beş yüz kırk sekiz	0548
-beş yüz kırk dokuz	0549
-beş yüz elli	0550
-beş yüz elli bir	0551
-beş yüz elli iki	0552
-beş yüz elli üç	0553
-beş yüz elli dört	0554
-beş yüz elli beş	0555
-beş yüz elli altı	0556
-beş yüz elli yedi	0557
-beş yüz elli sekiz	0558
-beş yüz elli dokuz	0559
-beş yüz altmış	0560
-beş yüz altmış bir	0561
-beş yüz altmış iki	0562
-beş yüz altmış üç	0563
-beş yüz altmış dört	0564
-beş yüz altmış beş	0565
-beş yüz altmış altı	0566
-beş yüz altmış yedi	0567
-beş yüz altmış sekiz	0568
-beş yüz altmış dokuz	0569
-beş yüz yetmiş	0570
-beş yüz yetmiş bir	0571
-beş yüz yetmiş iki	0572
-beş yüz yetmiş üç	0573
-beş yüz yetmiş dört	0574
-beş yüz yetmiş beş	0575
-beş yüz yetmiş altı	0576
-beş yüz yetmiş yedi	0577
-beş yüz yetmiş sekiz	0578
-beş yüz yetmiş dokuz	0579
-beş yüz seksen	0580
-beş yüz seksen bir	0581
-beş yüz seksen iki	0582
-beş yüz seksen üç	0583
-beş yüz seksen dört	0584
-beş yüz seksen beş	0585
-beş yüz seksen altı	0586
-beş yüz seksen yedi	0587
-beş yüz seksen sekiz	0588
-beş yüz seksen dokuz	0589
-beş yüz doksan	0590
-beş yüz doksan bir	0591
-beş yüz doksan iki	0592
-beş yüz doksan üç	0593
-beş yüz doksan dört	0594
-beş yüz doksan beş	0595
-beş yüz doksan altı	0596
-beş yüz doksan yedi	0597
-beş yüz doksan sekiz	0598
-beş yüz doksan dokuz	0599
-altı yüz 	0600
-altı yüz bir	0601
-altı yüz iki	0602
-altı yüz üç	0603
-altı yüz dört	0604
-altı yüz beş	0605
-altı yüz altı	0606
-altı yüz yedi	0607
-altı yüz sekiz	0608
-altı yüz dokuz	0609
-altı yüz on	0610
-altı yüz on bir	0611
-altı yüz on iki	0612
-altı yüz on üç	0613
-altı yüz on dört	0614
-altı yüz on beş	0615
-altı yüz on altı	0616
-altı yüz on yedi	0617
-altı yüz on sekiz	0618
-altı yüz on dokuz	0619
-altı yüz yirmi	0620
-altı yüz yirmi bir	0621
-altı yüz yirmi iki	0622
-altı yüz yirmi üç	0623
-altı yüz yirmi dört	0624
-altı yüz yirmi beş	0625
-altı yüz yirmi altı	0626
-altı yüz yirmi yedi	0627
-altı yüz yirmi sekiz	0628
-altı yüz yirmi dokuz	0629
-altı yüz otuz	0630
-altı yüz otuz bir	0631
-altı yüz otuz iki	0632
-altı yüz otuz üç	0633
-altı yüz otuz dört	0634
-altı yüz otuz beş	0635
-altı yüz otuz altı	0636
-altı yüz otuz yedi	0637
-altı yüz otuz sekiz	0638
-altı yüz otuz dokuz	0639
-altı yüz kırk	0640
-altı yüz kırk bir	0641
-altı yüz kırk iki	0642
-altı yüz kırk üç	0643
-altı yüz kırk dört	0644
-altı yüz kırk beş	0645
-altı yüz kırk altı	0646
-altı yüz kırk yedi	0647
-altı yüz kırk sekiz	0648
-altı yüz kırk dokuz	0649
-altı yüz elli	0650
-altı yüz elli bir	0651
-altı yüz elli iki	0652
-altı yüz elli üç	0653
-altı yüz elli dört	0654
-altı yüz elli beş	0655
-altı yüz elli altı	0656
-altı yüz elli yedi	0657
-altı yüz elli sekiz	0658
-altı yüz elli dokuz	0659
-altı yüz altmış	0660
-altı yüz altmış bir	0661
-altı yüz altmış iki	0662
-altı yüz altmış üç	0663
-altı yüz altmış dört	0664
-altı yüz altmış beş	0665
-altı yüz altmış altı	0666
-altı yüz altmış yedi	0667
-altı yüz altmış sekiz	0668
-altı yüz altmış dokuz	0669
-altı yüz yetmiş	0670
-altı yüz yetmiş bir	0671
-altı yüz yetmiş iki	0672
-altı yüz yetmiş üç	0673
-altı yüz yetmiş dört	0674
-altı yüz yetmiş beş	0675
-altı yüz yetmiş altı	0676
-altı yüz yetmiş yedi	0677
-altı yüz yetmiş sekiz	0678
-altı yüz yetmiş dokuz	0679
-altı yüz seksen	0680
-altı yüz seksen bir	0681
-altı yüz seksen iki	0682
-altı yüz seksen üç	0683
-altı yüz seksen dört	0684
-altı yüz seksen beş	0685
-altı yüz seksen altı	0686
-altı yüz seksen yedi	0687
-altı yüz seksen sekiz	0688
-altı yüz seksen dokuz	0689
-altı yüz doksan	0690
-altı yüz doksan bir	0691
-altı yüz doksan iki	0692
-altı yüz doksan üç	0693
-altı yüz doksan dört	0694
-altı yüz doksan beş	0695
-altı yüz doksan altı	0696
-altı yüz doksan yedi	0697
-altı yüz doksan sekiz	0698
-altı yüz doksan dokuz	0699
-yedi yüz 	0700
-yedi yüz bir	0701
-yedi yüz iki	0702
-yedi yüz üç	0703
-yedi yüz dört	0704
-yedi yüz beş	0705
-yedi yüz altı	0706
-yedi yüz yedi	0707
-yedi yüz sekiz	0708
-yedi yüz dokuz	0709
-yedi yüz on	0710
-yedi yüz on bir	0711
-yedi yüz on iki	0712
-yedi yüz on üç	0713
-yedi yüz on dört	0714
-yedi yüz on beş	0715
-yedi yüz on altı	0716
-yedi yüz on yedi	0717
-yedi yüz on sekiz	0718
-yedi yüz on dokuz	0719
-yedi yüz yirmi	0720
-yedi yüz yirmi bir	0721
-yedi yüz yirmi iki	0722
-yedi yüz yirmi üç	0723
-yedi yüz yirmi dört	0724
-yedi yüz yirmi beş	0725
-yedi yüz yirmi altı	0726
-yedi yüz yirmi yedi	0727
-yedi yüz yirmi sekiz	0728
-yedi yüz yirmi dokuz	0729
-yedi yüz otuz	0730
-yedi yüz otuz bir	0731
-yedi yüz otuz iki	0732
-yedi yüz otuz üç	0733
-yedi yüz otuz dört	0734
-yedi yüz otuz beş	0735
-yedi yüz otuz altı	0736
-yedi yüz otuz yedi	0737
-yedi yüz otuz sekiz	0738
-yedi yüz otuz dokuz	0739
-yedi yüz kırk	0740
-yedi yüz kırk bir	0741
-yedi yüz kırk iki	0742
-yedi yüz kırk üç	0743
-yedi yüz kırk dört	0744
-yedi yüz kırk beş	0745
-yedi yüz kırk altı	0746
-yedi yüz kırk yedi	0747
-yedi yüz kırk sekiz	0748
-yedi yüz kırk dokuz	0749
-yedi yüz elli	0750
-yedi yüz elli bir	0751
-yedi yüz elli iki	0752
-yedi yüz elli üç	0753
-yedi yüz elli dört	0754
-yedi yüz elli beş	0755
-yedi yüz elli altı	0756
-yedi yüz elli yedi	0757
-yedi yüz elli sekiz	0758
-yedi yüz elli dokuz	0759
-yedi yüz altmış	0760
-yedi yüz altmış bir	0761
-yedi yüz altmış iki	0762
-yedi yüz altmış üç	0763
-yedi yüz altmış dört	0764
-yedi yüz altmış beş	0765
-yedi yüz altmış altı	0766
-yedi yüz altmış yedi	0767
-yedi yüz altmış sekiz	0768
-yedi yüz altmış dokuz	0769
-yedi yüz yetmiş	0770
-yedi yüz yetmiş bir	0771
-yedi yüz yetmiş iki	0772
-yedi yüz yetmiş üç	0773
-yedi yüz yetmiş dört	0774
-yedi yüz yetmiş beş	0775
-yedi yüz yetmiş altı	0776
-yedi yüz yetmiş yedi	0777
-yedi yüz yetmiş sekiz	0778
-yedi yüz yetmiş dokuz	0779
-yedi yüz seksen	0780
-yedi yüz seksen bir	0781
-yedi yüz seksen iki	0782
-yedi yüz seksen üç	0783
-yedi yüz seksen dört	0784
-yedi yüz seksen beş	0785
-yedi yüz seksen altı	0786
-yedi yüz seksen yedi	0787
-yedi yüz seksen sekiz	0788
-yedi yüz seksen dokuz	0789
-yedi yüz doksan	0790
-yedi yüz doksan bir	0791
-yedi yüz doksan iki	0792
-yedi yüz doksan üç	0793
-yedi yüz doksan dört	0794
-yedi yüz doksan beş	0795
-yedi yüz doksan altı	0796
-yedi yüz doksan yedi	0797
-yedi yüz doksan sekiz	0798
-yedi yüz doksan dokuz	0799
-sekiz yüz 	0800
-sekiz yüz bir	0801
-sekiz yüz iki	0802
-sekiz yüz üç	0803
-sekiz yüz dört	0804
-sekiz yüz beş	0805
-sekiz yüz altı	0806
-sekiz yüz yedi	0807
-sekiz yüz sekiz	0808
-sekiz yüz dokuz	0809
-sekiz yüz on	0810
-sekiz yüz on bir	0811
-sekiz yüz on iki	0812
-sekiz yüz on üç	0813
-sekiz yüz on dört	0814
-sekiz yüz on beş	0815
-sekiz yüz on altı	0816
-sekiz yüz on yedi	0817
-sekiz yüz on sekiz	0818
-sekiz yüz on dokuz	0819
-sekiz yüz yirmi	0820
-sekiz yüz yirmi bir	0821
-sekiz yüz yirmi iki	0822
-sekiz yüz yirmi üç	0823
-sekiz yüz yirmi dört	0824
-sekiz yüz yirmi beş	0825
-sekiz yüz yirmi altı	0826
-sekiz yüz yirmi yedi	0827
-sekiz yüz yirmi sekiz	0828
-sekiz yüz yirmi dokuz	0829
-sekiz yüz otuz	0830
-sekiz yüz otuz bir	0831
-sekiz yüz otuz iki	0832
-sekiz yüz otuz üç	0833
-sekiz yüz otuz dört	0834
-sekiz yüz otuz beş	0835
-sekiz yüz otuz altı	0836
-sekiz yüz otuz yedi	0837
-sekiz yüz otuz sekiz	0838
-sekiz yüz otuz dokuz	0839
-sekiz yüz kırk	0840
-sekiz yüz kırk bir	0841
-sekiz yüz kırk iki	0842
-sekiz yüz kırk üç	0843
-sekiz yüz kırk dört	0844
-sekiz yüz kırk beş	0845
-sekiz yüz kırk altı	0846
-sekiz yüz kırk yedi	0847
-sekiz yüz kırk sekiz	0848
-sekiz yüz kırk dokuz	0849
-sekiz yüz elli	0850
-sekiz yüz elli bir	0851
-sekiz yüz elli iki	0852
-sekiz yüz elli üç	0853
-sekiz yüz elli dört	0854
-sekiz yüz elli beş	0855
-sekiz yüz elli altı	0856
-sekiz yüz elli yedi	0857
-sekiz yüz elli sekiz	0858
-sekiz yüz elli dokuz	0859
-sekiz yüz altmış	0860
-sekiz yüz altmış bir	0861
-sekiz yüz altmış iki	0862
-sekiz yüz altmış üç	0863
-sekiz yüz altmış dört	0864
-sekiz yüz altmış beş	0865
-sekiz yüz altmış altı	0866
-sekiz yüz altmış yedi	0867
-sekiz yüz altmış sekiz	0868
-sekiz yüz altmış dokuz	0869
-sekiz yüz yetmiş	0870
-sekiz yüz yetmiş bir	0871
-sekiz yüz yetmiş iki	0872
-sekiz yüz yetmiş üç	0873
-sekiz yüz yetmiş dört	0874
-sekiz yüz yetmiş beş	0875
-sekiz yüz yetmiş altı	0876
-sekiz yüz yetmiş yedi	0877
-sekiz yüz yetmiş sekiz	0878
-sekiz yüz yetmiş dokuz	0879
-sekiz yüz seksen	0880
-sekiz yüz seksen bir	0881
-sekiz yüz seksen iki	0882
-sekiz yüz seksen üç	0883
-sekiz yüz seksen dört	0884
-sekiz yüz seksen beş	0885
-sekiz yüz seksen altı	0886
-sekiz yüz seksen yedi	0887
-sekiz yüz seksen sekiz	0888
-sekiz yüz seksen dokuz	0889
-sekiz yüz doksan	0890
-sekiz yüz doksan bir	0891
-sekiz yüz doksan iki	0892
-sekiz yüz doksan üç	0893
-sekiz yüz doksan dört	0894
-sekiz yüz doksan beş	0895
-sekiz yüz doksan altı	0896
-sekiz yüz doksan yedi	0897
-sekiz yüz doksan sekiz	0898
-sekiz yüz doksan dokuz	0899
-dokuz yüz 	0900
-dokuz yüz bir	0901
-dokuz yüz iki	0902
-dokuz yüz üç	0903
-dokuz yüz dört	0904
-dokuz yüz beş	0905
-dokuz yüz altı	0906
-dokuz yüz yedi	0907
-dokuz yüz sekiz	0908
-dokuz yüz dokuz	0909
-dokuz yüz on	0910
-dokuz yüz on bir	0911
-dokuz yüz on iki	0912
-dokuz yüz on üç	0913
-dokuz yüz on dört	0914
-dokuz yüz on beş	0915
-dokuz yüz on altı	0916
-dokuz yüz on yedi	0917
-dokuz yüz on sekiz	0918
-dokuz yüz on dokuz	0919
-dokuz yüz yirmi	0920
-dokuz yüz yirmi bir	0921
-dokuz yüz yirmi iki	0922
-dokuz yüz yirmi üç	0923
-dokuz yüz yirmi dört	0924
-dokuz yüz yirmi beş	0925
-dokuz yüz yirmi altı	0926
-dokuz yüz yirmi yedi	0927
-dokuz yüz yirmi sekiz	0928
-dokuz yüz yirmi dokuz	0929
-dokuz yüz otuz	0930
-dokuz yüz otuz bir	0931
-dokuz yüz otuz iki	0932
-dokuz yüz otuz üç	0933
-dokuz yüz otuz dört	0934
-dokuz yüz otuz beş	0935
-dokuz yüz otuz altı	0936
-dokuz yüz otuz yedi	0937
-dokuz yüz otuz sekiz	0938
-dokuz yüz otuz dokuz	0939
-dokuz yüz kırk	0940
-dokuz yüz kırk bir	0941
-dokuz yüz kırk iki	0942
-dokuz yüz kırk üç	0943
-dokuz yüz kırk dört	0944
-dokuz yüz kırk beş	0945
-dokuz yüz kırk altı	0946
-dokuz yüz kırk yedi	0947
-dokuz yüz kırk sekiz	0948
-dokuz yüz kırk dokuz	0949
-dokuz yüz elli	0950
-dokuz yüz elli bir	0951
-dokuz yüz elli iki	0952
-dokuz yüz elli üç	0953
-dokuz yüz elli dört	0954
-dokuz yüz elli beş	0955
-dokuz yüz elli altı	0956
-dokuz yüz elli yedi	0957
-dokuz yüz elli sekiz	0958
-dokuz yüz elli dokuz	0959
-dokuz yüz altmış	0960
-dokuz yüz altmış bir	0961
-dokuz yüz altmış iki	0962
-dokuz yüz altmış üç	0963
-dokuz yüz altmış dört	0964
-dokuz yüz altmış beş	0965
-dokuz yüz altmış altı	0966
-dokuz yüz altmış yedi	0967
-dokuz yüz altmış sekiz	0968
-dokuz yüz altmış dokuz	0969
-dokuz yüz yetmiş	0970
-dokuz yüz yetmiş bir	0971
-dokuz yüz yetmiş iki	0972
-dokuz yüz yetmiş üç	0973
-dokuz yüz yetmiş dört	0974
-dokuz yüz yetmiş beş	0975
-dokuz yüz yetmiş altı	0976
-dokuz yüz yetmiş yedi	0977
-dokuz yüz yetmiş sekiz	0978
-dokuz yüz yetmiş dokuz	0979
-dokuz yüz seksen	0980
-dokuz yüz seksen bir	0981
-dokuz yüz seksen iki	0982
-dokuz yüz seksen üç	0983
-dokuz yüz seksen dört	0984
-dokuz yüz seksen beş	0985
-dokuz yüz seksen altı	0986
-dokuz yüz seksen yedi	0987
-dokuz yüz seksen sekiz	0988
-dokuz yüz seksen dokuz	0989
-dokuz yüz doksan	0990
-dokuz yüz doksan bir	0991
-dokuz yüz doksan iki	0992
-dokuz yüz doksan üç	0993
-dokuz yüz doksan dört	0994
-dokuz yüz doksan beş	0995
-dokuz yüz doksan altı	0996
-dokuz yüz doksan yedi	0997
-dokuz yüz doksan sekiz	0998
-dokuz yüz doksan dokuz	0999
+sıfır	0
+bir	1
+iki	2
+üç	3
+dört	4
+beş	5
+altı	6
+yedi	7
+sekiz	8
+dokuz	9
+on	10
+on bir	11
+on iki	12
+on üç	13
+on dört	14
+on beş	15
+on altı	16
+on yedi	17
+on sekiz	18
+on dokuz	19
+yirmi	20
+yirmi bir	21
+yirmi iki	22
+yirmi üç	23
+yirmi dört	24
+yirmi beş	25
+yirmi altı	26
+yirmi yedi	27
+yirmi sekiz	28
+yirmi dokuz	29
+otuz	30
+otuz bir	31
+otuz iki	32
+otuz üç	33
+otuz dört	34
+otuz beş	35
+otuz altı	36
+otuz yedi	37
+otuz sekiz	38
+otuz dokuz	39
+kırk	40
+kırk bir	41
+kırk iki	42
+kırk üç	43
+kırk dört	44
+kırk beş	45
+kırk altı	46
+kırk yedi	47
+kırk sekiz	48
+kırk dokuz	49
+elli	50
+elli bir	51
+elli iki	52
+elli üç	53
+elli dört	54
+elli beş	55
+elli altı	56
+elli yedi	57
+elli sekiz	58
+elli dokuz	59
+altmış	60
+altmış bir	61
+altmış iki	62
+altmış üç	63
+altmış dört	64
+altmış beş	65
+altmış altı	66
+altmış yedi	67
+altmış sekiz	68
+altmış dokuz	69
+yetmiş	70
+yetmiş bir	71
+yetmiş iki	72
+yetmiş üç	73
+yetmiş dört	74
+yetmiş beş	75
+yetmiş altı	76
+yetmiş yedi	77
+yetmiş sekiz	78
+yetmiş dokuz	79
+seksen	80
+seksen bir	81
+seksen iki	82
+seksen üç	83
+seksen dört	84
+seksen beş	85
+seksen altı	86
+seksen yedi	87
+seksen sekiz	88
+seksen dokuz	89
+doksan	90
+doksan bir	91
+doksan iki	92
+doksan üç	93
+doksan dört	94
+doksan beş	95
+doksan altı	96
+doksan yedi	97
+doksan sekiz	98
+doksan dokuz	99
+yüz 	100
+yüz bir	101
+yüz iki	102
+yüz üç	103
+yüz dört	104
+yüz beş	105
+yüz altı	106
+yüz yedi	107
+yüz sekiz	108
+yüz dokuz	109
+yüz on	110
+yüz on bir	111
+yüz on iki	112
+yüz on üç	113
+yüz on dört	114
+yüz on beş	115
+yüz on altı	116
+yüz on yedi	117
+yüz on sekiz	118
+yüz on dokuz	119
+yüz yirmi	120
+yüz yirmi bir	121
+yüz yirmi iki	122
+yüz yirmi üç	123
+yüz yirmi dört	124
+yüz yirmi beş	125
+yüz yirmi altı	126
+yüz yirmi yedi	127
+yüz yirmi sekiz	128
+yüz yirmi dokuz	129
+yüz otuz	130
+yüz otuz bir	131
+yüz otuz iki	132
+yüz otuz üç	133
+yüz otuz dört	134
+yüz otuz beş	135
+yüz otuz altı	136
+yüz otuz yedi	137
+yüz otuz sekiz	138
+yüz otuz dokuz	139
+yüz kırk	140
+yüz kırk bir	141
+yüz kırk iki	142
+yüz kırk üç	143
+yüz kırk dört	144
+yüz kırk beş	145
+yüz kırk altı	146
+yüz kırk yedi	147
+yüz kırk sekiz	148
+yüz kırk dokuz	149
+yüz elli	150
+yüz elli bir	151
+yüz elli iki	152
+yüz elli üç	153
+yüz elli dört	154
+yüz elli beş	155
+yüz elli altı	156
+yüz elli yedi	157
+yüz elli sekiz	158
+yüz elli dokuz	159
+yüz altmış	160
+yüz altmış bir	161
+yüz altmış iki	162
+yüz altmış üç	163
+yüz altmış dört	164
+yüz altmış beş	165
+yüz altmış altı	166
+yüz altmış yedi	167
+yüz altmış sekiz	168
+yüz altmış dokuz	169
+yüz yetmiş	170
+yüz yetmiş bir	171
+yüz yetmiş iki	172
+yüz yetmiş üç	173
+yüz yetmiş dört	174
+yüz yetmiş beş	175
+yüz yetmiş altı	176
+yüz yetmiş yedi	177
+yüz yetmiş sekiz	178
+yüz yetmiş dokuz	179
+yüz seksen	180
+yüz seksen bir	181
+yüz seksen iki	182
+yüz seksen üç	183
+yüz seksen dört	184
+yüz seksen beş	185
+yüz seksen altı	186
+yüz seksen yedi	187
+yüz seksen sekiz	188
+yüz seksen dokuz	189
+yüz doksan	190
+yüz doksan bir	191
+yüz doksan iki	192
+yüz doksan üç	193
+yüz doksan dört	194
+yüz doksan beş	195
+yüz doksan altı	196
+yüz doksan yedi	197
+yüz doksan sekiz	198
+yüz doksan dokuz	199
+iki yüz 	200
+iki yüz bir	201
+iki yüz iki	202
+iki yüz üç	203
+iki yüz dört	204
+iki yüz beş	205
+iki yüz altı	206
+iki yüz yedi	207
+iki yüz sekiz	208
+iki yüz dokuz	209
+iki yüz on	210
+iki yüz on bir	211
+iki yüz on iki	212
+iki yüz on üç	213
+iki yüz on dört	214
+iki yüz on beş	215
+iki yüz on altı	216
+iki yüz on yedi	217
+iki yüz on sekiz	218
+iki yüz on dokuz	219
+iki yüz yirmi	220
+iki yüz yirmi bir	221
+iki yüz yirmi iki	222
+iki yüz yirmi üç	223
+iki yüz yirmi dört	224
+iki yüz yirmi beş	225
+iki yüz yirmi altı	226
+iki yüz yirmi yedi	227
+iki yüz yirmi sekiz	228
+iki yüz yirmi dokuz	229
+iki yüz otuz	230
+iki yüz otuz bir	231
+iki yüz otuz iki	232
+iki yüz otuz üç	233
+iki yüz otuz dört	234
+iki yüz otuz beş	235
+iki yüz otuz altı	236
+iki yüz otuz yedi	237
+iki yüz otuz sekiz	238
+iki yüz otuz dokuz	239
+iki yüz kırk	240
+iki yüz kırk bir	241
+iki yüz kırk iki	242
+iki yüz kırk üç	243
+iki yüz kırk dört	244
+iki yüz kırk beş	245
+iki yüz kırk altı	246
+iki yüz kırk yedi	247
+iki yüz kırk sekiz	248
+iki yüz kırk dokuz	249
+iki yüz elli	250
+iki yüz elli bir	251
+iki yüz elli iki	252
+iki yüz elli üç	253
+iki yüz elli dört	254
+iki yüz elli beş	255
+iki yüz elli altı	256
+iki yüz elli yedi	257
+iki yüz elli sekiz	258
+iki yüz elli dokuz	259
+iki yüz altmış	260
+iki yüz altmış bir	261
+iki yüz altmış iki	262
+iki yüz altmış üç	263
+iki yüz altmış dört	264
+iki yüz altmış beş	265
+iki yüz altmış altı	266
+iki yüz altmış yedi	267
+iki yüz altmış sekiz	268
+iki yüz altmış dokuz	269
+iki yüz yetmiş	270
+iki yüz yetmiş bir	271
+iki yüz yetmiş iki	272
+iki yüz yetmiş üç	273
+iki yüz yetmiş dört	274
+iki yüz yetmiş beş	275
+iki yüz yetmiş altı	276
+iki yüz yetmiş yedi	277
+iki yüz yetmiş sekiz	278
+iki yüz yetmiş dokuz	279
+iki yüz seksen	280
+iki yüz seksen bir	281
+iki yüz seksen iki	282
+iki yüz seksen üç	283
+iki yüz seksen dört	284
+iki yüz seksen beş	285
+iki yüz seksen altı	286
+iki yüz seksen yedi	287
+iki yüz seksen sekiz	288
+iki yüz seksen dokuz	289
+iki yüz doksan	290
+iki yüz doksan bir	291
+iki yüz doksan iki	292
+iki yüz doksan üç	293
+iki yüz doksan dört	294
+iki yüz doksan beş	295
+iki yüz doksan altı	296
+iki yüz doksan yedi	297
+iki yüz doksan sekiz	298
+iki yüz doksan dokuz	299
+üç yüz 	300
+üç yüz bir	301
+üç yüz iki	302
+üç yüz üç	303
+üç yüz dört	304
+üç yüz beş	305
+üç yüz altı	306
+üç yüz yedi	307
+üç yüz sekiz	308
+üç yüz dokuz	309
+üç yüz on	310
+üç yüz on bir	311
+üç yüz on iki	312
+üç yüz on üç	313
+üç yüz on dört	314
+üç yüz on beş	315
+üç yüz on altı	316
+üç yüz on yedi	317
+üç yüz on sekiz	318
+üç yüz on dokuz	319
+üç yüz yirmi	320
+üç yüz yirmi bir	321
+üç yüz yirmi iki	322
+üç yüz yirmi üç	323
+üç yüz yirmi dört	324
+üç yüz yirmi beş	325
+üç yüz yirmi altı	326
+üç yüz yirmi yedi	327
+üç yüz yirmi sekiz	328
+üç yüz yirmi dokuz	329
+üç yüz otuz	330
+üç yüz otuz bir	331
+üç yüz otuz iki	332
+üç yüz otuz üç	333
+üç yüz otuz dört	334
+üç yüz otuz beş	335
+üç yüz otuz altı	336
+üç yüz otuz yedi	337
+üç yüz otuz sekiz	338
+üç yüz otuz dokuz	339
+üç yüz kırk	340
+üç yüz kırk bir	341
+üç yüz kırk iki	342
+üç yüz kırk üç	343
+üç yüz kırk dört	344
+üç yüz kırk beş	345
+üç yüz kırk altı	346
+üç yüz kırk yedi	347
+üç yüz kırk sekiz	348
+üç yüz kırk dokuz	349
+üç yüz elli	350
+üç yüz elli bir	351
+üç yüz elli iki	352
+üç yüz elli üç	353
+üç yüz elli dört	354
+üç yüz elli beş	355
+üç yüz elli altı	356
+üç yüz elli yedi	357
+üç yüz elli sekiz	358
+üç yüz elli dokuz	359
+üç yüz altmış	360
+üç yüz altmış bir	361
+üç yüz altmış iki	362
+üç yüz altmış üç	363
+üç yüz altmış dört	364
+üç yüz altmış beş	365
+üç yüz altmış altı	366
+üç yüz altmış yedi	367
+üç yüz altmış sekiz	368
+üç yüz altmış dokuz	369
+üç yüz yetmiş	370
+üç yüz yetmiş bir	371
+üç yüz yetmiş iki	372
+üç yüz yetmiş üç	373
+üç yüz yetmiş dört	374
+üç yüz yetmiş beş	375
+üç yüz yetmiş altı	376
+üç yüz yetmiş yedi	377
+üç yüz yetmiş sekiz	378
+üç yüz yetmiş dokuz	379
+üç yüz seksen	380
+üç yüz seksen bir	381
+üç yüz seksen iki	382
+üç yüz seksen üç	383
+üç yüz seksen dört	384
+üç yüz seksen beş	385
+üç yüz seksen altı	386
+üç yüz seksen yedi	387
+üç yüz seksen sekiz	388
+üç yüz seksen dokuz	389
+üç yüz doksan	390
+üç yüz doksan bir	391
+üç yüz doksan iki	392
+üç yüz doksan üç	393
+üç yüz doksan dört	394
+üç yüz doksan beş	395
+üç yüz doksan altı	396
+üç yüz doksan yedi	397
+üç yüz doksan sekiz	398
+üç yüz doksan dokuz	399
+dört yüz 	400
+dört yüz bir	401
+dört yüz iki	402
+dört yüz üç	403
+dört yüz dört	404
+dört yüz beş	405
+dört yüz altı	406
+dört yüz yedi	407
+dört yüz sekiz	408
+dört yüz dokuz	409
+dört yüz on	410
+dört yüz on bir	411
+dört yüz on iki	412
+dört yüz on üç	413
+dört yüz on dört	414
+dört yüz on beş	415
+dört yüz on altı	416
+dört yüz on yedi	417
+dört yüz on sekiz	418
+dört yüz on dokuz	419
+dört yüz yirmi	420
+dört yüz yirmi bir	421
+dört yüz yirmi iki	422
+dört yüz yirmi üç	423
+dört yüz yirmi dört	424
+dört yüz yirmi beş	425
+dört yüz yirmi altı	426
+dört yüz yirmi yedi	427
+dört yüz yirmi sekiz	428
+dört yüz yirmi dokuz	429
+dört yüz otuz	430
+dört yüz otuz bir	431
+dört yüz otuz iki	432
+dört yüz otuz üç	433
+dört yüz otuz dört	434
+dört yüz otuz beş	435
+dört yüz otuz altı	436
+dört yüz otuz yedi	437
+dört yüz otuz sekiz	438
+dört yüz otuz dokuz	439
+dört yüz kırk	440
+dört yüz kırk bir	441
+dört yüz kırk iki	442
+dört yüz kırk üç	443
+dört yüz kırk dört	444
+dört yüz kırk beş	445
+dört yüz kırk altı	446
+dört yüz kırk yedi	447
+dört yüz kırk sekiz	448
+dört yüz kırk dokuz	449
+dört yüz elli	450
+dört yüz elli bir	451
+dört yüz elli iki	452
+dört yüz elli üç	453
+dört yüz elli dört	454
+dört yüz elli beş	455
+dört yüz elli altı	456
+dört yüz elli yedi	457
+dört yüz elli sekiz	458
+dört yüz elli dokuz	459
+dört yüz altmış	460
+dört yüz altmış bir	461
+dört yüz altmış iki	462
+dört yüz altmış üç	463
+dört yüz altmış dört	464
+dört yüz altmış beş	465
+dört yüz altmış altı	466
+dört yüz altmış yedi	467
+dört yüz altmış sekiz	468
+dört yüz altmış dokuz	469
+dört yüz yetmiş	470
+dört yüz yetmiş bir	471
+dört yüz yetmiş iki	472
+dört yüz yetmiş üç	473
+dört yüz yetmiş dört	474
+dört yüz yetmiş beş	475
+dört yüz yetmiş altı	476
+dört yüz yetmiş yedi	477
+dört yüz yetmiş sekiz	478
+dört yüz yetmiş dokuz	479
+dört yüz seksen	480
+dört yüz seksen bir	481
+dört yüz seksen iki	482
+dört yüz seksen üç	483
+dört yüz seksen dört	484
+dört yüz seksen beş	485
+dört yüz seksen altı	486
+dört yüz seksen yedi	487
+dört yüz seksen sekiz	488
+dört yüz seksen dokuz	489
+dört yüz doksan	490
+dört yüz doksan bir	491
+dört yüz doksan iki	492
+dört yüz doksan üç	493
+dört yüz doksan dört	494
+dört yüz doksan beş	495
+dört yüz doksan altı	496
+dört yüz doksan yedi	497
+dört yüz doksan sekiz	498
+dört yüz doksan dokuz	499
+beş yüz 	500
+beş yüz bir	501
+beş yüz iki	502
+beş yüz üç	503
+beş yüz dört	504
+beş yüz beş	505
+beş yüz altı	506
+beş yüz yedi	507
+beş yüz sekiz	508
+beş yüz dokuz	509
+beş yüz on	510
+beş yüz on bir	511
+beş yüz on iki	512
+beş yüz on üç	513
+beş yüz on dört	514
+beş yüz on beş	515
+beş yüz on altı	516
+beş yüz on yedi	517
+beş yüz on sekiz	518
+beş yüz on dokuz	519
+beş yüz yirmi	520
+beş yüz yirmi bir	521
+beş yüz yirmi iki	522
+beş yüz yirmi üç	523
+beş yüz yirmi dört	524
+beş yüz yirmi beş	525
+beş yüz yirmi altı	526
+beş yüz yirmi yedi	527
+beş yüz yirmi sekiz	528
+beş yüz yirmi dokuz	529
+beş yüz otuz	530
+beş yüz otuz bir	531
+beş yüz otuz iki	532
+beş yüz otuz üç	533
+beş yüz otuz dört	534
+beş yüz otuz beş	535
+beş yüz otuz altı	536
+beş yüz otuz yedi	537
+beş yüz otuz sekiz	538
+beş yüz otuz dokuz	539
+beş yüz kırk	540
+beş yüz kırk bir	541
+beş yüz kırk iki	542
+beş yüz kırk üç	543
+beş yüz kırk dört	544
+beş yüz kırk beş	545
+beş yüz kırk altı	546
+beş yüz kırk yedi	547
+beş yüz kırk sekiz	548
+beş yüz kırk dokuz	549
+beş yüz elli	550
+beş yüz elli bir	551
+beş yüz elli iki	552
+beş yüz elli üç	553
+beş yüz elli dört	554
+beş yüz elli beş	555
+beş yüz elli altı	556
+beş yüz elli yedi	557
+beş yüz elli sekiz	558
+beş yüz elli dokuz	559
+beş yüz altmış	560
+beş yüz altmış bir	561
+beş yüz altmış iki	562
+beş yüz altmış üç	563
+beş yüz altmış dört	564
+beş yüz altmış beş	565
+beş yüz altmış altı	566
+beş yüz altmış yedi	567
+beş yüz altmış sekiz	568
+beş yüz altmış dokuz	569
+beş yüz yetmiş	570
+beş yüz yetmiş bir	571
+beş yüz yetmiş iki	572
+beş yüz yetmiş üç	573
+beş yüz yetmiş dört	574
+beş yüz yetmiş beş	575
+beş yüz yetmiş altı	576
+beş yüz yetmiş yedi	577
+beş yüz yetmiş sekiz	578
+beş yüz yetmiş dokuz	579
+beş yüz seksen	580
+beş yüz seksen bir	581
+beş yüz seksen iki	582
+beş yüz seksen üç	583
+beş yüz seksen dört	584
+beş yüz seksen beş	585
+beş yüz seksen altı	586
+beş yüz seksen yedi	587
+beş yüz seksen sekiz	588
+beş yüz seksen dokuz	589
+beş yüz doksan	590
+beş yüz doksan bir	591
+beş yüz doksan iki	592
+beş yüz doksan üç	593
+beş yüz doksan dört	594
+beş yüz doksan beş	595
+beş yüz doksan altı	596
+beş yüz doksan yedi	597
+beş yüz doksan sekiz	598
+beş yüz doksan dokuz	599
+altı yüz 	600
+altı yüz bir	601
+altı yüz iki	602
+altı yüz üç	603
+altı yüz dört	604
+altı yüz beş	605
+altı yüz altı	606
+altı yüz yedi	607
+altı yüz sekiz	608
+altı yüz dokuz	609
+altı yüz on	610
+altı yüz on bir	611
+altı yüz on iki	612
+altı yüz on üç	613
+altı yüz on dört	614
+altı yüz on beş	615
+altı yüz on altı	616
+altı yüz on yedi	617
+altı yüz on sekiz	618
+altı yüz on dokuz	619
+altı yüz yirmi	620
+altı yüz yirmi bir	621
+altı yüz yirmi iki	622
+altı yüz yirmi üç	623
+altı yüz yirmi dört	624
+altı yüz yirmi beş	625
+altı yüz yirmi altı	626
+altı yüz yirmi yedi	627
+altı yüz yirmi sekiz	628
+altı yüz yirmi dokuz	629
+altı yüz otuz	630
+altı yüz otuz bir	631
+altı yüz otuz iki	632
+altı yüz otuz üç	633
+altı yüz otuz dört	634
+altı yüz otuz beş	635
+altı yüz otuz altı	636
+altı yüz otuz yedi	637
+altı yüz otuz sekiz	638
+altı yüz otuz dokuz	639
+altı yüz kırk	640
+altı yüz kırk bir	641
+altı yüz kırk iki	642
+altı yüz kırk üç	643
+altı yüz kırk dört	644
+altı yüz kırk beş	645
+altı yüz kırk altı	646
+altı yüz kırk yedi	647
+altı yüz kırk sekiz	648
+altı yüz kırk dokuz	649
+altı yüz elli	650
+altı yüz elli bir	651
+altı yüz elli iki	652
+altı yüz elli üç	653
+altı yüz elli dört	654
+altı yüz elli beş	655
+altı yüz elli altı	656
+altı yüz elli yedi	657
+altı yüz elli sekiz	658
+altı yüz elli dokuz	659
+altı yüz altmış	660
+altı yüz altmış bir	661
+altı yüz altmış iki	662
+altı yüz altmış üç	663
+altı yüz altmış dört	664
+altı yüz altmış beş	665
+altı yüz altmış altı	666
+altı yüz altmış yedi	667
+altı yüz altmış sekiz	668
+altı yüz altmış dokuz	669
+altı yüz yetmiş	670
+altı yüz yetmiş bir	671
+altı yüz yetmiş iki	672
+altı yüz yetmiş üç	673
+altı yüz yetmiş dört	674
+altı yüz yetmiş beş	675
+altı yüz yetmiş altı	676
+altı yüz yetmiş yedi	677
+altı yüz yetmiş sekiz	678
+altı yüz yetmiş dokuz	679
+altı yüz seksen	680
+altı yüz seksen bir	681
+altı yüz seksen iki	682
+altı yüz seksen üç	683
+altı yüz seksen dört	684
+altı yüz seksen beş	685
+altı yüz seksen altı	686
+altı yüz seksen yedi	687
+altı yüz seksen sekiz	688
+altı yüz seksen dokuz	689
+altı yüz doksan	690
+altı yüz doksan bir	691
+altı yüz doksan iki	692
+altı yüz doksan üç	693
+altı yüz doksan dört	694
+altı yüz doksan beş	695
+altı yüz doksan altı	696
+altı yüz doksan yedi	697
+altı yüz doksan sekiz	698
+altı yüz doksan dokuz	699
+yedi yüz 	700
+yedi yüz bir	701
+yedi yüz iki	702
+yedi yüz üç	703
+yedi yüz dört	704
+yedi yüz beş	705
+yedi yüz altı	706
+yedi yüz yedi	707
+yedi yüz sekiz	708
+yedi yüz dokuz	709
+yedi yüz on	710
+yedi yüz on bir	711
+yedi yüz on iki	712
+yedi yüz on üç	713
+yedi yüz on dört	714
+yedi yüz on beş	715
+yedi yüz on altı	716
+yedi yüz on yedi	717
+yedi yüz on sekiz	718
+yedi yüz on dokuz	719
+yedi yüz yirmi	720
+yedi yüz yirmi bir	721
+yedi yüz yirmi iki	722
+yedi yüz yirmi üç	723
+yedi yüz yirmi dört	724
+yedi yüz yirmi beş	725
+yedi yüz yirmi altı	726
+yedi yüz yirmi yedi	727
+yedi yüz yirmi sekiz	728
+yedi yüz yirmi dokuz	729
+yedi yüz otuz	730
+yedi yüz otuz bir	731
+yedi yüz otuz iki	732
+yedi yüz otuz üç	733
+yedi yüz otuz dört	734
+yedi yüz otuz beş	735
+yedi yüz otuz altı	736
+yedi yüz otuz yedi	737
+yedi yüz otuz sekiz	738
+yedi yüz otuz dokuz	739
+yedi yüz kırk	740
+yedi yüz kırk bir	741
+yedi yüz kırk iki	742
+yedi yüz kırk üç	743
+yedi yüz kırk dört	744
+yedi yüz kırk beş	745
+yedi yüz kırk altı	746
+yedi yüz kırk yedi	747
+yedi yüz kırk sekiz	748
+yedi yüz kırk dokuz	749
+yedi yüz elli	750
+yedi yüz elli bir	751
+yedi yüz elli iki	752
+yedi yüz elli üç	753
+yedi yüz elli dört	754
+yedi yüz elli beş	755
+yedi yüz elli altı	756
+yedi yüz elli yedi	757
+yedi yüz elli sekiz	758
+yedi yüz elli dokuz	759
+yedi yüz altmış	760
+yedi yüz altmış bir	761
+yedi yüz altmış iki	762
+yedi yüz altmış üç	763
+yedi yüz altmış dört	764
+yedi yüz altmış beş	765
+yedi yüz altmış altı	766
+yedi yüz altmış yedi	767
+yedi yüz altmış sekiz	768
+yedi yüz altmış dokuz	769
+yedi yüz yetmiş	770
+yedi yüz yetmiş bir	771
+yedi yüz yetmiş iki	772
+yedi yüz yetmiş üç	773
+yedi yüz yetmiş dört	774
+yedi yüz yetmiş beş	775
+yedi yüz yetmiş altı	776
+yedi yüz yetmiş yedi	777
+yedi yüz yetmiş sekiz	778
+yedi yüz yetmiş dokuz	779
+yedi yüz seksen	780
+yedi yüz seksen bir	781
+yedi yüz seksen iki	782
+yedi yüz seksen üç	783
+yedi yüz seksen dört	784
+yedi yüz seksen beş	785
+yedi yüz seksen altı	786
+yedi yüz seksen yedi	787
+yedi yüz seksen sekiz	788
+yedi yüz seksen dokuz	789
+yedi yüz doksan	790
+yedi yüz doksan bir	791
+yedi yüz doksan iki	792
+yedi yüz doksan üç	793
+yedi yüz doksan dört	794
+yedi yüz doksan beş	795
+yedi yüz doksan altı	796
+yedi yüz doksan yedi	797
+yedi yüz doksan sekiz	798
+yedi yüz doksan dokuz	799
+sekiz yüz 	800
+sekiz yüz bir	801
+sekiz yüz iki	802
+sekiz yüz üç	803
+sekiz yüz dört	804
+sekiz yüz beş	805
+sekiz yüz altı	806
+sekiz yüz yedi	807
+sekiz yüz sekiz	808
+sekiz yüz dokuz	809
+sekiz yüz on	810
+sekiz yüz on bir	811
+sekiz yüz on iki	812
+sekiz yüz on üç	813
+sekiz yüz on dört	814
+sekiz yüz on beş	815
+sekiz yüz on altı	816
+sekiz yüz on yedi	817
+sekiz yüz on sekiz	818
+sekiz yüz on dokuz	819
+sekiz yüz yirmi	820
+sekiz yüz yirmi bir	821
+sekiz yüz yirmi iki	822
+sekiz yüz yirmi üç	823
+sekiz yüz yirmi dört	824
+sekiz yüz yirmi beş	825
+sekiz yüz yirmi altı	826
+sekiz yüz yirmi yedi	827
+sekiz yüz yirmi sekiz	828
+sekiz yüz yirmi dokuz	829
+sekiz yüz otuz	830
+sekiz yüz otuz bir	831
+sekiz yüz otuz iki	832
+sekiz yüz otuz üç	833
+sekiz yüz otuz dört	834
+sekiz yüz otuz beş	835
+sekiz yüz otuz altı	836
+sekiz yüz otuz yedi	837
+sekiz yüz otuz sekiz	838
+sekiz yüz otuz dokuz	839
+sekiz yüz kırk	840
+sekiz yüz kırk bir	841
+sekiz yüz kırk iki	842
+sekiz yüz kırk üç	843
+sekiz yüz kırk dört	844
+sekiz yüz kırk beş	845
+sekiz yüz kırk altı	846
+sekiz yüz kırk yedi	847
+sekiz yüz kırk sekiz	848
+sekiz yüz kırk dokuz	849
+sekiz yüz elli	850
+sekiz yüz elli bir	851
+sekiz yüz elli iki	852
+sekiz yüz elli üç	853
+sekiz yüz elli dört	854
+sekiz yüz elli beş	855
+sekiz yüz elli altı	856
+sekiz yüz elli yedi	857
+sekiz yüz elli sekiz	858
+sekiz yüz elli dokuz	859
+sekiz yüz altmış	860
+sekiz yüz altmış bir	861
+sekiz yüz altmış iki	862
+sekiz yüz altmış üç	863
+sekiz yüz altmış dört	864
+sekiz yüz altmış beş	865
+sekiz yüz altmış altı	866
+sekiz yüz altmış yedi	867
+sekiz yüz altmış sekiz	868
+sekiz yüz altmış dokuz	869
+sekiz yüz yetmiş	870
+sekiz yüz yetmiş bir	871
+sekiz yüz yetmiş iki	872
+sekiz yüz yetmiş üç	873
+sekiz yüz yetmiş dört	874
+sekiz yüz yetmiş beş	875
+sekiz yüz yetmiş altı	876
+sekiz yüz yetmiş yedi	877
+sekiz yüz yetmiş sekiz	878
+sekiz yüz yetmiş dokuz	879
+sekiz yüz seksen	880
+sekiz yüz seksen bir	881
+sekiz yüz seksen iki	882
+sekiz yüz seksen üç	883
+sekiz yüz seksen dört	884
+sekiz yüz seksen beş	885
+sekiz yüz seksen altı	886
+sekiz yüz seksen yedi	887
+sekiz yüz seksen sekiz	888
+sekiz yüz seksen dokuz	889
+sekiz yüz doksan	890
+sekiz yüz doksan bir	891
+sekiz yüz doksan iki	892
+sekiz yüz doksan üç	893
+sekiz yüz doksan dört	894
+sekiz yüz doksan beş	895
+sekiz yüz doksan altı	896
+sekiz yüz doksan yedi	897
+sekiz yüz doksan sekiz	898
+sekiz yüz doksan dokuz	899
+dokuz yüz 	900
+dokuz yüz bir	901
+dokuz yüz iki	902
+dokuz yüz üç	903
+dokuz yüz dört	904
+dokuz yüz beş	905
+dokuz yüz altı	906
+dokuz yüz yedi	907
+dokuz yüz sekiz	908
+dokuz yüz dokuz	909
+dokuz yüz on	910
+dokuz yüz on bir	911
+dokuz yüz on iki	912
+dokuz yüz on üç	913
+dokuz yüz on dört	914
+dokuz yüz on beş	915
+dokuz yüz on altı	916
+dokuz yüz on yedi	917
+dokuz yüz on sekiz	918
+dokuz yüz on dokuz	919
+dokuz yüz yirmi	920
+dokuz yüz yirmi bir	921
+dokuz yüz yirmi iki	922
+dokuz yüz yirmi üç	923
+dokuz yüz yirmi dört	924
+dokuz yüz yirmi beş	925
+dokuz yüz yirmi altı	926
+dokuz yüz yirmi yedi	927
+dokuz yüz yirmi sekiz	928
+dokuz yüz yirmi dokuz	929
+dokuz yüz otuz	930
+dokuz yüz otuz bir	931
+dokuz yüz otuz iki	932
+dokuz yüz otuz üç	933
+dokuz yüz otuz dört	934
+dokuz yüz otuz beş	935
+dokuz yüz otuz altı	936
+dokuz yüz otuz yedi	937
+dokuz yüz otuz sekiz	938
+dokuz yüz otuz dokuz	939
+dokuz yüz kırk	940
+dokuz yüz kırk bir	941
+dokuz yüz kırk iki	942
+dokuz yüz kırk üç	943
+dokuz yüz kırk dört	944
+dokuz yüz kırk beş	945
+dokuz yüz kırk altı	946
+dokuz yüz kırk yedi	947
+dokuz yüz kırk sekiz	948
+dokuz yüz kırk dokuz	949
+dokuz yüz elli	950
+dokuz yüz elli bir	951
+dokuz yüz elli iki	952
+dokuz yüz elli üç	953
+dokuz yüz elli dört	954
+dokuz yüz elli beş	955
+dokuz yüz elli altı	956
+dokuz yüz elli yedi	957
+dokuz yüz elli sekiz	958
+dokuz yüz elli dokuz	959
+dokuz yüz altmış	960
+dokuz yüz altmış bir	961
+dokuz yüz altmış iki	962
+dokuz yüz altmış üç	963
+dokuz yüz altmış dört	964
+dokuz yüz altmış beş	965
+dokuz yüz altmış altı	966
+dokuz yüz altmış yedi	967
+dokuz yüz altmış sekiz	968
+dokuz yüz altmış dokuz	969
+dokuz yüz yetmiş	970
+dokuz yüz yetmiş bir	971
+dokuz yüz yetmiş iki	972
+dokuz yüz yetmiş üç	973
+dokuz yüz yetmiş dört	974
+dokuz yüz yetmiş beş	975
+dokuz yüz yetmiş altı	976
+dokuz yüz yetmiş yedi	977
+dokuz yüz yetmiş sekiz	978
+dokuz yüz yetmiş dokuz	979
+dokuz yüz seksen	980
+dokuz yüz seksen bir	981
+dokuz yüz seksen iki	982
+dokuz yüz seksen üç	983
+dokuz yüz seksen dört	984
+dokuz yüz seksen beş	985
+dokuz yüz seksen altı	986
+dokuz yüz seksen yedi	987
+dokuz yüz seksen sekiz	988
+dokuz yüz seksen dokuz	989
+dokuz yüz doksan	990
+dokuz yüz doksan bir	991
+dokuz yüz doksan iki	992
+dokuz yüz doksan üç	993
+dokuz yüz doksan dört	994
+dokuz yüz doksan beş	995
+dokuz yüz doksan altı	996
+dokuz yüz doksan yedi	997
+dokuz yüz doksan sekiz	998
+dokuz yüz doksan dokuz	999
 bin 	1000
 bin bir	1001
 bin iki	1002
