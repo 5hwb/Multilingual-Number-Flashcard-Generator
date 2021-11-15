@@ -17,12 +17,12 @@ class FinnishNumeralGenerator(NumeralGenerator):
 			'kahdeksan', # 8
 			'yhdeksän' # 9
 		]
-
+	
 	def get1(self, i, isNoZero=False):
 		if isNoZero and i == 0:
 			return ''
 		return self.ones[i]
-
+	
 	def get10(self, ii, i, isNoZero=False):
 		if ii == 0:
 			return self.get1(i, isNoZero)
@@ -32,7 +32,7 @@ class FinnishNumeralGenerator(NumeralGenerator):
 			return self.get1(i, True) + 'toista'
 		else:
 			return self.get1(ii, True) + 'kymmentä' + ' ' + self.get1(i, True)
-
+	
 	def get100(self, iii, ii, i, isNoZero=False):
 		if iii == 0:
 			return self.get10(ii, i, isNoZero)
@@ -40,7 +40,7 @@ class FinnishNumeralGenerator(NumeralGenerator):
 			return 'sata' + ' ' + self.get10(ii, i, True)
 		else:
 			return self.get1(iii, True) + 'sataa' + ' ' + self.get10(ii, i, True)
-
+	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0:
 			return self.get100(iii, ii, i, isNoZero)
