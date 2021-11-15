@@ -1,24 +1,3 @@
-không	0
-một	1
-hai	2
-ba	3
-bốn	4
-năm	5
-sáu	6
-bảy	7
-tám	8
-chín	9
-mười 	10
-mười một	11
-mười hai	12
-mười ba	13
-mười bốn	14
-mười lăm	15
-mười sáu	16
-mười bảy	17
-mười tám	18
-mười chín	19
-hai mươi 	20
 hai mươi mốt	21
 hai mươi hai	22
 hai mươi ba	23
@@ -999,105 +978,105 @@ chín trăm chín mươi bảy	997
 chín trăm chín mươi tám	998
 chín trăm chín mươi chín	999
 một nghìn 	1000
-một nghìn một	1001
-một nghìn hai	1002
-một nghìn ba	1003
-một nghìn bốn	1004
-một nghìn năm	1005
-một nghìn sáu	1006
-một nghìn bảy	1007
-một nghìn tám	1008
-một nghìn chín	1009
-một nghìn mười 	1010
-một nghìn mười một	1011
-một nghìn mười hai	1012
-một nghìn mười ba	1013
-một nghìn mười bốn	1014
-một nghìn mười lăm	1015
-một nghìn mười sáu	1016
-một nghìn mười bảy	1017
-một nghìn mười tám	1018
-một nghìn mười chín	1019
-một nghìn hai mươi 	1020
-một nghìn hai mươi mốt	1021
-một nghìn hai mươi hai	1022
-một nghìn hai mươi ba	1023
-một nghìn hai mươi bốn	1024
-một nghìn hai mươi lăm	1025
-một nghìn hai mươi sáu	1026
-một nghìn hai mươi bảy	1027
-một nghìn hai mươi tám	1028
-một nghìn hai mươi chín	1029
-một nghìn ba mươi 	1030
-một nghìn ba mươi mốt	1031
-một nghìn ba mươi hai	1032
-một nghìn ba mươi ba	1033
-một nghìn ba mươi bốn	1034
-một nghìn ba mươi lăm	1035
-một nghìn ba mươi sáu	1036
-một nghìn ba mươi bảy	1037
-một nghìn ba mươi tám	1038
-một nghìn ba mươi chín	1039
-một nghìn bốn mươi 	1040
-một nghìn bốn mươi mốt	1041
-một nghìn bốn mươi hai	1042
-một nghìn bốn mươi ba	1043
-một nghìn bốn mươi bốn	1044
-một nghìn bốn mươi lăm	1045
-một nghìn bốn mươi sáu	1046
-một nghìn bốn mươi bảy	1047
-một nghìn bốn mươi tám	1048
-một nghìn bốn mươi chín	1049
-một nghìn năm mươi 	1050
-một nghìn năm mươi mốt	1051
-một nghìn năm mươi hai	1052
-một nghìn năm mươi ba	1053
-một nghìn năm mươi bốn	1054
-một nghìn năm mươi lăm	1055
-một nghìn năm mươi sáu	1056
-một nghìn năm mươi bảy	1057
-một nghìn năm mươi tám	1058
-một nghìn năm mươi chín	1059
-một nghìn sáu mươi 	1060
-một nghìn sáu mươi mốt	1061
-một nghìn sáu mươi hai	1062
-một nghìn sáu mươi ba	1063
-một nghìn sáu mươi bốn	1064
-một nghìn sáu mươi lăm	1065
-một nghìn sáu mươi sáu	1066
-một nghìn sáu mươi bảy	1067
-một nghìn sáu mươi tám	1068
-một nghìn sáu mươi chín	1069
-một nghìn bảy mươi 	1070
-một nghìn bảy mươi mốt	1071
-một nghìn bảy mươi hai	1072
-một nghìn bảy mươi ba	1073
-một nghìn bảy mươi bốn	1074
-một nghìn bảy mươi lăm	1075
-một nghìn bảy mươi sáu	1076
-một nghìn bảy mươi bảy	1077
-một nghìn bảy mươi tám	1078
-một nghìn bảy mươi chín	1079
-một nghìn tám mươi 	1080
-một nghìn tám mươi mốt	1081
-một nghìn tám mươi hai	1082
-một nghìn tám mươi ba	1083
-một nghìn tám mươi bốn	1084
-một nghìn tám mươi lăm	1085
-một nghìn tám mươi sáu	1086
-một nghìn tám mươi bảy	1087
-một nghìn tám mươi tám	1088
-một nghìn tám mươi chín	1089
-một nghìn chín mươi 	1090
-một nghìn chín mươi mốt	1091
-một nghìn chín mươi hai	1092
-một nghìn chín mươi ba	1093
-một nghìn chín mươi bốn	1094
-một nghìn chín mươi lăm	1095
-một nghìn chín mươi sáu	1096
-một nghìn chín mươi bảy	1097
-một nghìn chín mươi tám	1098
-một nghìn chín mươi chín	1099
+một nghìn không trăm linh một	1001
+một nghìn không trăm linh hai	1002
+một nghìn không trăm linh ba	1003
+một nghìn không trăm linh bốn	1004
+một nghìn không trăm linh năm	1005
+một nghìn không trăm linh sáu	1006
+một nghìn không trăm linh bảy	1007
+một nghìn không trăm linh tám	1008
+một nghìn không trăm linh chín	1009
+một nghìn không trăm mười 	1010
+một nghìn không trăm mười một	1011
+một nghìn không trăm mười hai	1012
+một nghìn không trăm mười ba	1013
+một nghìn không trăm mười bốn	1014
+một nghìn không trăm mười lăm	1015
+một nghìn không trăm mười sáu	1016
+một nghìn không trăm mười bảy	1017
+một nghìn không trăm mười tám	1018
+một nghìn không trăm mười chín	1019
+một nghìn không trăm hai mươi 	1020
+một nghìn không trăm hai mươi mốt	1021
+một nghìn không trăm hai mươi hai	1022
+một nghìn không trăm hai mươi ba	1023
+một nghìn không trăm hai mươi bốn	1024
+một nghìn không trăm hai mươi lăm	1025
+một nghìn không trăm hai mươi sáu	1026
+một nghìn không trăm hai mươi bảy	1027
+một nghìn không trăm hai mươi tám	1028
+một nghìn không trăm hai mươi chín	1029
+một nghìn không trăm ba mươi 	1030
+một nghìn không trăm ba mươi mốt	1031
+một nghìn không trăm ba mươi hai	1032
+một nghìn không trăm ba mươi ba	1033
+một nghìn không trăm ba mươi bốn	1034
+một nghìn không trăm ba mươi lăm	1035
+một nghìn không trăm ba mươi sáu	1036
+một nghìn không trăm ba mươi bảy	1037
+một nghìn không trăm ba mươi tám	1038
+một nghìn không trăm ba mươi chín	1039
+một nghìn không trăm bốn mươi 	1040
+một nghìn không trăm bốn mươi mốt	1041
+một nghìn không trăm bốn mươi hai	1042
+một nghìn không trăm bốn mươi ba	1043
+một nghìn không trăm bốn mươi bốn	1044
+một nghìn không trăm bốn mươi lăm	1045
+một nghìn không trăm bốn mươi sáu	1046
+một nghìn không trăm bốn mươi bảy	1047
+một nghìn không trăm bốn mươi tám	1048
+một nghìn không trăm bốn mươi chín	1049
+một nghìn không trăm năm mươi 	1050
+một nghìn không trăm năm mươi mốt	1051
+một nghìn không trăm năm mươi hai	1052
+một nghìn không trăm năm mươi ba	1053
+một nghìn không trăm năm mươi bốn	1054
+một nghìn không trăm năm mươi lăm	1055
+một nghìn không trăm năm mươi sáu	1056
+một nghìn không trăm năm mươi bảy	1057
+một nghìn không trăm năm mươi tám	1058
+một nghìn không trăm năm mươi chín	1059
+một nghìn không trăm sáu mươi 	1060
+một nghìn không trăm sáu mươi mốt	1061
+một nghìn không trăm sáu mươi hai	1062
+một nghìn không trăm sáu mươi ba	1063
+một nghìn không trăm sáu mươi bốn	1064
+một nghìn không trăm sáu mươi lăm	1065
+một nghìn không trăm sáu mươi sáu	1066
+một nghìn không trăm sáu mươi bảy	1067
+một nghìn không trăm sáu mươi tám	1068
+một nghìn không trăm sáu mươi chín	1069
+một nghìn không trăm bảy mươi 	1070
+một nghìn không trăm bảy mươi mốt	1071
+một nghìn không trăm bảy mươi hai	1072
+một nghìn không trăm bảy mươi ba	1073
+một nghìn không trăm bảy mươi bốn	1074
+một nghìn không trăm bảy mươi lăm	1075
+một nghìn không trăm bảy mươi sáu	1076
+một nghìn không trăm bảy mươi bảy	1077
+một nghìn không trăm bảy mươi tám	1078
+một nghìn không trăm bảy mươi chín	1079
+một nghìn không trăm tám mươi 	1080
+một nghìn không trăm tám mươi mốt	1081
+một nghìn không trăm tám mươi hai	1082
+một nghìn không trăm tám mươi ba	1083
+một nghìn không trăm tám mươi bốn	1084
+một nghìn không trăm tám mươi lăm	1085
+một nghìn không trăm tám mươi sáu	1086
+một nghìn không trăm tám mươi bảy	1087
+một nghìn không trăm tám mươi tám	1088
+một nghìn không trăm tám mươi chín	1089
+một nghìn không trăm chín mươi 	1090
+một nghìn không trăm chín mươi mốt	1091
+một nghìn không trăm chín mươi hai	1092
+một nghìn không trăm chín mươi ba	1093
+một nghìn không trăm chín mươi bốn	1094
+một nghìn không trăm chín mươi lăm	1095
+một nghìn không trăm chín mươi sáu	1096
+một nghìn không trăm chín mươi bảy	1097
+một nghìn không trăm chín mươi tám	1098
+một nghìn không trăm chín mươi chín	1099
 một nghìn một trăm 	1100
 một nghìn một trăm linh một	1101
 một nghìn một trăm linh hai	1102
@@ -1999,105 +1978,105 @@ một nghìn chín trăm chín mươi bảy	1997
 một nghìn chín trăm chín mươi tám	1998
 một nghìn chín trăm chín mươi chín	1999
 hai nghìn 	2000
-hai nghìn một	2001
-hai nghìn hai	2002
-hai nghìn ba	2003
-hai nghìn bốn	2004
-hai nghìn năm	2005
-hai nghìn sáu	2006
-hai nghìn bảy	2007
-hai nghìn tám	2008
-hai nghìn chín	2009
-hai nghìn mười 	2010
-hai nghìn mười một	2011
-hai nghìn mười hai	2012
-hai nghìn mười ba	2013
-hai nghìn mười bốn	2014
-hai nghìn mười lăm	2015
-hai nghìn mười sáu	2016
-hai nghìn mười bảy	2017
-hai nghìn mười tám	2018
-hai nghìn mười chín	2019
-hai nghìn hai mươi 	2020
-hai nghìn hai mươi mốt	2021
-hai nghìn hai mươi hai	2022
-hai nghìn hai mươi ba	2023
-hai nghìn hai mươi bốn	2024
-hai nghìn hai mươi lăm	2025
-hai nghìn hai mươi sáu	2026
-hai nghìn hai mươi bảy	2027
-hai nghìn hai mươi tám	2028
-hai nghìn hai mươi chín	2029
-hai nghìn ba mươi 	2030
-hai nghìn ba mươi mốt	2031
-hai nghìn ba mươi hai	2032
-hai nghìn ba mươi ba	2033
-hai nghìn ba mươi bốn	2034
-hai nghìn ba mươi lăm	2035
-hai nghìn ba mươi sáu	2036
-hai nghìn ba mươi bảy	2037
-hai nghìn ba mươi tám	2038
-hai nghìn ba mươi chín	2039
-hai nghìn bốn mươi 	2040
-hai nghìn bốn mươi mốt	2041
-hai nghìn bốn mươi hai	2042
-hai nghìn bốn mươi ba	2043
-hai nghìn bốn mươi bốn	2044
-hai nghìn bốn mươi lăm	2045
-hai nghìn bốn mươi sáu	2046
-hai nghìn bốn mươi bảy	2047
-hai nghìn bốn mươi tám	2048
-hai nghìn bốn mươi chín	2049
-hai nghìn năm mươi 	2050
-hai nghìn năm mươi mốt	2051
-hai nghìn năm mươi hai	2052
-hai nghìn năm mươi ba	2053
-hai nghìn năm mươi bốn	2054
-hai nghìn năm mươi lăm	2055
-hai nghìn năm mươi sáu	2056
-hai nghìn năm mươi bảy	2057
-hai nghìn năm mươi tám	2058
-hai nghìn năm mươi chín	2059
-hai nghìn sáu mươi 	2060
-hai nghìn sáu mươi mốt	2061
-hai nghìn sáu mươi hai	2062
-hai nghìn sáu mươi ba	2063
-hai nghìn sáu mươi bốn	2064
-hai nghìn sáu mươi lăm	2065
-hai nghìn sáu mươi sáu	2066
-hai nghìn sáu mươi bảy	2067
-hai nghìn sáu mươi tám	2068
-hai nghìn sáu mươi chín	2069
-hai nghìn bảy mươi 	2070
-hai nghìn bảy mươi mốt	2071
-hai nghìn bảy mươi hai	2072
-hai nghìn bảy mươi ba	2073
-hai nghìn bảy mươi bốn	2074
-hai nghìn bảy mươi lăm	2075
-hai nghìn bảy mươi sáu	2076
-hai nghìn bảy mươi bảy	2077
-hai nghìn bảy mươi tám	2078
-hai nghìn bảy mươi chín	2079
-hai nghìn tám mươi 	2080
-hai nghìn tám mươi mốt	2081
-hai nghìn tám mươi hai	2082
-hai nghìn tám mươi ba	2083
-hai nghìn tám mươi bốn	2084
-hai nghìn tám mươi lăm	2085
-hai nghìn tám mươi sáu	2086
-hai nghìn tám mươi bảy	2087
-hai nghìn tám mươi tám	2088
-hai nghìn tám mươi chín	2089
-hai nghìn chín mươi 	2090
-hai nghìn chín mươi mốt	2091
-hai nghìn chín mươi hai	2092
-hai nghìn chín mươi ba	2093
-hai nghìn chín mươi bốn	2094
-hai nghìn chín mươi lăm	2095
-hai nghìn chín mươi sáu	2096
-hai nghìn chín mươi bảy	2097
-hai nghìn chín mươi tám	2098
-hai nghìn chín mươi chín	2099
+hai nghìn không trăm linh một	2001
+hai nghìn không trăm linh hai	2002
+hai nghìn không trăm linh ba	2003
+hai nghìn không trăm linh bốn	2004
+hai nghìn không trăm linh năm	2005
+hai nghìn không trăm linh sáu	2006
+hai nghìn không trăm linh bảy	2007
+hai nghìn không trăm linh tám	2008
+hai nghìn không trăm linh chín	2009
+hai nghìn không trăm mười 	2010
+hai nghìn không trăm mười một	2011
+hai nghìn không trăm mười hai	2012
+hai nghìn không trăm mười ba	2013
+hai nghìn không trăm mười bốn	2014
+hai nghìn không trăm mười lăm	2015
+hai nghìn không trăm mười sáu	2016
+hai nghìn không trăm mười bảy	2017
+hai nghìn không trăm mười tám	2018
+hai nghìn không trăm mười chín	2019
+hai nghìn không trăm hai mươi 	2020
+hai nghìn không trăm hai mươi mốt	2021
+hai nghìn không trăm hai mươi hai	2022
+hai nghìn không trăm hai mươi ba	2023
+hai nghìn không trăm hai mươi bốn	2024
+hai nghìn không trăm hai mươi lăm	2025
+hai nghìn không trăm hai mươi sáu	2026
+hai nghìn không trăm hai mươi bảy	2027
+hai nghìn không trăm hai mươi tám	2028
+hai nghìn không trăm hai mươi chín	2029
+hai nghìn không trăm ba mươi 	2030
+hai nghìn không trăm ba mươi mốt	2031
+hai nghìn không trăm ba mươi hai	2032
+hai nghìn không trăm ba mươi ba	2033
+hai nghìn không trăm ba mươi bốn	2034
+hai nghìn không trăm ba mươi lăm	2035
+hai nghìn không trăm ba mươi sáu	2036
+hai nghìn không trăm ba mươi bảy	2037
+hai nghìn không trăm ba mươi tám	2038
+hai nghìn không trăm ba mươi chín	2039
+hai nghìn không trăm bốn mươi 	2040
+hai nghìn không trăm bốn mươi mốt	2041
+hai nghìn không trăm bốn mươi hai	2042
+hai nghìn không trăm bốn mươi ba	2043
+hai nghìn không trăm bốn mươi bốn	2044
+hai nghìn không trăm bốn mươi lăm	2045
+hai nghìn không trăm bốn mươi sáu	2046
+hai nghìn không trăm bốn mươi bảy	2047
+hai nghìn không trăm bốn mươi tám	2048
+hai nghìn không trăm bốn mươi chín	2049
+hai nghìn không trăm năm mươi 	2050
+hai nghìn không trăm năm mươi mốt	2051
+hai nghìn không trăm năm mươi hai	2052
+hai nghìn không trăm năm mươi ba	2053
+hai nghìn không trăm năm mươi bốn	2054
+hai nghìn không trăm năm mươi lăm	2055
+hai nghìn không trăm năm mươi sáu	2056
+hai nghìn không trăm năm mươi bảy	2057
+hai nghìn không trăm năm mươi tám	2058
+hai nghìn không trăm năm mươi chín	2059
+hai nghìn không trăm sáu mươi 	2060
+hai nghìn không trăm sáu mươi mốt	2061
+hai nghìn không trăm sáu mươi hai	2062
+hai nghìn không trăm sáu mươi ba	2063
+hai nghìn không trăm sáu mươi bốn	2064
+hai nghìn không trăm sáu mươi lăm	2065
+hai nghìn không trăm sáu mươi sáu	2066
+hai nghìn không trăm sáu mươi bảy	2067
+hai nghìn không trăm sáu mươi tám	2068
+hai nghìn không trăm sáu mươi chín	2069
+hai nghìn không trăm bảy mươi 	2070
+hai nghìn không trăm bảy mươi mốt	2071
+hai nghìn không trăm bảy mươi hai	2072
+hai nghìn không trăm bảy mươi ba	2073
+hai nghìn không trăm bảy mươi bốn	2074
+hai nghìn không trăm bảy mươi lăm	2075
+hai nghìn không trăm bảy mươi sáu	2076
+hai nghìn không trăm bảy mươi bảy	2077
+hai nghìn không trăm bảy mươi tám	2078
+hai nghìn không trăm bảy mươi chín	2079
+hai nghìn không trăm tám mươi 	2080
+hai nghìn không trăm tám mươi mốt	2081
+hai nghìn không trăm tám mươi hai	2082
+hai nghìn không trăm tám mươi ba	2083
+hai nghìn không trăm tám mươi bốn	2084
+hai nghìn không trăm tám mươi lăm	2085
+hai nghìn không trăm tám mươi sáu	2086
+hai nghìn không trăm tám mươi bảy	2087
+hai nghìn không trăm tám mươi tám	2088
+hai nghìn không trăm tám mươi chín	2089
+hai nghìn không trăm chín mươi 	2090
+hai nghìn không trăm chín mươi mốt	2091
+hai nghìn không trăm chín mươi hai	2092
+hai nghìn không trăm chín mươi ba	2093
+hai nghìn không trăm chín mươi bốn	2094
+hai nghìn không trăm chín mươi lăm	2095
+hai nghìn không trăm chín mươi sáu	2096
+hai nghìn không trăm chín mươi bảy	2097
+hai nghìn không trăm chín mươi tám	2098
+hai nghìn không trăm chín mươi chín	2099
 hai nghìn một trăm 	2100
 hai nghìn một trăm linh một	2101
 hai nghìn một trăm linh hai	2102
@@ -2999,105 +2978,105 @@ hai nghìn chín trăm chín mươi bảy	2997
 hai nghìn chín trăm chín mươi tám	2998
 hai nghìn chín trăm chín mươi chín	2999
 ba nghìn 	3000
-ba nghìn một	3001
-ba nghìn hai	3002
-ba nghìn ba	3003
-ba nghìn bốn	3004
-ba nghìn năm	3005
-ba nghìn sáu	3006
-ba nghìn bảy	3007
-ba nghìn tám	3008
-ba nghìn chín	3009
-ba nghìn mười 	3010
-ba nghìn mười một	3011
-ba nghìn mười hai	3012
-ba nghìn mười ba	3013
-ba nghìn mười bốn	3014
-ba nghìn mười lăm	3015
-ba nghìn mười sáu	3016
-ba nghìn mười bảy	3017
-ba nghìn mười tám	3018
-ba nghìn mười chín	3019
-ba nghìn hai mươi 	3020
-ba nghìn hai mươi mốt	3021
-ba nghìn hai mươi hai	3022
-ba nghìn hai mươi ba	3023
-ba nghìn hai mươi bốn	3024
-ba nghìn hai mươi lăm	3025
-ba nghìn hai mươi sáu	3026
-ba nghìn hai mươi bảy	3027
-ba nghìn hai mươi tám	3028
-ba nghìn hai mươi chín	3029
-ba nghìn ba mươi 	3030
-ba nghìn ba mươi mốt	3031
-ba nghìn ba mươi hai	3032
-ba nghìn ba mươi ba	3033
-ba nghìn ba mươi bốn	3034
-ba nghìn ba mươi lăm	3035
-ba nghìn ba mươi sáu	3036
-ba nghìn ba mươi bảy	3037
-ba nghìn ba mươi tám	3038
-ba nghìn ba mươi chín	3039
-ba nghìn bốn mươi 	3040
-ba nghìn bốn mươi mốt	3041
-ba nghìn bốn mươi hai	3042
-ba nghìn bốn mươi ba	3043
-ba nghìn bốn mươi bốn	3044
-ba nghìn bốn mươi lăm	3045
-ba nghìn bốn mươi sáu	3046
-ba nghìn bốn mươi bảy	3047
-ba nghìn bốn mươi tám	3048
-ba nghìn bốn mươi chín	3049
-ba nghìn năm mươi 	3050
-ba nghìn năm mươi mốt	3051
-ba nghìn năm mươi hai	3052
-ba nghìn năm mươi ba	3053
-ba nghìn năm mươi bốn	3054
-ba nghìn năm mươi lăm	3055
-ba nghìn năm mươi sáu	3056
-ba nghìn năm mươi bảy	3057
-ba nghìn năm mươi tám	3058
-ba nghìn năm mươi chín	3059
-ba nghìn sáu mươi 	3060
-ba nghìn sáu mươi mốt	3061
-ba nghìn sáu mươi hai	3062
-ba nghìn sáu mươi ba	3063
-ba nghìn sáu mươi bốn	3064
-ba nghìn sáu mươi lăm	3065
-ba nghìn sáu mươi sáu	3066
-ba nghìn sáu mươi bảy	3067
-ba nghìn sáu mươi tám	3068
-ba nghìn sáu mươi chín	3069
-ba nghìn bảy mươi 	3070
-ba nghìn bảy mươi mốt	3071
-ba nghìn bảy mươi hai	3072
-ba nghìn bảy mươi ba	3073
-ba nghìn bảy mươi bốn	3074
-ba nghìn bảy mươi lăm	3075
-ba nghìn bảy mươi sáu	3076
-ba nghìn bảy mươi bảy	3077
-ba nghìn bảy mươi tám	3078
-ba nghìn bảy mươi chín	3079
-ba nghìn tám mươi 	3080
-ba nghìn tám mươi mốt	3081
-ba nghìn tám mươi hai	3082
-ba nghìn tám mươi ba	3083
-ba nghìn tám mươi bốn	3084
-ba nghìn tám mươi lăm	3085
-ba nghìn tám mươi sáu	3086
-ba nghìn tám mươi bảy	3087
-ba nghìn tám mươi tám	3088
-ba nghìn tám mươi chín	3089
-ba nghìn chín mươi 	3090
-ba nghìn chín mươi mốt	3091
-ba nghìn chín mươi hai	3092
-ba nghìn chín mươi ba	3093
-ba nghìn chín mươi bốn	3094
-ba nghìn chín mươi lăm	3095
-ba nghìn chín mươi sáu	3096
-ba nghìn chín mươi bảy	3097
-ba nghìn chín mươi tám	3098
-ba nghìn chín mươi chín	3099
+ba nghìn không trăm linh một	3001
+ba nghìn không trăm linh hai	3002
+ba nghìn không trăm linh ba	3003
+ba nghìn không trăm linh bốn	3004
+ba nghìn không trăm linh năm	3005
+ba nghìn không trăm linh sáu	3006
+ba nghìn không trăm linh bảy	3007
+ba nghìn không trăm linh tám	3008
+ba nghìn không trăm linh chín	3009
+ba nghìn không trăm mười 	3010
+ba nghìn không trăm mười một	3011
+ba nghìn không trăm mười hai	3012
+ba nghìn không trăm mười ba	3013
+ba nghìn không trăm mười bốn	3014
+ba nghìn không trăm mười lăm	3015
+ba nghìn không trăm mười sáu	3016
+ba nghìn không trăm mười bảy	3017
+ba nghìn không trăm mười tám	3018
+ba nghìn không trăm mười chín	3019
+ba nghìn không trăm hai mươi 	3020
+ba nghìn không trăm hai mươi mốt	3021
+ba nghìn không trăm hai mươi hai	3022
+ba nghìn không trăm hai mươi ba	3023
+ba nghìn không trăm hai mươi bốn	3024
+ba nghìn không trăm hai mươi lăm	3025
+ba nghìn không trăm hai mươi sáu	3026
+ba nghìn không trăm hai mươi bảy	3027
+ba nghìn không trăm hai mươi tám	3028
+ba nghìn không trăm hai mươi chín	3029
+ba nghìn không trăm ba mươi 	3030
+ba nghìn không trăm ba mươi mốt	3031
+ba nghìn không trăm ba mươi hai	3032
+ba nghìn không trăm ba mươi ba	3033
+ba nghìn không trăm ba mươi bốn	3034
+ba nghìn không trăm ba mươi lăm	3035
+ba nghìn không trăm ba mươi sáu	3036
+ba nghìn không trăm ba mươi bảy	3037
+ba nghìn không trăm ba mươi tám	3038
+ba nghìn không trăm ba mươi chín	3039
+ba nghìn không trăm bốn mươi 	3040
+ba nghìn không trăm bốn mươi mốt	3041
+ba nghìn không trăm bốn mươi hai	3042
+ba nghìn không trăm bốn mươi ba	3043
+ba nghìn không trăm bốn mươi bốn	3044
+ba nghìn không trăm bốn mươi lăm	3045
+ba nghìn không trăm bốn mươi sáu	3046
+ba nghìn không trăm bốn mươi bảy	3047
+ba nghìn không trăm bốn mươi tám	3048
+ba nghìn không trăm bốn mươi chín	3049
+ba nghìn không trăm năm mươi 	3050
+ba nghìn không trăm năm mươi mốt	3051
+ba nghìn không trăm năm mươi hai	3052
+ba nghìn không trăm năm mươi ba	3053
+ba nghìn không trăm năm mươi bốn	3054
+ba nghìn không trăm năm mươi lăm	3055
+ba nghìn không trăm năm mươi sáu	3056
+ba nghìn không trăm năm mươi bảy	3057
+ba nghìn không trăm năm mươi tám	3058
+ba nghìn không trăm năm mươi chín	3059
+ba nghìn không trăm sáu mươi 	3060
+ba nghìn không trăm sáu mươi mốt	3061
+ba nghìn không trăm sáu mươi hai	3062
+ba nghìn không trăm sáu mươi ba	3063
+ba nghìn không trăm sáu mươi bốn	3064
+ba nghìn không trăm sáu mươi lăm	3065
+ba nghìn không trăm sáu mươi sáu	3066
+ba nghìn không trăm sáu mươi bảy	3067
+ba nghìn không trăm sáu mươi tám	3068
+ba nghìn không trăm sáu mươi chín	3069
+ba nghìn không trăm bảy mươi 	3070
+ba nghìn không trăm bảy mươi mốt	3071
+ba nghìn không trăm bảy mươi hai	3072
+ba nghìn không trăm bảy mươi ba	3073
+ba nghìn không trăm bảy mươi bốn	3074
+ba nghìn không trăm bảy mươi lăm	3075
+ba nghìn không trăm bảy mươi sáu	3076
+ba nghìn không trăm bảy mươi bảy	3077
+ba nghìn không trăm bảy mươi tám	3078
+ba nghìn không trăm bảy mươi chín	3079
+ba nghìn không trăm tám mươi 	3080
+ba nghìn không trăm tám mươi mốt	3081
+ba nghìn không trăm tám mươi hai	3082
+ba nghìn không trăm tám mươi ba	3083
+ba nghìn không trăm tám mươi bốn	3084
+ba nghìn không trăm tám mươi lăm	3085
+ba nghìn không trăm tám mươi sáu	3086
+ba nghìn không trăm tám mươi bảy	3087
+ba nghìn không trăm tám mươi tám	3088
+ba nghìn không trăm tám mươi chín	3089
+ba nghìn không trăm chín mươi 	3090
+ba nghìn không trăm chín mươi mốt	3091
+ba nghìn không trăm chín mươi hai	3092
+ba nghìn không trăm chín mươi ba	3093
+ba nghìn không trăm chín mươi bốn	3094
+ba nghìn không trăm chín mươi lăm	3095
+ba nghìn không trăm chín mươi sáu	3096
+ba nghìn không trăm chín mươi bảy	3097
+ba nghìn không trăm chín mươi tám	3098
+ba nghìn không trăm chín mươi chín	3099
 ba nghìn một trăm 	3100
 ba nghìn một trăm linh một	3101
 ba nghìn một trăm linh hai	3102
@@ -3999,105 +3978,105 @@ ba nghìn chín trăm chín mươi bảy	3997
 ba nghìn chín trăm chín mươi tám	3998
 ba nghìn chín trăm chín mươi chín	3999
 bốn nghìn 	4000
-bốn nghìn một	4001
-bốn nghìn hai	4002
-bốn nghìn ba	4003
-bốn nghìn bốn	4004
-bốn nghìn năm	4005
-bốn nghìn sáu	4006
-bốn nghìn bảy	4007
-bốn nghìn tám	4008
-bốn nghìn chín	4009
-bốn nghìn mười 	4010
-bốn nghìn mười một	4011
-bốn nghìn mười hai	4012
-bốn nghìn mười ba	4013
-bốn nghìn mười bốn	4014
-bốn nghìn mười lăm	4015
-bốn nghìn mười sáu	4016
-bốn nghìn mười bảy	4017
-bốn nghìn mười tám	4018
-bốn nghìn mười chín	4019
-bốn nghìn hai mươi 	4020
-bốn nghìn hai mươi mốt	4021
-bốn nghìn hai mươi hai	4022
-bốn nghìn hai mươi ba	4023
-bốn nghìn hai mươi bốn	4024
-bốn nghìn hai mươi lăm	4025
-bốn nghìn hai mươi sáu	4026
-bốn nghìn hai mươi bảy	4027
-bốn nghìn hai mươi tám	4028
-bốn nghìn hai mươi chín	4029
-bốn nghìn ba mươi 	4030
-bốn nghìn ba mươi mốt	4031
-bốn nghìn ba mươi hai	4032
-bốn nghìn ba mươi ba	4033
-bốn nghìn ba mươi bốn	4034
-bốn nghìn ba mươi lăm	4035
-bốn nghìn ba mươi sáu	4036
-bốn nghìn ba mươi bảy	4037
-bốn nghìn ba mươi tám	4038
-bốn nghìn ba mươi chín	4039
-bốn nghìn bốn mươi 	4040
-bốn nghìn bốn mươi mốt	4041
-bốn nghìn bốn mươi hai	4042
-bốn nghìn bốn mươi ba	4043
-bốn nghìn bốn mươi bốn	4044
-bốn nghìn bốn mươi lăm	4045
-bốn nghìn bốn mươi sáu	4046
-bốn nghìn bốn mươi bảy	4047
-bốn nghìn bốn mươi tám	4048
-bốn nghìn bốn mươi chín	4049
-bốn nghìn năm mươi 	4050
-bốn nghìn năm mươi mốt	4051
-bốn nghìn năm mươi hai	4052
-bốn nghìn năm mươi ba	4053
-bốn nghìn năm mươi bốn	4054
-bốn nghìn năm mươi lăm	4055
-bốn nghìn năm mươi sáu	4056
-bốn nghìn năm mươi bảy	4057
-bốn nghìn năm mươi tám	4058
-bốn nghìn năm mươi chín	4059
-bốn nghìn sáu mươi 	4060
-bốn nghìn sáu mươi mốt	4061
-bốn nghìn sáu mươi hai	4062
-bốn nghìn sáu mươi ba	4063
-bốn nghìn sáu mươi bốn	4064
-bốn nghìn sáu mươi lăm	4065
-bốn nghìn sáu mươi sáu	4066
-bốn nghìn sáu mươi bảy	4067
-bốn nghìn sáu mươi tám	4068
-bốn nghìn sáu mươi chín	4069
-bốn nghìn bảy mươi 	4070
-bốn nghìn bảy mươi mốt	4071
-bốn nghìn bảy mươi hai	4072
-bốn nghìn bảy mươi ba	4073
-bốn nghìn bảy mươi bốn	4074
-bốn nghìn bảy mươi lăm	4075
-bốn nghìn bảy mươi sáu	4076
-bốn nghìn bảy mươi bảy	4077
-bốn nghìn bảy mươi tám	4078
-bốn nghìn bảy mươi chín	4079
-bốn nghìn tám mươi 	4080
-bốn nghìn tám mươi mốt	4081
-bốn nghìn tám mươi hai	4082
-bốn nghìn tám mươi ba	4083
-bốn nghìn tám mươi bốn	4084
-bốn nghìn tám mươi lăm	4085
-bốn nghìn tám mươi sáu	4086
-bốn nghìn tám mươi bảy	4087
-bốn nghìn tám mươi tám	4088
-bốn nghìn tám mươi chín	4089
-bốn nghìn chín mươi 	4090
-bốn nghìn chín mươi mốt	4091
-bốn nghìn chín mươi hai	4092
-bốn nghìn chín mươi ba	4093
-bốn nghìn chín mươi bốn	4094
-bốn nghìn chín mươi lăm	4095
-bốn nghìn chín mươi sáu	4096
-bốn nghìn chín mươi bảy	4097
-bốn nghìn chín mươi tám	4098
-bốn nghìn chín mươi chín	4099
+bốn nghìn không trăm linh một	4001
+bốn nghìn không trăm linh hai	4002
+bốn nghìn không trăm linh ba	4003
+bốn nghìn không trăm linh bốn	4004
+bốn nghìn không trăm linh năm	4005
+bốn nghìn không trăm linh sáu	4006
+bốn nghìn không trăm linh bảy	4007
+bốn nghìn không trăm linh tám	4008
+bốn nghìn không trăm linh chín	4009
+bốn nghìn không trăm mười 	4010
+bốn nghìn không trăm mười một	4011
+bốn nghìn không trăm mười hai	4012
+bốn nghìn không trăm mười ba	4013
+bốn nghìn không trăm mười bốn	4014
+bốn nghìn không trăm mười lăm	4015
+bốn nghìn không trăm mười sáu	4016
+bốn nghìn không trăm mười bảy	4017
+bốn nghìn không trăm mười tám	4018
+bốn nghìn không trăm mười chín	4019
+bốn nghìn không trăm hai mươi 	4020
+bốn nghìn không trăm hai mươi mốt	4021
+bốn nghìn không trăm hai mươi hai	4022
+bốn nghìn không trăm hai mươi ba	4023
+bốn nghìn không trăm hai mươi bốn	4024
+bốn nghìn không trăm hai mươi lăm	4025
+bốn nghìn không trăm hai mươi sáu	4026
+bốn nghìn không trăm hai mươi bảy	4027
+bốn nghìn không trăm hai mươi tám	4028
+bốn nghìn không trăm hai mươi chín	4029
+bốn nghìn không trăm ba mươi 	4030
+bốn nghìn không trăm ba mươi mốt	4031
+bốn nghìn không trăm ba mươi hai	4032
+bốn nghìn không trăm ba mươi ba	4033
+bốn nghìn không trăm ba mươi bốn	4034
+bốn nghìn không trăm ba mươi lăm	4035
+bốn nghìn không trăm ba mươi sáu	4036
+bốn nghìn không trăm ba mươi bảy	4037
+bốn nghìn không trăm ba mươi tám	4038
+bốn nghìn không trăm ba mươi chín	4039
+bốn nghìn không trăm bốn mươi 	4040
+bốn nghìn không trăm bốn mươi mốt	4041
+bốn nghìn không trăm bốn mươi hai	4042
+bốn nghìn không trăm bốn mươi ba	4043
+bốn nghìn không trăm bốn mươi bốn	4044
+bốn nghìn không trăm bốn mươi lăm	4045
+bốn nghìn không trăm bốn mươi sáu	4046
+bốn nghìn không trăm bốn mươi bảy	4047
+bốn nghìn không trăm bốn mươi tám	4048
+bốn nghìn không trăm bốn mươi chín	4049
+bốn nghìn không trăm năm mươi 	4050
+bốn nghìn không trăm năm mươi mốt	4051
+bốn nghìn không trăm năm mươi hai	4052
+bốn nghìn không trăm năm mươi ba	4053
+bốn nghìn không trăm năm mươi bốn	4054
+bốn nghìn không trăm năm mươi lăm	4055
+bốn nghìn không trăm năm mươi sáu	4056
+bốn nghìn không trăm năm mươi bảy	4057
+bốn nghìn không trăm năm mươi tám	4058
+bốn nghìn không trăm năm mươi chín	4059
+bốn nghìn không trăm sáu mươi 	4060
+bốn nghìn không trăm sáu mươi mốt	4061
+bốn nghìn không trăm sáu mươi hai	4062
+bốn nghìn không trăm sáu mươi ba	4063
+bốn nghìn không trăm sáu mươi bốn	4064
+bốn nghìn không trăm sáu mươi lăm	4065
+bốn nghìn không trăm sáu mươi sáu	4066
+bốn nghìn không trăm sáu mươi bảy	4067
+bốn nghìn không trăm sáu mươi tám	4068
+bốn nghìn không trăm sáu mươi chín	4069
+bốn nghìn không trăm bảy mươi 	4070
+bốn nghìn không trăm bảy mươi mốt	4071
+bốn nghìn không trăm bảy mươi hai	4072
+bốn nghìn không trăm bảy mươi ba	4073
+bốn nghìn không trăm bảy mươi bốn	4074
+bốn nghìn không trăm bảy mươi lăm	4075
+bốn nghìn không trăm bảy mươi sáu	4076
+bốn nghìn không trăm bảy mươi bảy	4077
+bốn nghìn không trăm bảy mươi tám	4078
+bốn nghìn không trăm bảy mươi chín	4079
+bốn nghìn không trăm tám mươi 	4080
+bốn nghìn không trăm tám mươi mốt	4081
+bốn nghìn không trăm tám mươi hai	4082
+bốn nghìn không trăm tám mươi ba	4083
+bốn nghìn không trăm tám mươi bốn	4084
+bốn nghìn không trăm tám mươi lăm	4085
+bốn nghìn không trăm tám mươi sáu	4086
+bốn nghìn không trăm tám mươi bảy	4087
+bốn nghìn không trăm tám mươi tám	4088
+bốn nghìn không trăm tám mươi chín	4089
+bốn nghìn không trăm chín mươi 	4090
+bốn nghìn không trăm chín mươi mốt	4091
+bốn nghìn không trăm chín mươi hai	4092
+bốn nghìn không trăm chín mươi ba	4093
+bốn nghìn không trăm chín mươi bốn	4094
+bốn nghìn không trăm chín mươi lăm	4095
+bốn nghìn không trăm chín mươi sáu	4096
+bốn nghìn không trăm chín mươi bảy	4097
+bốn nghìn không trăm chín mươi tám	4098
+bốn nghìn không trăm chín mươi chín	4099
 bốn nghìn một trăm 	4100
 bốn nghìn một trăm linh một	4101
 bốn nghìn một trăm linh hai	4102
@@ -4999,105 +4978,105 @@ bốn nghìn chín trăm chín mươi bảy	4997
 bốn nghìn chín trăm chín mươi tám	4998
 bốn nghìn chín trăm chín mươi chín	4999
 năm nghìn 	5000
-năm nghìn một	5001
-năm nghìn hai	5002
-năm nghìn ba	5003
-năm nghìn bốn	5004
-năm nghìn năm	5005
-năm nghìn sáu	5006
-năm nghìn bảy	5007
-năm nghìn tám	5008
-năm nghìn chín	5009
-năm nghìn mười 	5010
-năm nghìn mười một	5011
-năm nghìn mười hai	5012
-năm nghìn mười ba	5013
-năm nghìn mười bốn	5014
-năm nghìn mười lăm	5015
-năm nghìn mười sáu	5016
-năm nghìn mười bảy	5017
-năm nghìn mười tám	5018
-năm nghìn mười chín	5019
-năm nghìn hai mươi 	5020
-năm nghìn hai mươi mốt	5021
-năm nghìn hai mươi hai	5022
-năm nghìn hai mươi ba	5023
-năm nghìn hai mươi bốn	5024
-năm nghìn hai mươi lăm	5025
-năm nghìn hai mươi sáu	5026
-năm nghìn hai mươi bảy	5027
-năm nghìn hai mươi tám	5028
-năm nghìn hai mươi chín	5029
-năm nghìn ba mươi 	5030
-năm nghìn ba mươi mốt	5031
-năm nghìn ba mươi hai	5032
-năm nghìn ba mươi ba	5033
-năm nghìn ba mươi bốn	5034
-năm nghìn ba mươi lăm	5035
-năm nghìn ba mươi sáu	5036
-năm nghìn ba mươi bảy	5037
-năm nghìn ba mươi tám	5038
-năm nghìn ba mươi chín	5039
-năm nghìn bốn mươi 	5040
-năm nghìn bốn mươi mốt	5041
-năm nghìn bốn mươi hai	5042
-năm nghìn bốn mươi ba	5043
-năm nghìn bốn mươi bốn	5044
-năm nghìn bốn mươi lăm	5045
-năm nghìn bốn mươi sáu	5046
-năm nghìn bốn mươi bảy	5047
-năm nghìn bốn mươi tám	5048
-năm nghìn bốn mươi chín	5049
-năm nghìn năm mươi 	5050
-năm nghìn năm mươi mốt	5051
-năm nghìn năm mươi hai	5052
-năm nghìn năm mươi ba	5053
-năm nghìn năm mươi bốn	5054
-năm nghìn năm mươi lăm	5055
-năm nghìn năm mươi sáu	5056
-năm nghìn năm mươi bảy	5057
-năm nghìn năm mươi tám	5058
-năm nghìn năm mươi chín	5059
-năm nghìn sáu mươi 	5060
-năm nghìn sáu mươi mốt	5061
-năm nghìn sáu mươi hai	5062
-năm nghìn sáu mươi ba	5063
-năm nghìn sáu mươi bốn	5064
-năm nghìn sáu mươi lăm	5065
-năm nghìn sáu mươi sáu	5066
-năm nghìn sáu mươi bảy	5067
-năm nghìn sáu mươi tám	5068
-năm nghìn sáu mươi chín	5069
-năm nghìn bảy mươi 	5070
-năm nghìn bảy mươi mốt	5071
-năm nghìn bảy mươi hai	5072
-năm nghìn bảy mươi ba	5073
-năm nghìn bảy mươi bốn	5074
-năm nghìn bảy mươi lăm	5075
-năm nghìn bảy mươi sáu	5076
-năm nghìn bảy mươi bảy	5077
-năm nghìn bảy mươi tám	5078
-năm nghìn bảy mươi chín	5079
-năm nghìn tám mươi 	5080
-năm nghìn tám mươi mốt	5081
-năm nghìn tám mươi hai	5082
-năm nghìn tám mươi ba	5083
-năm nghìn tám mươi bốn	5084
-năm nghìn tám mươi lăm	5085
-năm nghìn tám mươi sáu	5086
-năm nghìn tám mươi bảy	5087
-năm nghìn tám mươi tám	5088
-năm nghìn tám mươi chín	5089
-năm nghìn chín mươi 	5090
-năm nghìn chín mươi mốt	5091
-năm nghìn chín mươi hai	5092
-năm nghìn chín mươi ba	5093
-năm nghìn chín mươi bốn	5094
-năm nghìn chín mươi lăm	5095
-năm nghìn chín mươi sáu	5096
-năm nghìn chín mươi bảy	5097
-năm nghìn chín mươi tám	5098
-năm nghìn chín mươi chín	5099
+năm nghìn không trăm linh một	5001
+năm nghìn không trăm linh hai	5002
+năm nghìn không trăm linh ba	5003
+năm nghìn không trăm linh bốn	5004
+năm nghìn không trăm linh năm	5005
+năm nghìn không trăm linh sáu	5006
+năm nghìn không trăm linh bảy	5007
+năm nghìn không trăm linh tám	5008
+năm nghìn không trăm linh chín	5009
+năm nghìn không trăm mười 	5010
+năm nghìn không trăm mười một	5011
+năm nghìn không trăm mười hai	5012
+năm nghìn không trăm mười ba	5013
+năm nghìn không trăm mười bốn	5014
+năm nghìn không trăm mười lăm	5015
+năm nghìn không trăm mười sáu	5016
+năm nghìn không trăm mười bảy	5017
+năm nghìn không trăm mười tám	5018
+năm nghìn không trăm mười chín	5019
+năm nghìn không trăm hai mươi 	5020
+năm nghìn không trăm hai mươi mốt	5021
+năm nghìn không trăm hai mươi hai	5022
+năm nghìn không trăm hai mươi ba	5023
+năm nghìn không trăm hai mươi bốn	5024
+năm nghìn không trăm hai mươi lăm	5025
+năm nghìn không trăm hai mươi sáu	5026
+năm nghìn không trăm hai mươi bảy	5027
+năm nghìn không trăm hai mươi tám	5028
+năm nghìn không trăm hai mươi chín	5029
+năm nghìn không trăm ba mươi 	5030
+năm nghìn không trăm ba mươi mốt	5031
+năm nghìn không trăm ba mươi hai	5032
+năm nghìn không trăm ba mươi ba	5033
+năm nghìn không trăm ba mươi bốn	5034
+năm nghìn không trăm ba mươi lăm	5035
+năm nghìn không trăm ba mươi sáu	5036
+năm nghìn không trăm ba mươi bảy	5037
+năm nghìn không trăm ba mươi tám	5038
+năm nghìn không trăm ba mươi chín	5039
+năm nghìn không trăm bốn mươi 	5040
+năm nghìn không trăm bốn mươi mốt	5041
+năm nghìn không trăm bốn mươi hai	5042
+năm nghìn không trăm bốn mươi ba	5043
+năm nghìn không trăm bốn mươi bốn	5044
+năm nghìn không trăm bốn mươi lăm	5045
+năm nghìn không trăm bốn mươi sáu	5046
+năm nghìn không trăm bốn mươi bảy	5047
+năm nghìn không trăm bốn mươi tám	5048
+năm nghìn không trăm bốn mươi chín	5049
+năm nghìn không trăm năm mươi 	5050
+năm nghìn không trăm năm mươi mốt	5051
+năm nghìn không trăm năm mươi hai	5052
+năm nghìn không trăm năm mươi ba	5053
+năm nghìn không trăm năm mươi bốn	5054
+năm nghìn không trăm năm mươi lăm	5055
+năm nghìn không trăm năm mươi sáu	5056
+năm nghìn không trăm năm mươi bảy	5057
+năm nghìn không trăm năm mươi tám	5058
+năm nghìn không trăm năm mươi chín	5059
+năm nghìn không trăm sáu mươi 	5060
+năm nghìn không trăm sáu mươi mốt	5061
+năm nghìn không trăm sáu mươi hai	5062
+năm nghìn không trăm sáu mươi ba	5063
+năm nghìn không trăm sáu mươi bốn	5064
+năm nghìn không trăm sáu mươi lăm	5065
+năm nghìn không trăm sáu mươi sáu	5066
+năm nghìn không trăm sáu mươi bảy	5067
+năm nghìn không trăm sáu mươi tám	5068
+năm nghìn không trăm sáu mươi chín	5069
+năm nghìn không trăm bảy mươi 	5070
+năm nghìn không trăm bảy mươi mốt	5071
+năm nghìn không trăm bảy mươi hai	5072
+năm nghìn không trăm bảy mươi ba	5073
+năm nghìn không trăm bảy mươi bốn	5074
+năm nghìn không trăm bảy mươi lăm	5075
+năm nghìn không trăm bảy mươi sáu	5076
+năm nghìn không trăm bảy mươi bảy	5077
+năm nghìn không trăm bảy mươi tám	5078
+năm nghìn không trăm bảy mươi chín	5079
+năm nghìn không trăm tám mươi 	5080
+năm nghìn không trăm tám mươi mốt	5081
+năm nghìn không trăm tám mươi hai	5082
+năm nghìn không trăm tám mươi ba	5083
+năm nghìn không trăm tám mươi bốn	5084
+năm nghìn không trăm tám mươi lăm	5085
+năm nghìn không trăm tám mươi sáu	5086
+năm nghìn không trăm tám mươi bảy	5087
+năm nghìn không trăm tám mươi tám	5088
+năm nghìn không trăm tám mươi chín	5089
+năm nghìn không trăm chín mươi 	5090
+năm nghìn không trăm chín mươi mốt	5091
+năm nghìn không trăm chín mươi hai	5092
+năm nghìn không trăm chín mươi ba	5093
+năm nghìn không trăm chín mươi bốn	5094
+năm nghìn không trăm chín mươi lăm	5095
+năm nghìn không trăm chín mươi sáu	5096
+năm nghìn không trăm chín mươi bảy	5097
+năm nghìn không trăm chín mươi tám	5098
+năm nghìn không trăm chín mươi chín	5099
 năm nghìn một trăm 	5100
 năm nghìn một trăm linh một	5101
 năm nghìn một trăm linh hai	5102
@@ -5999,105 +5978,105 @@ năm nghìn chín trăm chín mươi bảy	5997
 năm nghìn chín trăm chín mươi tám	5998
 năm nghìn chín trăm chín mươi chín	5999
 sáu nghìn 	6000
-sáu nghìn một	6001
-sáu nghìn hai	6002
-sáu nghìn ba	6003
-sáu nghìn bốn	6004
-sáu nghìn năm	6005
-sáu nghìn sáu	6006
-sáu nghìn bảy	6007
-sáu nghìn tám	6008
-sáu nghìn chín	6009
-sáu nghìn mười 	6010
-sáu nghìn mười một	6011
-sáu nghìn mười hai	6012
-sáu nghìn mười ba	6013
-sáu nghìn mười bốn	6014
-sáu nghìn mười lăm	6015
-sáu nghìn mười sáu	6016
-sáu nghìn mười bảy	6017
-sáu nghìn mười tám	6018
-sáu nghìn mười chín	6019
-sáu nghìn hai mươi 	6020
-sáu nghìn hai mươi mốt	6021
-sáu nghìn hai mươi hai	6022
-sáu nghìn hai mươi ba	6023
-sáu nghìn hai mươi bốn	6024
-sáu nghìn hai mươi lăm	6025
-sáu nghìn hai mươi sáu	6026
-sáu nghìn hai mươi bảy	6027
-sáu nghìn hai mươi tám	6028
-sáu nghìn hai mươi chín	6029
-sáu nghìn ba mươi 	6030
-sáu nghìn ba mươi mốt	6031
-sáu nghìn ba mươi hai	6032
-sáu nghìn ba mươi ba	6033
-sáu nghìn ba mươi bốn	6034
-sáu nghìn ba mươi lăm	6035
-sáu nghìn ba mươi sáu	6036
-sáu nghìn ba mươi bảy	6037
-sáu nghìn ba mươi tám	6038
-sáu nghìn ba mươi chín	6039
-sáu nghìn bốn mươi 	6040
-sáu nghìn bốn mươi mốt	6041
-sáu nghìn bốn mươi hai	6042
-sáu nghìn bốn mươi ba	6043
-sáu nghìn bốn mươi bốn	6044
-sáu nghìn bốn mươi lăm	6045
-sáu nghìn bốn mươi sáu	6046
-sáu nghìn bốn mươi bảy	6047
-sáu nghìn bốn mươi tám	6048
-sáu nghìn bốn mươi chín	6049
-sáu nghìn năm mươi 	6050
-sáu nghìn năm mươi mốt	6051
-sáu nghìn năm mươi hai	6052
-sáu nghìn năm mươi ba	6053
-sáu nghìn năm mươi bốn	6054
-sáu nghìn năm mươi lăm	6055
-sáu nghìn năm mươi sáu	6056
-sáu nghìn năm mươi bảy	6057
-sáu nghìn năm mươi tám	6058
-sáu nghìn năm mươi chín	6059
-sáu nghìn sáu mươi 	6060
-sáu nghìn sáu mươi mốt	6061
-sáu nghìn sáu mươi hai	6062
-sáu nghìn sáu mươi ba	6063
-sáu nghìn sáu mươi bốn	6064
-sáu nghìn sáu mươi lăm	6065
-sáu nghìn sáu mươi sáu	6066
-sáu nghìn sáu mươi bảy	6067
-sáu nghìn sáu mươi tám	6068
-sáu nghìn sáu mươi chín	6069
-sáu nghìn bảy mươi 	6070
-sáu nghìn bảy mươi mốt	6071
-sáu nghìn bảy mươi hai	6072
-sáu nghìn bảy mươi ba	6073
-sáu nghìn bảy mươi bốn	6074
-sáu nghìn bảy mươi lăm	6075
-sáu nghìn bảy mươi sáu	6076
-sáu nghìn bảy mươi bảy	6077
-sáu nghìn bảy mươi tám	6078
-sáu nghìn bảy mươi chín	6079
-sáu nghìn tám mươi 	6080
-sáu nghìn tám mươi mốt	6081
-sáu nghìn tám mươi hai	6082
-sáu nghìn tám mươi ba	6083
-sáu nghìn tám mươi bốn	6084
-sáu nghìn tám mươi lăm	6085
-sáu nghìn tám mươi sáu	6086
-sáu nghìn tám mươi bảy	6087
-sáu nghìn tám mươi tám	6088
-sáu nghìn tám mươi chín	6089
-sáu nghìn chín mươi 	6090
-sáu nghìn chín mươi mốt	6091
-sáu nghìn chín mươi hai	6092
-sáu nghìn chín mươi ba	6093
-sáu nghìn chín mươi bốn	6094
-sáu nghìn chín mươi lăm	6095
-sáu nghìn chín mươi sáu	6096
-sáu nghìn chín mươi bảy	6097
-sáu nghìn chín mươi tám	6098
-sáu nghìn chín mươi chín	6099
+sáu nghìn không trăm linh một	6001
+sáu nghìn không trăm linh hai	6002
+sáu nghìn không trăm linh ba	6003
+sáu nghìn không trăm linh bốn	6004
+sáu nghìn không trăm linh năm	6005
+sáu nghìn không trăm linh sáu	6006
+sáu nghìn không trăm linh bảy	6007
+sáu nghìn không trăm linh tám	6008
+sáu nghìn không trăm linh chín	6009
+sáu nghìn không trăm mười 	6010
+sáu nghìn không trăm mười một	6011
+sáu nghìn không trăm mười hai	6012
+sáu nghìn không trăm mười ba	6013
+sáu nghìn không trăm mười bốn	6014
+sáu nghìn không trăm mười lăm	6015
+sáu nghìn không trăm mười sáu	6016
+sáu nghìn không trăm mười bảy	6017
+sáu nghìn không trăm mười tám	6018
+sáu nghìn không trăm mười chín	6019
+sáu nghìn không trăm hai mươi 	6020
+sáu nghìn không trăm hai mươi mốt	6021
+sáu nghìn không trăm hai mươi hai	6022
+sáu nghìn không trăm hai mươi ba	6023
+sáu nghìn không trăm hai mươi bốn	6024
+sáu nghìn không trăm hai mươi lăm	6025
+sáu nghìn không trăm hai mươi sáu	6026
+sáu nghìn không trăm hai mươi bảy	6027
+sáu nghìn không trăm hai mươi tám	6028
+sáu nghìn không trăm hai mươi chín	6029
+sáu nghìn không trăm ba mươi 	6030
+sáu nghìn không trăm ba mươi mốt	6031
+sáu nghìn không trăm ba mươi hai	6032
+sáu nghìn không trăm ba mươi ba	6033
+sáu nghìn không trăm ba mươi bốn	6034
+sáu nghìn không trăm ba mươi lăm	6035
+sáu nghìn không trăm ba mươi sáu	6036
+sáu nghìn không trăm ba mươi bảy	6037
+sáu nghìn không trăm ba mươi tám	6038
+sáu nghìn không trăm ba mươi chín	6039
+sáu nghìn không trăm bốn mươi 	6040
+sáu nghìn không trăm bốn mươi mốt	6041
+sáu nghìn không trăm bốn mươi hai	6042
+sáu nghìn không trăm bốn mươi ba	6043
+sáu nghìn không trăm bốn mươi bốn	6044
+sáu nghìn không trăm bốn mươi lăm	6045
+sáu nghìn không trăm bốn mươi sáu	6046
+sáu nghìn không trăm bốn mươi bảy	6047
+sáu nghìn không trăm bốn mươi tám	6048
+sáu nghìn không trăm bốn mươi chín	6049
+sáu nghìn không trăm năm mươi 	6050
+sáu nghìn không trăm năm mươi mốt	6051
+sáu nghìn không trăm năm mươi hai	6052
+sáu nghìn không trăm năm mươi ba	6053
+sáu nghìn không trăm năm mươi bốn	6054
+sáu nghìn không trăm năm mươi lăm	6055
+sáu nghìn không trăm năm mươi sáu	6056
+sáu nghìn không trăm năm mươi bảy	6057
+sáu nghìn không trăm năm mươi tám	6058
+sáu nghìn không trăm năm mươi chín	6059
+sáu nghìn không trăm sáu mươi 	6060
+sáu nghìn không trăm sáu mươi mốt	6061
+sáu nghìn không trăm sáu mươi hai	6062
+sáu nghìn không trăm sáu mươi ba	6063
+sáu nghìn không trăm sáu mươi bốn	6064
+sáu nghìn không trăm sáu mươi lăm	6065
+sáu nghìn không trăm sáu mươi sáu	6066
+sáu nghìn không trăm sáu mươi bảy	6067
+sáu nghìn không trăm sáu mươi tám	6068
+sáu nghìn không trăm sáu mươi chín	6069
+sáu nghìn không trăm bảy mươi 	6070
+sáu nghìn không trăm bảy mươi mốt	6071
+sáu nghìn không trăm bảy mươi hai	6072
+sáu nghìn không trăm bảy mươi ba	6073
+sáu nghìn không trăm bảy mươi bốn	6074
+sáu nghìn không trăm bảy mươi lăm	6075
+sáu nghìn không trăm bảy mươi sáu	6076
+sáu nghìn không trăm bảy mươi bảy	6077
+sáu nghìn không trăm bảy mươi tám	6078
+sáu nghìn không trăm bảy mươi chín	6079
+sáu nghìn không trăm tám mươi 	6080
+sáu nghìn không trăm tám mươi mốt	6081
+sáu nghìn không trăm tám mươi hai	6082
+sáu nghìn không trăm tám mươi ba	6083
+sáu nghìn không trăm tám mươi bốn	6084
+sáu nghìn không trăm tám mươi lăm	6085
+sáu nghìn không trăm tám mươi sáu	6086
+sáu nghìn không trăm tám mươi bảy	6087
+sáu nghìn không trăm tám mươi tám	6088
+sáu nghìn không trăm tám mươi chín	6089
+sáu nghìn không trăm chín mươi 	6090
+sáu nghìn không trăm chín mươi mốt	6091
+sáu nghìn không trăm chín mươi hai	6092
+sáu nghìn không trăm chín mươi ba	6093
+sáu nghìn không trăm chín mươi bốn	6094
+sáu nghìn không trăm chín mươi lăm	6095
+sáu nghìn không trăm chín mươi sáu	6096
+sáu nghìn không trăm chín mươi bảy	6097
+sáu nghìn không trăm chín mươi tám	6098
+sáu nghìn không trăm chín mươi chín	6099
 sáu nghìn một trăm 	6100
 sáu nghìn một trăm linh một	6101
 sáu nghìn một trăm linh hai	6102
@@ -6999,105 +6978,105 @@ sáu nghìn chín trăm chín mươi bảy	6997
 sáu nghìn chín trăm chín mươi tám	6998
 sáu nghìn chín trăm chín mươi chín	6999
 bảy nghìn 	7000
-bảy nghìn một	7001
-bảy nghìn hai	7002
-bảy nghìn ba	7003
-bảy nghìn bốn	7004
-bảy nghìn năm	7005
-bảy nghìn sáu	7006
-bảy nghìn bảy	7007
-bảy nghìn tám	7008
-bảy nghìn chín	7009
-bảy nghìn mười 	7010
-bảy nghìn mười một	7011
-bảy nghìn mười hai	7012
-bảy nghìn mười ba	7013
-bảy nghìn mười bốn	7014
-bảy nghìn mười lăm	7015
-bảy nghìn mười sáu	7016
-bảy nghìn mười bảy	7017
-bảy nghìn mười tám	7018
-bảy nghìn mười chín	7019
-bảy nghìn hai mươi 	7020
-bảy nghìn hai mươi mốt	7021
-bảy nghìn hai mươi hai	7022
-bảy nghìn hai mươi ba	7023
-bảy nghìn hai mươi bốn	7024
-bảy nghìn hai mươi lăm	7025
-bảy nghìn hai mươi sáu	7026
-bảy nghìn hai mươi bảy	7027
-bảy nghìn hai mươi tám	7028
-bảy nghìn hai mươi chín	7029
-bảy nghìn ba mươi 	7030
-bảy nghìn ba mươi mốt	7031
-bảy nghìn ba mươi hai	7032
-bảy nghìn ba mươi ba	7033
-bảy nghìn ba mươi bốn	7034
-bảy nghìn ba mươi lăm	7035
-bảy nghìn ba mươi sáu	7036
-bảy nghìn ba mươi bảy	7037
-bảy nghìn ba mươi tám	7038
-bảy nghìn ba mươi chín	7039
-bảy nghìn bốn mươi 	7040
-bảy nghìn bốn mươi mốt	7041
-bảy nghìn bốn mươi hai	7042
-bảy nghìn bốn mươi ba	7043
-bảy nghìn bốn mươi bốn	7044
-bảy nghìn bốn mươi lăm	7045
-bảy nghìn bốn mươi sáu	7046
-bảy nghìn bốn mươi bảy	7047
-bảy nghìn bốn mươi tám	7048
-bảy nghìn bốn mươi chín	7049
-bảy nghìn năm mươi 	7050
-bảy nghìn năm mươi mốt	7051
-bảy nghìn năm mươi hai	7052
-bảy nghìn năm mươi ba	7053
-bảy nghìn năm mươi bốn	7054
-bảy nghìn năm mươi lăm	7055
-bảy nghìn năm mươi sáu	7056
-bảy nghìn năm mươi bảy	7057
-bảy nghìn năm mươi tám	7058
-bảy nghìn năm mươi chín	7059
-bảy nghìn sáu mươi 	7060
-bảy nghìn sáu mươi mốt	7061
-bảy nghìn sáu mươi hai	7062
-bảy nghìn sáu mươi ba	7063
-bảy nghìn sáu mươi bốn	7064
-bảy nghìn sáu mươi lăm	7065
-bảy nghìn sáu mươi sáu	7066
-bảy nghìn sáu mươi bảy	7067
-bảy nghìn sáu mươi tám	7068
-bảy nghìn sáu mươi chín	7069
-bảy nghìn bảy mươi 	7070
-bảy nghìn bảy mươi mốt	7071
-bảy nghìn bảy mươi hai	7072
-bảy nghìn bảy mươi ba	7073
-bảy nghìn bảy mươi bốn	7074
-bảy nghìn bảy mươi lăm	7075
-bảy nghìn bảy mươi sáu	7076
-bảy nghìn bảy mươi bảy	7077
-bảy nghìn bảy mươi tám	7078
-bảy nghìn bảy mươi chín	7079
-bảy nghìn tám mươi 	7080
-bảy nghìn tám mươi mốt	7081
-bảy nghìn tám mươi hai	7082
-bảy nghìn tám mươi ba	7083
-bảy nghìn tám mươi bốn	7084
-bảy nghìn tám mươi lăm	7085
-bảy nghìn tám mươi sáu	7086
-bảy nghìn tám mươi bảy	7087
-bảy nghìn tám mươi tám	7088
-bảy nghìn tám mươi chín	7089
-bảy nghìn chín mươi 	7090
-bảy nghìn chín mươi mốt	7091
-bảy nghìn chín mươi hai	7092
-bảy nghìn chín mươi ba	7093
-bảy nghìn chín mươi bốn	7094
-bảy nghìn chín mươi lăm	7095
-bảy nghìn chín mươi sáu	7096
-bảy nghìn chín mươi bảy	7097
-bảy nghìn chín mươi tám	7098
-bảy nghìn chín mươi chín	7099
+bảy nghìn không trăm linh một	7001
+bảy nghìn không trăm linh hai	7002
+bảy nghìn không trăm linh ba	7003
+bảy nghìn không trăm linh bốn	7004
+bảy nghìn không trăm linh năm	7005
+bảy nghìn không trăm linh sáu	7006
+bảy nghìn không trăm linh bảy	7007
+bảy nghìn không trăm linh tám	7008
+bảy nghìn không trăm linh chín	7009
+bảy nghìn không trăm mười 	7010
+bảy nghìn không trăm mười một	7011
+bảy nghìn không trăm mười hai	7012
+bảy nghìn không trăm mười ba	7013
+bảy nghìn không trăm mười bốn	7014
+bảy nghìn không trăm mười lăm	7015
+bảy nghìn không trăm mười sáu	7016
+bảy nghìn không trăm mười bảy	7017
+bảy nghìn không trăm mười tám	7018
+bảy nghìn không trăm mười chín	7019
+bảy nghìn không trăm hai mươi 	7020
+bảy nghìn không trăm hai mươi mốt	7021
+bảy nghìn không trăm hai mươi hai	7022
+bảy nghìn không trăm hai mươi ba	7023
+bảy nghìn không trăm hai mươi bốn	7024
+bảy nghìn không trăm hai mươi lăm	7025
+bảy nghìn không trăm hai mươi sáu	7026
+bảy nghìn không trăm hai mươi bảy	7027
+bảy nghìn không trăm hai mươi tám	7028
+bảy nghìn không trăm hai mươi chín	7029
+bảy nghìn không trăm ba mươi 	7030
+bảy nghìn không trăm ba mươi mốt	7031
+bảy nghìn không trăm ba mươi hai	7032
+bảy nghìn không trăm ba mươi ba	7033
+bảy nghìn không trăm ba mươi bốn	7034
+bảy nghìn không trăm ba mươi lăm	7035
+bảy nghìn không trăm ba mươi sáu	7036
+bảy nghìn không trăm ba mươi bảy	7037
+bảy nghìn không trăm ba mươi tám	7038
+bảy nghìn không trăm ba mươi chín	7039
+bảy nghìn không trăm bốn mươi 	7040
+bảy nghìn không trăm bốn mươi mốt	7041
+bảy nghìn không trăm bốn mươi hai	7042
+bảy nghìn không trăm bốn mươi ba	7043
+bảy nghìn không trăm bốn mươi bốn	7044
+bảy nghìn không trăm bốn mươi lăm	7045
+bảy nghìn không trăm bốn mươi sáu	7046
+bảy nghìn không trăm bốn mươi bảy	7047
+bảy nghìn không trăm bốn mươi tám	7048
+bảy nghìn không trăm bốn mươi chín	7049
+bảy nghìn không trăm năm mươi 	7050
+bảy nghìn không trăm năm mươi mốt	7051
+bảy nghìn không trăm năm mươi hai	7052
+bảy nghìn không trăm năm mươi ba	7053
+bảy nghìn không trăm năm mươi bốn	7054
+bảy nghìn không trăm năm mươi lăm	7055
+bảy nghìn không trăm năm mươi sáu	7056
+bảy nghìn không trăm năm mươi bảy	7057
+bảy nghìn không trăm năm mươi tám	7058
+bảy nghìn không trăm năm mươi chín	7059
+bảy nghìn không trăm sáu mươi 	7060
+bảy nghìn không trăm sáu mươi mốt	7061
+bảy nghìn không trăm sáu mươi hai	7062
+bảy nghìn không trăm sáu mươi ba	7063
+bảy nghìn không trăm sáu mươi bốn	7064
+bảy nghìn không trăm sáu mươi lăm	7065
+bảy nghìn không trăm sáu mươi sáu	7066
+bảy nghìn không trăm sáu mươi bảy	7067
+bảy nghìn không trăm sáu mươi tám	7068
+bảy nghìn không trăm sáu mươi chín	7069
+bảy nghìn không trăm bảy mươi 	7070
+bảy nghìn không trăm bảy mươi mốt	7071
+bảy nghìn không trăm bảy mươi hai	7072
+bảy nghìn không trăm bảy mươi ba	7073
+bảy nghìn không trăm bảy mươi bốn	7074
+bảy nghìn không trăm bảy mươi lăm	7075
+bảy nghìn không trăm bảy mươi sáu	7076
+bảy nghìn không trăm bảy mươi bảy	7077
+bảy nghìn không trăm bảy mươi tám	7078
+bảy nghìn không trăm bảy mươi chín	7079
+bảy nghìn không trăm tám mươi 	7080
+bảy nghìn không trăm tám mươi mốt	7081
+bảy nghìn không trăm tám mươi hai	7082
+bảy nghìn không trăm tám mươi ba	7083
+bảy nghìn không trăm tám mươi bốn	7084
+bảy nghìn không trăm tám mươi lăm	7085
+bảy nghìn không trăm tám mươi sáu	7086
+bảy nghìn không trăm tám mươi bảy	7087
+bảy nghìn không trăm tám mươi tám	7088
+bảy nghìn không trăm tám mươi chín	7089
+bảy nghìn không trăm chín mươi 	7090
+bảy nghìn không trăm chín mươi mốt	7091
+bảy nghìn không trăm chín mươi hai	7092
+bảy nghìn không trăm chín mươi ba	7093
+bảy nghìn không trăm chín mươi bốn	7094
+bảy nghìn không trăm chín mươi lăm	7095
+bảy nghìn không trăm chín mươi sáu	7096
+bảy nghìn không trăm chín mươi bảy	7097
+bảy nghìn không trăm chín mươi tám	7098
+bảy nghìn không trăm chín mươi chín	7099
 bảy nghìn một trăm 	7100
 bảy nghìn một trăm linh một	7101
 bảy nghìn một trăm linh hai	7102
@@ -7999,105 +7978,105 @@ bảy nghìn chín trăm chín mươi bảy	7997
 bảy nghìn chín trăm chín mươi tám	7998
 bảy nghìn chín trăm chín mươi chín	7999
 tám nghìn 	8000
-tám nghìn một	8001
-tám nghìn hai	8002
-tám nghìn ba	8003
-tám nghìn bốn	8004
-tám nghìn năm	8005
-tám nghìn sáu	8006
-tám nghìn bảy	8007
-tám nghìn tám	8008
-tám nghìn chín	8009
-tám nghìn mười 	8010
-tám nghìn mười một	8011
-tám nghìn mười hai	8012
-tám nghìn mười ba	8013
-tám nghìn mười bốn	8014
-tám nghìn mười lăm	8015
-tám nghìn mười sáu	8016
-tám nghìn mười bảy	8017
-tám nghìn mười tám	8018
-tám nghìn mười chín	8019
-tám nghìn hai mươi 	8020
-tám nghìn hai mươi mốt	8021
-tám nghìn hai mươi hai	8022
-tám nghìn hai mươi ba	8023
-tám nghìn hai mươi bốn	8024
-tám nghìn hai mươi lăm	8025
-tám nghìn hai mươi sáu	8026
-tám nghìn hai mươi bảy	8027
-tám nghìn hai mươi tám	8028
-tám nghìn hai mươi chín	8029
-tám nghìn ba mươi 	8030
-tám nghìn ba mươi mốt	8031
-tám nghìn ba mươi hai	8032
-tám nghìn ba mươi ba	8033
-tám nghìn ba mươi bốn	8034
-tám nghìn ba mươi lăm	8035
-tám nghìn ba mươi sáu	8036
-tám nghìn ba mươi bảy	8037
-tám nghìn ba mươi tám	8038
-tám nghìn ba mươi chín	8039
-tám nghìn bốn mươi 	8040
-tám nghìn bốn mươi mốt	8041
-tám nghìn bốn mươi hai	8042
-tám nghìn bốn mươi ba	8043
-tám nghìn bốn mươi bốn	8044
-tám nghìn bốn mươi lăm	8045
-tám nghìn bốn mươi sáu	8046
-tám nghìn bốn mươi bảy	8047
-tám nghìn bốn mươi tám	8048
-tám nghìn bốn mươi chín	8049
-tám nghìn năm mươi 	8050
-tám nghìn năm mươi mốt	8051
-tám nghìn năm mươi hai	8052
-tám nghìn năm mươi ba	8053
-tám nghìn năm mươi bốn	8054
-tám nghìn năm mươi lăm	8055
-tám nghìn năm mươi sáu	8056
-tám nghìn năm mươi bảy	8057
-tám nghìn năm mươi tám	8058
-tám nghìn năm mươi chín	8059
-tám nghìn sáu mươi 	8060
-tám nghìn sáu mươi mốt	8061
-tám nghìn sáu mươi hai	8062
-tám nghìn sáu mươi ba	8063
-tám nghìn sáu mươi bốn	8064
-tám nghìn sáu mươi lăm	8065
-tám nghìn sáu mươi sáu	8066
-tám nghìn sáu mươi bảy	8067
-tám nghìn sáu mươi tám	8068
-tám nghìn sáu mươi chín	8069
-tám nghìn bảy mươi 	8070
-tám nghìn bảy mươi mốt	8071
-tám nghìn bảy mươi hai	8072
-tám nghìn bảy mươi ba	8073
-tám nghìn bảy mươi bốn	8074
-tám nghìn bảy mươi lăm	8075
-tám nghìn bảy mươi sáu	8076
-tám nghìn bảy mươi bảy	8077
-tám nghìn bảy mươi tám	8078
-tám nghìn bảy mươi chín	8079
-tám nghìn tám mươi 	8080
-tám nghìn tám mươi mốt	8081
-tám nghìn tám mươi hai	8082
-tám nghìn tám mươi ba	8083
-tám nghìn tám mươi bốn	8084
-tám nghìn tám mươi lăm	8085
-tám nghìn tám mươi sáu	8086
-tám nghìn tám mươi bảy	8087
-tám nghìn tám mươi tám	8088
-tám nghìn tám mươi chín	8089
-tám nghìn chín mươi 	8090
-tám nghìn chín mươi mốt	8091
-tám nghìn chín mươi hai	8092
-tám nghìn chín mươi ba	8093
-tám nghìn chín mươi bốn	8094
-tám nghìn chín mươi lăm	8095
-tám nghìn chín mươi sáu	8096
-tám nghìn chín mươi bảy	8097
-tám nghìn chín mươi tám	8098
-tám nghìn chín mươi chín	8099
+tám nghìn không trăm linh một	8001
+tám nghìn không trăm linh hai	8002
+tám nghìn không trăm linh ba	8003
+tám nghìn không trăm linh bốn	8004
+tám nghìn không trăm linh năm	8005
+tám nghìn không trăm linh sáu	8006
+tám nghìn không trăm linh bảy	8007
+tám nghìn không trăm linh tám	8008
+tám nghìn không trăm linh chín	8009
+tám nghìn không trăm mười 	8010
+tám nghìn không trăm mười một	8011
+tám nghìn không trăm mười hai	8012
+tám nghìn không trăm mười ba	8013
+tám nghìn không trăm mười bốn	8014
+tám nghìn không trăm mười lăm	8015
+tám nghìn không trăm mười sáu	8016
+tám nghìn không trăm mười bảy	8017
+tám nghìn không trăm mười tám	8018
+tám nghìn không trăm mười chín	8019
+tám nghìn không trăm hai mươi 	8020
+tám nghìn không trăm hai mươi mốt	8021
+tám nghìn không trăm hai mươi hai	8022
+tám nghìn không trăm hai mươi ba	8023
+tám nghìn không trăm hai mươi bốn	8024
+tám nghìn không trăm hai mươi lăm	8025
+tám nghìn không trăm hai mươi sáu	8026
+tám nghìn không trăm hai mươi bảy	8027
+tám nghìn không trăm hai mươi tám	8028
+tám nghìn không trăm hai mươi chín	8029
+tám nghìn không trăm ba mươi 	8030
+tám nghìn không trăm ba mươi mốt	8031
+tám nghìn không trăm ba mươi hai	8032
+tám nghìn không trăm ba mươi ba	8033
+tám nghìn không trăm ba mươi bốn	8034
+tám nghìn không trăm ba mươi lăm	8035
+tám nghìn không trăm ba mươi sáu	8036
+tám nghìn không trăm ba mươi bảy	8037
+tám nghìn không trăm ba mươi tám	8038
+tám nghìn không trăm ba mươi chín	8039
+tám nghìn không trăm bốn mươi 	8040
+tám nghìn không trăm bốn mươi mốt	8041
+tám nghìn không trăm bốn mươi hai	8042
+tám nghìn không trăm bốn mươi ba	8043
+tám nghìn không trăm bốn mươi bốn	8044
+tám nghìn không trăm bốn mươi lăm	8045
+tám nghìn không trăm bốn mươi sáu	8046
+tám nghìn không trăm bốn mươi bảy	8047
+tám nghìn không trăm bốn mươi tám	8048
+tám nghìn không trăm bốn mươi chín	8049
+tám nghìn không trăm năm mươi 	8050
+tám nghìn không trăm năm mươi mốt	8051
+tám nghìn không trăm năm mươi hai	8052
+tám nghìn không trăm năm mươi ba	8053
+tám nghìn không trăm năm mươi bốn	8054
+tám nghìn không trăm năm mươi lăm	8055
+tám nghìn không trăm năm mươi sáu	8056
+tám nghìn không trăm năm mươi bảy	8057
+tám nghìn không trăm năm mươi tám	8058
+tám nghìn không trăm năm mươi chín	8059
+tám nghìn không trăm sáu mươi 	8060
+tám nghìn không trăm sáu mươi mốt	8061
+tám nghìn không trăm sáu mươi hai	8062
+tám nghìn không trăm sáu mươi ba	8063
+tám nghìn không trăm sáu mươi bốn	8064
+tám nghìn không trăm sáu mươi lăm	8065
+tám nghìn không trăm sáu mươi sáu	8066
+tám nghìn không trăm sáu mươi bảy	8067
+tám nghìn không trăm sáu mươi tám	8068
+tám nghìn không trăm sáu mươi chín	8069
+tám nghìn không trăm bảy mươi 	8070
+tám nghìn không trăm bảy mươi mốt	8071
+tám nghìn không trăm bảy mươi hai	8072
+tám nghìn không trăm bảy mươi ba	8073
+tám nghìn không trăm bảy mươi bốn	8074
+tám nghìn không trăm bảy mươi lăm	8075
+tám nghìn không trăm bảy mươi sáu	8076
+tám nghìn không trăm bảy mươi bảy	8077
+tám nghìn không trăm bảy mươi tám	8078
+tám nghìn không trăm bảy mươi chín	8079
+tám nghìn không trăm tám mươi 	8080
+tám nghìn không trăm tám mươi mốt	8081
+tám nghìn không trăm tám mươi hai	8082
+tám nghìn không trăm tám mươi ba	8083
+tám nghìn không trăm tám mươi bốn	8084
+tám nghìn không trăm tám mươi lăm	8085
+tám nghìn không trăm tám mươi sáu	8086
+tám nghìn không trăm tám mươi bảy	8087
+tám nghìn không trăm tám mươi tám	8088
+tám nghìn không trăm tám mươi chín	8089
+tám nghìn không trăm chín mươi 	8090
+tám nghìn không trăm chín mươi mốt	8091
+tám nghìn không trăm chín mươi hai	8092
+tám nghìn không trăm chín mươi ba	8093
+tám nghìn không trăm chín mươi bốn	8094
+tám nghìn không trăm chín mươi lăm	8095
+tám nghìn không trăm chín mươi sáu	8096
+tám nghìn không trăm chín mươi bảy	8097
+tám nghìn không trăm chín mươi tám	8098
+tám nghìn không trăm chín mươi chín	8099
 tám nghìn một trăm 	8100
 tám nghìn một trăm linh một	8101
 tám nghìn một trăm linh hai	8102
@@ -8999,105 +8978,105 @@ tám nghìn chín trăm chín mươi bảy	8997
 tám nghìn chín trăm chín mươi tám	8998
 tám nghìn chín trăm chín mươi chín	8999
 chín nghìn 	9000
-chín nghìn một	9001
-chín nghìn hai	9002
-chín nghìn ba	9003
-chín nghìn bốn	9004
-chín nghìn năm	9005
-chín nghìn sáu	9006
-chín nghìn bảy	9007
-chín nghìn tám	9008
-chín nghìn chín	9009
-chín nghìn mười 	9010
-chín nghìn mười một	9011
-chín nghìn mười hai	9012
-chín nghìn mười ba	9013
-chín nghìn mười bốn	9014
-chín nghìn mười lăm	9015
-chín nghìn mười sáu	9016
-chín nghìn mười bảy	9017
-chín nghìn mười tám	9018
-chín nghìn mười chín	9019
-chín nghìn hai mươi 	9020
-chín nghìn hai mươi mốt	9021
-chín nghìn hai mươi hai	9022
-chín nghìn hai mươi ba	9023
-chín nghìn hai mươi bốn	9024
-chín nghìn hai mươi lăm	9025
-chín nghìn hai mươi sáu	9026
-chín nghìn hai mươi bảy	9027
-chín nghìn hai mươi tám	9028
-chín nghìn hai mươi chín	9029
-chín nghìn ba mươi 	9030
-chín nghìn ba mươi mốt	9031
-chín nghìn ba mươi hai	9032
-chín nghìn ba mươi ba	9033
-chín nghìn ba mươi bốn	9034
-chín nghìn ba mươi lăm	9035
-chín nghìn ba mươi sáu	9036
-chín nghìn ba mươi bảy	9037
-chín nghìn ba mươi tám	9038
-chín nghìn ba mươi chín	9039
-chín nghìn bốn mươi 	9040
-chín nghìn bốn mươi mốt	9041
-chín nghìn bốn mươi hai	9042
-chín nghìn bốn mươi ba	9043
-chín nghìn bốn mươi bốn	9044
-chín nghìn bốn mươi lăm	9045
-chín nghìn bốn mươi sáu	9046
-chín nghìn bốn mươi bảy	9047
-chín nghìn bốn mươi tám	9048
-chín nghìn bốn mươi chín	9049
-chín nghìn năm mươi 	9050
-chín nghìn năm mươi mốt	9051
-chín nghìn năm mươi hai	9052
-chín nghìn năm mươi ba	9053
-chín nghìn năm mươi bốn	9054
-chín nghìn năm mươi lăm	9055
-chín nghìn năm mươi sáu	9056
-chín nghìn năm mươi bảy	9057
-chín nghìn năm mươi tám	9058
-chín nghìn năm mươi chín	9059
-chín nghìn sáu mươi 	9060
-chín nghìn sáu mươi mốt	9061
-chín nghìn sáu mươi hai	9062
-chín nghìn sáu mươi ba	9063
-chín nghìn sáu mươi bốn	9064
-chín nghìn sáu mươi lăm	9065
-chín nghìn sáu mươi sáu	9066
-chín nghìn sáu mươi bảy	9067
-chín nghìn sáu mươi tám	9068
-chín nghìn sáu mươi chín	9069
-chín nghìn bảy mươi 	9070
-chín nghìn bảy mươi mốt	9071
-chín nghìn bảy mươi hai	9072
-chín nghìn bảy mươi ba	9073
-chín nghìn bảy mươi bốn	9074
-chín nghìn bảy mươi lăm	9075
-chín nghìn bảy mươi sáu	9076
-chín nghìn bảy mươi bảy	9077
-chín nghìn bảy mươi tám	9078
-chín nghìn bảy mươi chín	9079
-chín nghìn tám mươi 	9080
-chín nghìn tám mươi mốt	9081
-chín nghìn tám mươi hai	9082
-chín nghìn tám mươi ba	9083
-chín nghìn tám mươi bốn	9084
-chín nghìn tám mươi lăm	9085
-chín nghìn tám mươi sáu	9086
-chín nghìn tám mươi bảy	9087
-chín nghìn tám mươi tám	9088
-chín nghìn tám mươi chín	9089
-chín nghìn chín mươi 	9090
-chín nghìn chín mươi mốt	9091
-chín nghìn chín mươi hai	9092
-chín nghìn chín mươi ba	9093
-chín nghìn chín mươi bốn	9094
-chín nghìn chín mươi lăm	9095
-chín nghìn chín mươi sáu	9096
-chín nghìn chín mươi bảy	9097
-chín nghìn chín mươi tám	9098
-chín nghìn chín mươi chín	9099
+chín nghìn không trăm linh một	9001
+chín nghìn không trăm linh hai	9002
+chín nghìn không trăm linh ba	9003
+chín nghìn không trăm linh bốn	9004
+chín nghìn không trăm linh năm	9005
+chín nghìn không trăm linh sáu	9006
+chín nghìn không trăm linh bảy	9007
+chín nghìn không trăm linh tám	9008
+chín nghìn không trăm linh chín	9009
+chín nghìn không trăm mười 	9010
+chín nghìn không trăm mười một	9011
+chín nghìn không trăm mười hai	9012
+chín nghìn không trăm mười ba	9013
+chín nghìn không trăm mười bốn	9014
+chín nghìn không trăm mười lăm	9015
+chín nghìn không trăm mười sáu	9016
+chín nghìn không trăm mười bảy	9017
+chín nghìn không trăm mười tám	9018
+chín nghìn không trăm mười chín	9019
+chín nghìn không trăm hai mươi 	9020
+chín nghìn không trăm hai mươi mốt	9021
+chín nghìn không trăm hai mươi hai	9022
+chín nghìn không trăm hai mươi ba	9023
+chín nghìn không trăm hai mươi bốn	9024
+chín nghìn không trăm hai mươi lăm	9025
+chín nghìn không trăm hai mươi sáu	9026
+chín nghìn không trăm hai mươi bảy	9027
+chín nghìn không trăm hai mươi tám	9028
+chín nghìn không trăm hai mươi chín	9029
+chín nghìn không trăm ba mươi 	9030
+chín nghìn không trăm ba mươi mốt	9031
+chín nghìn không trăm ba mươi hai	9032
+chín nghìn không trăm ba mươi ba	9033
+chín nghìn không trăm ba mươi bốn	9034
+chín nghìn không trăm ba mươi lăm	9035
+chín nghìn không trăm ba mươi sáu	9036
+chín nghìn không trăm ba mươi bảy	9037
+chín nghìn không trăm ba mươi tám	9038
+chín nghìn không trăm ba mươi chín	9039
+chín nghìn không trăm bốn mươi 	9040
+chín nghìn không trăm bốn mươi mốt	9041
+chín nghìn không trăm bốn mươi hai	9042
+chín nghìn không trăm bốn mươi ba	9043
+chín nghìn không trăm bốn mươi bốn	9044
+chín nghìn không trăm bốn mươi lăm	9045
+chín nghìn không trăm bốn mươi sáu	9046
+chín nghìn không trăm bốn mươi bảy	9047
+chín nghìn không trăm bốn mươi tám	9048
+chín nghìn không trăm bốn mươi chín	9049
+chín nghìn không trăm năm mươi 	9050
+chín nghìn không trăm năm mươi mốt	9051
+chín nghìn không trăm năm mươi hai	9052
+chín nghìn không trăm năm mươi ba	9053
+chín nghìn không trăm năm mươi bốn	9054
+chín nghìn không trăm năm mươi lăm	9055
+chín nghìn không trăm năm mươi sáu	9056
+chín nghìn không trăm năm mươi bảy	9057
+chín nghìn không trăm năm mươi tám	9058
+chín nghìn không trăm năm mươi chín	9059
+chín nghìn không trăm sáu mươi 	9060
+chín nghìn không trăm sáu mươi mốt	9061
+chín nghìn không trăm sáu mươi hai	9062
+chín nghìn không trăm sáu mươi ba	9063
+chín nghìn không trăm sáu mươi bốn	9064
+chín nghìn không trăm sáu mươi lăm	9065
+chín nghìn không trăm sáu mươi sáu	9066
+chín nghìn không trăm sáu mươi bảy	9067
+chín nghìn không trăm sáu mươi tám	9068
+chín nghìn không trăm sáu mươi chín	9069
+chín nghìn không trăm bảy mươi 	9070
+chín nghìn không trăm bảy mươi mốt	9071
+chín nghìn không trăm bảy mươi hai	9072
+chín nghìn không trăm bảy mươi ba	9073
+chín nghìn không trăm bảy mươi bốn	9074
+chín nghìn không trăm bảy mươi lăm	9075
+chín nghìn không trăm bảy mươi sáu	9076
+chín nghìn không trăm bảy mươi bảy	9077
+chín nghìn không trăm bảy mươi tám	9078
+chín nghìn không trăm bảy mươi chín	9079
+chín nghìn không trăm tám mươi 	9080
+chín nghìn không trăm tám mươi mốt	9081
+chín nghìn không trăm tám mươi hai	9082
+chín nghìn không trăm tám mươi ba	9083
+chín nghìn không trăm tám mươi bốn	9084
+chín nghìn không trăm tám mươi lăm	9085
+chín nghìn không trăm tám mươi sáu	9086
+chín nghìn không trăm tám mươi bảy	9087
+chín nghìn không trăm tám mươi tám	9088
+chín nghìn không trăm tám mươi chín	9089
+chín nghìn không trăm chín mươi 	9090
+chín nghìn không trăm chín mươi mốt	9091
+chín nghìn không trăm chín mươi hai	9092
+chín nghìn không trăm chín mươi ba	9093
+chín nghìn không trăm chín mươi bốn	9094
+chín nghìn không trăm chín mươi lăm	9095
+chín nghìn không trăm chín mươi sáu	9096
+chín nghìn không trăm chín mươi bảy	9097
+chín nghìn không trăm chín mươi tám	9098
+chín nghìn không trăm chín mươi chín	9099
 chín nghìn một trăm 	9100
 chín nghìn một trăm linh một	9101
 chín nghìn một trăm linh hai	9102
