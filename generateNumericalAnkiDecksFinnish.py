@@ -1,5 +1,5 @@
 from file_io import load_file_to_str, save_str_to_file
-from NumeralGenerator import NumeralGeneratorFinnish
+from NumeralGenerator import NumeralGeneratorFinnish, NumeralGeneratorTurkish
 
 # Generate numbers
 numGenerator = NumeralGeneratorFinnish()
