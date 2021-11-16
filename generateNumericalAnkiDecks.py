@@ -1,8 +1,12 @@
 from file_io import load_file_to_str, save_str_to_file
-from NumeralGenerator import NumeralGeneratorFinnish, NumeralGeneratorTurkish
+from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, NumeralGeneratorFinnish, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
 
 # Generate numbers
-numGenerator = NumeralGeneratorFinnish()
+numGenerator = NumeralGeneratorChineseHanzi()
+#numGenerator = NumeralGeneratorChineseMandarin()
+#numGenerator = NumeralGeneratorFinnish()
+#numGenerator = NumeralGeneratorTurkish()
+#numGenerator = NumeralGeneratorVietnamese()
 def getListOfNumerals(start, end):
 	daList = ''
 	for x in range(start, end+1):

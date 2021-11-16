@@ -16,7 +16,7 @@ class NumeralGenerator:
 
 class NumeralGeneratorChineseHanzi(NumeralGenerator):
 	def __init__(self):
-		NumeralGenerator.__init__(self, 'hanzi')
+		NumeralGenerator.__init__(self, 'chinese_hanzi')
 		self.ones = [
 			'零', # 0
 			'一', # 1
@@ -65,7 +65,7 @@ class NumeralGeneratorChineseHanzi(NumeralGenerator):
 
 class NumeralGeneratorChineseMandarin(NumeralGenerator):
 	def __init__(self):
-		NumeralGenerator.__init__(self, 'mandarin_chinese')		
+		NumeralGenerator.__init__(self, 'chinese_mandarin')		
 		self.ones = [
 			'líng', # 0
 			'yī', # 1
