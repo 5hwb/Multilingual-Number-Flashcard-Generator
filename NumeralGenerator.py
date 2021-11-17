@@ -1,4 +1,7 @@
 class NumeralGenerator:
+	'''
+	Base class for all NumeralGenerators for each language
+	'''
 	def __init__(self, name):
 		self.name = name
 	
@@ -15,6 +18,9 @@ class NumeralGenerator:
 		return ''
 
 class NumeralGeneratorChineseHanzi(NumeralGenerator):
+	'''
+	Numeral generator for Chinese (hanzi)
+	'''
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'chinese_hanzi')
 		self.ones = [
@@ -64,6 +70,9 @@ class NumeralGeneratorChineseHanzi(NumeralGenerator):
 			return self.get1(iv, True) + self.oneThousand + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorChineseMandarin(NumeralGenerator):
+	'''
+	Numeral generator for Chinese (Mandarin)
+	'''
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'chinese_mandarin')		
 		self.ones = [
@@ -113,6 +122,9 @@ class NumeralGeneratorChineseMandarin(NumeralGenerator):
 			return self.get1(iv, True) + ' ' + self.oneThousand + ' ' + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorFinnish(NumeralGenerator):
+	'''
+	Numeral generator for Finnish
+	'''
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'finnish')	
 		self.ones = [
@@ -160,6 +172,9 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 			return self.get1(iv, True) + 'tuhatta' + ' ' + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorTurkish(NumeralGenerator):
+	'''
+	Numeral generator for Turkish
+	'''
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'turkish')
 		self.ones = [
@@ -219,6 +234,9 @@ class NumeralGeneratorTurkish(NumeralGenerator):
 			return self.get1(iv, True) + ' ' + self.oneThousand + ' ' + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorVietnamese(NumeralGenerator):
+	'''
+	Numeral generator for Vietnamese
+	'''
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'vietnamese')
 		# 1000 = một nghìn
