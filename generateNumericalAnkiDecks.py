@@ -1,9 +1,10 @@
 from file_io import load_file_to_str, save_str_to_file
-from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, NumeralGeneratorFinnish, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
+from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
 
 # Generate numbers
-numGenerator = NumeralGeneratorChineseHanzi()
+#numGenerator = NumeralGeneratorChineseHanzi()
 #numGenerator = NumeralGeneratorChineseMandarin()
+numGenerator = NumeralGeneratorEnglish()
 #numGenerator = NumeralGeneratorFinnish()
 #numGenerator = NumeralGeneratorTurkish()
 #numGenerator = NumeralGeneratorVietnamese()

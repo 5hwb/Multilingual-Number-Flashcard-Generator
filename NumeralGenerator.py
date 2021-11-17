@@ -121,6 +121,84 @@ class NumeralGeneratorChineseMandarin(NumeralGenerator):
 		else:
 			return self.get1(iv, True) + ' ' + self.oneThousand + ' ' + self.get100(iii, ii, i, True)
 
+class NumeralGeneratorEnglish(NumeralGenerator):
+	'''
+	Numeral generator for English
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'english')	
+		self.ones = [
+			'zero', # 0
+			'one', # 1
+			'two', # 2
+			'three', # 3
+			'four', # 4
+			'five', # 5
+			'six', # 6
+			'seven', # 7
+			'eight', # 8
+			'nine' # 9
+		]
+		self.teens = [
+			'', # 10
+			'eleven', # 11
+			'twelve', # 12
+			'thirteen', # 13
+			'fourteen', # 14
+			'fifteen', # 15
+			'sixteen', # 16
+			'seventeen', # 17
+			'eighteen', # 18
+			'nineteen' # 19
+		]
+		self.tens = [
+			'', # 0
+			'ten', # 10
+			'twenty', # 20
+			'thirty', # 30
+			'forty', # 40
+			'fifty', # 50
+			'sixty', # 60
+			'seventy', # 70
+			'eighty', # 80
+			'ninety' # 90
+		]
+		self.hundred = 'hundred'
+		self.thousand = 'thousand'
+	
+	def get1(self, i, isNoZero=False):
+		if isNoZero and i == 0:
+			return ''
+		return self.ones[i]
+	
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		elif ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19 
+			return self.teens[i]
+		elif i == 0: # 20, 30, 40...
+			return self.tens[ii]
+		else: # >= 21
+			return self.tens[ii] + '-' + self.get1(i, True)
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		if iii == 0:
+			return self.get10(ii, i, isNoZero)
+		elif ii == 0 and i == 0:
+			return self.get1(iii, True) + ' ' + self.hundred
+		else:
+			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		elif iii == 0 and not (ii == 0 and i == 0): # 1001-1099, 2001-2099...
+			return self.get1(iv, True) + ' ' + self.thousand + ' and ' + self.get100(iii, ii, i, True)
+		else: # >= 1100
+			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
+
 class NumeralGeneratorFinnish(NumeralGenerator):
 	'''
 	Numeral generator for Finnish
