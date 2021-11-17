@@ -139,6 +139,13 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 			'kahdeksan', # 8
 			'yhdeksän' # 9
 		]
+		self.oneTen = 'kymmenen'
+		self.teens = 'toista'
+		self.twoOrMoreTens = 'kymmentä'
+		self.oneHundred = 'sata'
+		self.twoOrMoreHundreds = 'sataa'
+		self.oneThousand = 'tuhat'
+		self.twoOrMoreThousands = 'tuhatta'
 	
 	def get1(self, i, isNoZero=False):
 		if isNoZero and i == 0:
@@ -149,27 +156,27 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 		if ii == 0:
 			return self.get1(i, isNoZero)
 		elif ii == 1 and i == 0:
-			return 'kymmenen'
+			return self.oneTen
 		elif ii == 1:
-			return self.get1(i, True) + 'toista'
+			return self.get1(i, True) + self.teens
 		else:
-			return self.get1(ii, True) + 'kymmentä' + ' ' + self.get1(i, True)
+			return self.get1(ii, True) + self.twoOrMoreTens + ' ' + self.get1(i, True)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
 		if iii == 0:
 			return self.get10(ii, i, isNoZero)
 		elif iii == 1:
-			return 'sata' + ' ' + self.get10(ii, i, True)
+			return self.oneHundred + ' ' + self.get10(ii, i, True)
 		else:
-			return self.get1(iii, True) + 'sataa' + ' ' + self.get10(ii, i, True)
+			return self.get1(iii, True) + self.twoOrMoreHundreds + ' ' + self.get10(ii, i, True)
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0:
 			return self.get100(iii, ii, i, isNoZero)
 		elif iv == 1:
-			return 'tuhat' + ' ' + self.get100(iii, ii, i, True)
+			return self.oneThousand + ' ' + self.get100(iii, ii, i, True)
 		else:
-			return self.get1(iv, True) + 'tuhatta' + ' ' + self.get100(iii, ii, i, True)
+			return self.get1(iv, True) + self.twoOrMoreThousands + ' ' + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorTurkish(NumeralGenerator):
 	'''
