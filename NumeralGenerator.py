@@ -184,11 +184,11 @@ class NumeralGeneratorEnglish(NumeralGenerator):
 			return self.tens[ii] + '-' + self.get1(i, True)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
-		if iii == 0:
+		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
-		elif ii == 0 and i == 0:
+		elif ii == 0 and i == 0: # 100, 200...
 			return self.get1(iii, True) + ' ' + self.hundred
-		else:
+		else: # 101-199, 201-299...
 			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
@@ -255,6 +255,85 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 			return self.oneThousand + ' ' + self.get100(iii, ii, i, True)
 		else:
 			return self.get1(iv, True) + self.twoOrMoreThousands + ' ' + self.get100(iii, ii, i, True)
+
+class NumeralGeneratorGerman(NumeralGenerator):
+	'''
+	Numeral generator for German
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'german')	
+		self.ones = [
+			'null', # 0
+			'eins', # 1
+			'zwei', # 2
+			'drei', # 3
+			'vier', # 4
+			'fünf', # 5
+			'sechs', # 6
+			'sieben', # 7
+			'acht', # 8
+			'neun' # 9
+		]
+		self.teens = [
+			'', # 10
+			'elf', # 11
+			'zwölf', # 12
+			'dreizehn', # 13
+			'vierzehn', # 14
+			'fünfzehn', # 15
+			'sechzehn', # 16
+			'siebzehn', # 17
+			'achtzehn', # 18
+			'neunzehn' # 19
+		]
+		self.tens = [
+			'', # 0
+			'zehn', # 10
+			'zwanzig', # 20
+			'dreißig', # 30
+			'vierzig', # 40
+			'fünfzig', # 50
+			'sechzig', # 60
+			'siebzig', # 70
+			'achtzig', # 80
+			'neunzig' # 90
+		]
+		self.altOne = 'ein'
+		self.hundred = 'hundert'
+		self.thousand = 'tausend'
+	
+	def get1(self, i, isNoZero=False, useAltOne=False):
+		if isNoZero and i == 0:
+			return ''
+		if useAltOne and i == 1:
+			return self.altOne
+		return self.ones[i]
+	
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		elif ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19 
+			return self.teens[i]
+		elif i == 0: # 20, 30, 40...
+			return self.tens[ii]
+		else: # >= 21
+			return self.get1(i, True, useAltOne=True) + 'und' + self.tens[ii]
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		elif ii == 0 and i == 0: # 100, 200...
+			return self.get1(iii, True, useAltOne=True) + self.hundred
+		else: # 101-199, 201-299...
+			return self.get1(iii, True, useAltOne=True) + self.hundred + ' ' + self.get10(ii, i, True)
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		else: # >= 1001
+			return self.get1(iv, True, useAltOne=True) + self.thousand + ' ' + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorTurkish(NumeralGenerator):
 	'''

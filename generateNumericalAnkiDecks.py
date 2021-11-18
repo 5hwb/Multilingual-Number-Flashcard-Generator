@@ -1,11 +1,12 @@
 from file_io import load_file_to_str, save_str_to_file
-from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
+from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorGerman, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
 
 # Generate numbers
 #numGenerator = NumeralGeneratorChineseHanzi()
 #numGenerator = NumeralGeneratorChineseMandarin()
-numGenerator = NumeralGeneratorEnglish()
+#numGenerator = NumeralGeneratorEnglish()
 #numGenerator = NumeralGeneratorFinnish()
+numGenerator = NumeralGeneratorGerman()
 #numGenerator = NumeralGeneratorTurkish()
 #numGenerator = NumeralGeneratorVietnamese()
 def getListOfNumerals(start, end):
