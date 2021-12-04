@@ -261,7 +261,7 @@ class NumeralGeneratorFrench(NumeralGenerator):
 	Numeral generator for French
 	'''
 	def __init__(self):
-		NumeralGenerator.__init__(self, 'english')	
+		NumeralGenerator.__init__(self, 'french')	
 		self.ones = [
 			'zéro', # 0
 			'un', # 1
@@ -294,11 +294,13 @@ class NumeralGeneratorFrench(NumeralGenerator):
 			'quarante', # 40
 			'cinquante', # 50
 			'soixante', # 60
-			'', # 70
-			'quatre-vingts', # 80
-			'' # 90
+			'soixante', # 70
+			'quatre-vingt', # 80
+			'quatre-vingt' # 90
 		]
 		self.altOne = 'et-un'
+		self.altEleven = 'et-onze'
+		self.eighty = 'quatre-vingts'
 		self.hundred = 'cent'
 		self.thousand = 'thousand'
 	
@@ -309,17 +311,33 @@ class NumeralGeneratorFrench(NumeralGenerator):
 			return self.altOne
 		return self.ones[i]
 
+	def getTeens(self, i, isNoZero=False, useAltEleven=False):
+		if isNoZero and i == 0:
+			return ''
+		if useAltEleven and i == 1:
+			return self.altEleven
+		return self.teens[i]
+
 	def get10(self, ii, i, isNoZero=False):
 		if ii == 0: # < 10
 			return self.get1(i, isNoZero)
 		elif ii == 1 and i == 0: # 10
 			return self.tens[ii]
 		elif ii == 1: # 11-19 
-			return self.teens[i]
+			return self.getTeens(i)
+		elif (ii == 7 or ii == 9) and i == 0: # 70, 90 
+			return self.tens[ii-1] + '-' + self.tens[1]
+		elif ii == 8 and i == 0: # 80 
+			return self.eighty
 		elif i == 0: # 20, 30, 40...
 			return self.tens[ii]
-		else: # >= 21
-			return self.tens[ii] + '-' + self.get1(i, True)
+		elif i == 1 and ii != 8: # == 21, 31, 41... special case for 81
+			theAltOne = self.getTeens(i, True, ii == 7) if (ii == 7 or ii == 9) else self.altOne
+			return self.tens[ii] + '-' + theAltOne
+		else: # 22, 45, etc
+			theOne = self.getTeens(i, True, ii == 7) if (ii == 7 or ii == 9) else self.get1(i, True)
+			return self.tens[ii] + '-' + theOne
+		# TODO: 70 (60 + 10??), 90 (80 + 10!!)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
 		if iii == 0: # < 100
