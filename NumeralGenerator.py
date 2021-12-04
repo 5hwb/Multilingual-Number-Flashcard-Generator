@@ -256,6 +256,87 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 		else:
 			return self.get1(iv, True) + self.twoOrMoreThousands + ' ' + self.get100(iii, ii, i, True)
 
+class NumeralGeneratorFrench(NumeralGenerator):
+	'''
+	Numeral generator for French
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'english')	
+		self.ones = [
+			'zéro', # 0
+			'un', # 1
+			'deux', # 2
+			'trois', # 3
+			'quatre', # 4
+			'cinq', # 5
+			'six', # 6
+			'sept', # 7
+			'huit', # 8
+			'neuf' # 9
+		]
+		self.teens = [
+			'', # 10
+			'onze', # 11
+			'douze', # 12
+			'treize', # 13
+			'quatorze', # 14
+			'quinze', # 15
+			'seize', # 16
+			'dix-sept', # 17
+			'dix-huit', # 18
+			'dix-neuf' # 19
+		]
+		self.tens = [
+			'', # 0
+			'dix', # 10
+			'vingt', # 20
+			'trente', # 30
+			'quarante', # 40
+			'cinquante', # 50
+			'soixante', # 60
+			'', # 70
+			'quatre-vingts', # 80
+			'' # 90
+		]
+		self.altOne = 'et-un'
+		self.hundred = 'cent'
+		self.thousand = 'thousand'
+	
+	def get1(self, i, isNoZero=False, useAltOne=False):
+		if isNoZero and i == 0:
+			return ''
+		if useAltOne and i == 1:
+			return self.altOne
+		return self.ones[i]
+
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		elif ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19 
+			return self.teens[i]
+		elif i == 0: # 20, 30, 40...
+			return self.tens[ii]
+		else: # >= 21
+			return self.tens[ii] + '-' + self.get1(i, True)
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		elif ii == 0 and i == 0: # 100, 200...
+			return self.get1(iii, True) + ' ' + self.hundred
+		else: # 101-199, 201-299...
+			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		elif iii == 0 and not (ii == 0 and i == 0): # 1001-1099, 2001-2099...
+			return self.get1(iv, True) + ' ' + self.thousand + ' and ' + self.get100(iii, ii, i, True)
+		else: # >= 1100
+			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
+
 class NumeralGeneratorGerman(NumeralGenerator):
 	'''
 	Numeral generator for German
