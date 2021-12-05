@@ -302,7 +302,8 @@ class NumeralGeneratorFrench(NumeralGenerator):
 		self.altEleven = 'et-onze'
 		self.eighty = 'quatre-vingts'
 		self.hundred = 'cent'
-		self.thousand = 'thousand'
+		self.hundreds = 'cents'
+		self.thousand = 'mille'
 	
 	def get1(self, i, isNoZero=False, useAltOne=False):
 		if isNoZero and i == 0:
@@ -337,15 +338,17 @@ class NumeralGeneratorFrench(NumeralGenerator):
 		else: # 22, 45, etc
 			theOne = self.getTeens(i, True, ii == 7) if (ii == 7 or ii == 9) else self.get1(i, True)
 			return self.tens[ii] + '-' + theOne
-		# TODO: 70 (60 + 10??), 90 (80 + 10!!)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
 		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
-		elif ii == 0 and i == 0: # 100, 200...
-			return self.get1(iii, True) + ' ' + self.hundred
-		else: # 101-199, 201-299...
-			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
+		elif iii == 1: # 100
+			theTen = '' if (ii == 0 and i == 0) else '-' + self.get10(ii, i, True)
+			return self.hundred + theTen
+		else: # 200, 300, 400...
+			theHundred = self.hundreds if (ii == 0 and i == 0) else self.hundred
+			theTen = '' if (ii == 0 and i == 0) else '-' + self.get10(ii, i, True)
+			return self.get1(iii, True) + '-' + theHundred + theTen
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0: # < 1000
