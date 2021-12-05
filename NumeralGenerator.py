@@ -342,21 +342,19 @@ class NumeralGeneratorFrench(NumeralGenerator):
 	def get100(self, iii, ii, i, isNoZero=False):
 		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
-		elif iii == 1: # 100
+		else: # 100, 200, 300, 400...
+			theNumHundred = '' if iii == 1 else self.get1(iii, True) + '-'
+			theHundred = self.hundreds if (iii != 1 and (ii == 0 and i == 0)) else self.hundred
 			theTen = '' if (ii == 0 and i == 0) else '-' + self.get10(ii, i, True)
-			return self.hundred + theTen
-		else: # 200, 300, 400...
-			theHundred = self.hundreds if (ii == 0 and i == 0) else self.hundred
-			theTen = '' if (ii == 0 and i == 0) else '-' + self.get10(ii, i, True)
-			return self.get1(iii, True) + '-' + theHundred + theTen
+			return theNumHundred + theHundred + theTen
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0: # < 1000
 			return self.get100(iii, ii, i, isNoZero)
-		elif iii == 0 and not (ii == 0 and i == 0): # 1001-1099, 2001-2099...
-			return self.get1(iv, True) + ' ' + self.thousand + ' and ' + self.get100(iii, ii, i, True)
 		else: # >= 1100
-			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
+			theNumThousand = '' if iv == 1 else self.get1(iv, True) + '-'
+			theHundred = '' if (iii == 0 and ii == 0 and i == 0) else '-' + self.get100(iii, ii, i, True)
+			return theNumThousand + self.thousand + theHundred
 
 class NumeralGeneratorGerman(NumeralGenerator):
 	'''
