@@ -1,14 +1,15 @@
 from file_io import load_file_to_str, save_str_to_file
 from NumeralGenerator import NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, \
-NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorFrench, NumeralGeneratorGerman, \
-NumeralGeneratorTurkish, NumeralGeneratorVietnamese
+NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorFrench, NumeralGeneratorGeorgian, \
+NumeralGeneratorGerman, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
 
 # Generate numbers
 #numGenerator = NumeralGeneratorChineseHanzi()
 #numGenerator = NumeralGeneratorChineseMandarin()
 #numGenerator = NumeralGeneratorEnglish()
 #numGenerator = NumeralGeneratorFinnish()
-numGenerator = NumeralGeneratorFrench()
+#numGenerator = NumeralGeneratorFrench()
+numGenerator = NumeralGeneratorGeorgian()
 #numGenerator = NumeralGeneratorGerman()
 #numGenerator = NumeralGeneratorTurkish()
 #numGenerator = NumeralGeneratorVietnamese()

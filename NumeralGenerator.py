@@ -356,6 +356,84 @@ class NumeralGeneratorFrench(NumeralGenerator):
 			theHundred = '' if (iii == 0 and ii == 0 and i == 0) else '-' + self.get100(iii, ii, i, True)
 			return theNumThousand + self.thousand + theHundred
 
+class NumeralGeneratorGeorgian(NumeralGenerator):
+	'''
+	Numeral generator for Georgian
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'georgian')
+		self.ones = [
+			'nul', # 0
+			'ert', # 1
+			'or', # 2
+			'sam', # 3
+			'otkh', # 4
+			'khut', # 5
+			'ekvs', # 6
+			'švid', # 7
+			'rva', # 8
+			'tskhra' # 9
+		]
+		self.teens = [
+			'ati', # 10
+			'tertmet\'i', # 11
+			'tormet\'i', # 12
+			'tsamet\'i', # 13
+			'totkhmet\'i', # 14
+			'tkhutmet\'i', # 15
+			'tekvsmet\'i', # 16
+			'čvidmet\'i', # 17
+			'tvramet\'i', # 18
+			'tskhramet\'i' # 19
+		]
+		self.twenties = [
+			'', # 0
+			'ots', # 20
+			'ormots', # 40
+			'samots', # 60
+			'otkhmots', # 80
+		]
+		self.hundred = 'as'
+		self.thousand = 'atas'
+
+	def get1(self, i, isNoZero=False):
+		if isNoZero and i == 0:
+			return ''
+		return self.ones[i] + ('' if i == 8 or i == 9 else 'i')
+
+	def getTeens(self, i, isNoZero=False):
+		onesAndTeens = self.ones + self.teens
+		print('getTeens: i={}'.format(i))
+		if isNoZero and i == 0:
+			return ''
+		return onesAndTeens[i] + ('' if i == 8 or i == 9 else 'i')
+
+	def get10(self, ii, i, isNoZero=False):
+		if ii <= 1: # < 20
+			return self.getTeens((ii*10) + i, isNoZero)
+		elif i == 0 and ii % 2 == 0: # even number = mult of 20
+			return self.twenties[ii // 2] + 'i'
+		else:
+			print('get10: ii={} i={}'.format(ii, i))
+			return self.twenties[ii // 2] + 'da' + self.getTeens(((ii % 2)*10) + i, True)
+
+	def get100(self, iii, ii, i, isNoZero=False):
+		if iii == 0:
+			return self.get10(ii, i, isNoZero)
+		elif iii == 1:
+			return self.hundred + ' ' + self.get10(ii, i, True)
+		else:
+			return self.get1(iii, True) + ' ' + self.hundred + ' ' + self.get10(ii, i, True)
+
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		if iv == 0:
+			return self.get100(iii, ii, i, isNoZero)
+		elif iv == 1:
+			return self.thousand + ' ' + self.get100(iii, ii, i, True)
+		else:
+			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
+
+
 class NumeralGeneratorGerman(NumeralGenerator):
 	'''
 	Numeral generator for German
