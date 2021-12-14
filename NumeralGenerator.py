@@ -206,7 +206,7 @@ class NumeralGeneratorFinnish(NumeralGenerator):
 	def __init__(self):
 		NumeralGenerator.__init__(self, 'finnish')	
 		self.ones = [
-			'tyhjä', # 0
+			'nolla', # 0
 			'yksi', # 1
 			'kaksi', # 2
 			'kolme', # 3

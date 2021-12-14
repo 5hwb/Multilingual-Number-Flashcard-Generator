@@ -1,6 +1,6 @@
 # Multilingual Number Flashcard Generator: Generate Anki flashcards for numerals from other languages
 
-> TODO: add compiled Anki deck files to repo (fix the Finnish zero first), then create Multilingual-Number-Flashcard-Generator repo on GitHub.
+> TODO: add compiled Anki deck files to repo
 > TODO: add screenshot on Android Anki
 
 This is a Python program which generates lists of numbers in another language, which can be imported into the Anki flashcard program for further review.
