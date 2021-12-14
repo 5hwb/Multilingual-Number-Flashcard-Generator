@@ -1,8 +1,26 @@
-# Generate Anki decks for numerals from other languages
+# Multilingual Number Flashcard Generator: Generate Anki flashcards for numerals from other languages
 
-Set of Python scripts which generate lists that can be imported into the Anki flashcard program for further review.
+> TODO: add compiled Anki deck files to repo (fix the Finnish zero first), then create Multilingual-Number-Flashcard-Generator repo on GitHub.
+> TODO: add screenshot on Android Anki
+
+This is a Python program which generates lists of numbers in another language, which can be imported into the Anki flashcard program for further review.
+
+Currently, the following languages are fully implemented:
+
+* Chinese (hanzi)
+* Chinese (Mandarin, pinyin)
+* English
+* Finnish
+* French
+* German
+* Turkish
+* Vietnamese
+
+These languages are currently in development:
+
+* Georgian
 
 ## TODO
 
-* Create num generator for Dutch, French, German, Irish, Italian, Portuguese, Russian, Spanish, Cantonese, Japanese, Korean, Malay/Indonesian, Thai, other widely studied languages
+* Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Portuguese, Russian, Spanish, other widely studied languages
 * Create num generator for Georgian, Hungarian, Basque!

@@ -375,16 +375,16 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 			'tskhra' # 9
 		]
 		self.teens = [
-			'ati', # 10
-			'tertmet\'i', # 11
-			'tormet\'i', # 12
-			'tsamet\'i', # 13
-			'totkhmet\'i', # 14
-			'tkhutmet\'i', # 15
-			'tekvsmet\'i', # 16
-			'čvidmet\'i', # 17
-			'tvramet\'i', # 18
-			'tskhramet\'i' # 19
+			'at', # 10
+			'tertmet\'', # 11
+			'tormet\'', # 12
+			'tsamet\'', # 13
+			'totkhmet\'', # 14
+			'tkhutmet\'', # 15
+			'tekvsmet\'', # 16
+			'čvidmet\'', # 17
+			'tvramet\'', # 18
+			'tskhramet\'' # 19
 		]
 		self.twenties = [
 			'', # 0
@@ -396,17 +396,17 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 		self.hundred = 'as'
 		self.thousand = 'atas'
 
-	def get1(self, i, isNoZero=False):
+	def get1(self, i, isNoZero=False, showI=True):
 		if isNoZero and i == 0:
 			return ''
-		return self.ones[i] + ('' if i == 8 or i == 9 else 'i')
+		return self.ones[i] + ('' if i == 8 or i == 9 else 'i' if showI else '')
 
-	def getTeens(self, i, isNoZero=False):
+	def getTeens(self, i, isNoZero=False, showI=True):
 		onesAndTeens = self.ones + self.teens
-		print('getTeens: i={}'.format(i))
+		#print('getTeens: i={}'.format(i))
 		if isNoZero and i == 0:
 			return ''
-		return onesAndTeens[i] + ('' if i == 8 or i == 9 else 'i')
+		return onesAndTeens[i] + ('' if i == 8 or i == 9 else 'i' if showI else '')
 
 	def get10(self, ii, i, isNoZero=False):
 		if ii <= 1: # < 20
@@ -414,7 +414,7 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 		elif i == 0 and ii % 2 == 0: # even number = mult of 20
 			return self.twenties[ii // 2] + 'i'
 		else:
-			print('get10: ii={} i={}'.format(ii, i))
+			#print('get10: ii={} i={}'.format(ii, i))
 			return self.twenties[ii // 2] + 'da' + self.getTeens(((ii % 2)*10) + i, True)
 
 	def get100(self, iii, ii, i, isNoZero=False):
