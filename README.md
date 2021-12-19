@@ -11,13 +11,14 @@ Currently, the following languages are fully implemented:
 * English
 * Finnish
 * French
+* Georgian
 * German
 * Turkish
 * Vietnamese
 
 These languages are currently in development:
 
-* Georgian
+* N/A
 
 ## Screenshots of generated number flashcards
 
@@ -41,7 +42,7 @@ These languages are currently in development:
 
 ![anki_german](img/anki_viet_large.jpg) ![anki_viet_answer](img/anki_viet_large_answer.jpg)
 
-## TODO
+## TODOs
 
 * Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Portuguese, Russian, Spanish, other widely studied languages
-* Create num generator for Georgian, Hungarian, Basque!
+* Create num generator for Hungarian, Basque!
