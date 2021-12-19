@@ -77,7 +77,7 @@ otkhmotsdatekvsmet'i	96
 otkhmotsdačvidmet'i	97
 otkhmotsdatvramet'i	98
 otkhmotsdatskhramet'i	99
-asi 	100
+asi	100
 as erti	101
 as ori	102
 as sami	103
@@ -177,7 +177,7 @@ as otkhmotsdatekvsmet'i	196
 as otkhmotsdačvidmet'i	197
 as otkhmotsdatvramet'i	198
 as otkhmotsdatskhramet'i	199
-orasi 	200
+orasi	200
 oras erti	201
 oras ori	202
 oras sami	203
@@ -277,7 +277,7 @@ oras otkhmotsdatekvsmet'i	296
 oras otkhmotsdačvidmet'i	297
 oras otkhmotsdatvramet'i	298
 oras otkhmotsdatskhramet'i	299
-samasi 	300
+samasi	300
 samas erti	301
 samas ori	302
 samas sami	303
@@ -377,7 +377,7 @@ samas otkhmotsdatekvsmet'i	396
 samas otkhmotsdačvidmet'i	397
 samas otkhmotsdatvramet'i	398
 samas otkhmotsdatskhramet'i	399
-otkhasi 	400
+otkhasi	400
 otkhas erti	401
 otkhas ori	402
 otkhas sami	403
@@ -477,7 +477,7 @@ otkhas otkhmotsdatekvsmet'i	496
 otkhas otkhmotsdačvidmet'i	497
 otkhas otkhmotsdatvramet'i	498
 otkhas otkhmotsdatskhramet'i	499
-khutasi 	500
+khutasi	500
 khutas erti	501
 khutas ori	502
 khutas sami	503
@@ -577,7 +577,7 @@ khutas otkhmotsdatekvsmet'i	596
 khutas otkhmotsdačvidmet'i	597
 khutas otkhmotsdatvramet'i	598
 khutas otkhmotsdatskhramet'i	599
-ekvsasi 	600
+ekvsasi	600
 ekvsas erti	601
 ekvsas ori	602
 ekvsas sami	603
@@ -677,7 +677,7 @@ ekvsas otkhmotsdatekvsmet'i	696
 ekvsas otkhmotsdačvidmet'i	697
 ekvsas otkhmotsdatvramet'i	698
 ekvsas otkhmotsdatskhramet'i	699
-švidasi 	700
+švidasi	700
 švidas erti	701
 švidas ori	702
 švidas sami	703
@@ -777,7 +777,7 @@ ekvsas otkhmotsdatskhramet'i	699
 švidas otkhmotsdačvidmet'i	797
 švidas otkhmotsdatvramet'i	798
 švidas otkhmotsdatskhramet'i	799
-rvaasi 	800
+rvaasi	800
 rvaas erti	801
 rvaas ori	802
 rvaas sami	803
@@ -877,7 +877,7 @@ rvaas otkhmotsdatekvsmet'i	896
 rvaas otkhmotsdačvidmet'i	897
 rvaas otkhmotsdatvramet'i	898
 rvaas otkhmotsdatskhramet'i	899
-tskhraasi 	900
+tskhraasi	900
 tskhraas erti	901
 tskhraas ori	902
 tskhraas sami	903
@@ -1077,7 +1077,7 @@ atas otkhmotsdatekvsmet'i	1096
 atas otkhmotsdačvidmet'i	1097
 atas otkhmotsdatvramet'i	1098
 atas otkhmotsdatskhramet'i	1099
-atas asi 	1100
+atas asi	1100
 atas as erti	1101
 atas as ori	1102
 atas as sami	1103
@@ -1177,7 +1177,7 @@ atas as otkhmotsdatekvsmet'i	1196
 atas as otkhmotsdačvidmet'i	1197
 atas as otkhmotsdatvramet'i	1198
 atas as otkhmotsdatskhramet'i	1199
-atas orasi 	1200
+atas orasi	1200
 atas oras erti	1201
 atas oras ori	1202
 atas oras sami	1203
@@ -1277,7 +1277,7 @@ atas oras otkhmotsdatekvsmet'i	1296
 atas oras otkhmotsdačvidmet'i	1297
 atas oras otkhmotsdatvramet'i	1298
 atas oras otkhmotsdatskhramet'i	1299
-atas samasi 	1300
+atas samasi	1300
 atas samas erti	1301
 atas samas ori	1302
 atas samas sami	1303
@@ -1377,7 +1377,7 @@ atas samas otkhmotsdatekvsmet'i	1396
 atas samas otkhmotsdačvidmet'i	1397
 atas samas otkhmotsdatvramet'i	1398
 atas samas otkhmotsdatskhramet'i	1399
-atas otkhasi 	1400
+atas otkhasi	1400
 atas otkhas erti	1401
 atas otkhas ori	1402
 atas otkhas sami	1403
@@ -1477,7 +1477,7 @@ atas otkhas otkhmotsdatekvsmet'i	1496
 atas otkhas otkhmotsdačvidmet'i	1497
 atas otkhas otkhmotsdatvramet'i	1498
 atas otkhas otkhmotsdatskhramet'i	1499
-atas khutasi 	1500
+atas khutasi	1500
 atas khutas erti	1501
 atas khutas ori	1502
 atas khutas sami	1503
@@ -1577,7 +1577,7 @@ atas khutas otkhmotsdatekvsmet'i	1596
 atas khutas otkhmotsdačvidmet'i	1597
 atas khutas otkhmotsdatvramet'i	1598
 atas khutas otkhmotsdatskhramet'i	1599
-atas ekvsasi 	1600
+atas ekvsasi	1600
 atas ekvsas erti	1601
 atas ekvsas ori	1602
 atas ekvsas sami	1603
@@ -1677,7 +1677,7 @@ atas ekvsas otkhmotsdatekvsmet'i	1696
 atas ekvsas otkhmotsdačvidmet'i	1697
 atas ekvsas otkhmotsdatvramet'i	1698
 atas ekvsas otkhmotsdatskhramet'i	1699
-atas švidasi 	1700
+atas švidasi	1700
 atas švidas erti	1701
 atas švidas ori	1702
 atas švidas sami	1703
@@ -1777,7 +1777,7 @@ atas švidas otkhmotsdatekvsmet'i	1796
 atas švidas otkhmotsdačvidmet'i	1797
 atas švidas otkhmotsdatvramet'i	1798
 atas švidas otkhmotsdatskhramet'i	1799
-atas rvaasi 	1800
+atas rvaasi	1800
 atas rvaas erti	1801
 atas rvaas ori	1802
 atas rvaas sami	1803
@@ -1877,7 +1877,7 @@ atas rvaas otkhmotsdatekvsmet'i	1896
 atas rvaas otkhmotsdačvidmet'i	1897
 atas rvaas otkhmotsdatvramet'i	1898
 atas rvaas otkhmotsdatskhramet'i	1899
-atas tskhraasi 	1900
+atas tskhraasi	1900
 atas tskhraas erti	1901
 atas tskhraas ori	1902
 atas tskhraas sami	1903
@@ -2077,7 +2077,7 @@ ori atas otkhmotsdatekvsmet'i	2096
 ori atas otkhmotsdačvidmet'i	2097
 ori atas otkhmotsdatvramet'i	2098
 ori atas otkhmotsdatskhramet'i	2099
-ori atas asi 	2100
+ori atas asi	2100
 ori atas as erti	2101
 ori atas as ori	2102
 ori atas as sami	2103
@@ -2177,7 +2177,7 @@ ori atas as otkhmotsdatekvsmet'i	2196
 ori atas as otkhmotsdačvidmet'i	2197
 ori atas as otkhmotsdatvramet'i	2198
 ori atas as otkhmotsdatskhramet'i	2199
-ori atas orasi 	2200
+ori atas orasi	2200
 ori atas oras erti	2201
 ori atas oras ori	2202
 ori atas oras sami	2203
@@ -2277,7 +2277,7 @@ ori atas oras otkhmotsdatekvsmet'i	2296
 ori atas oras otkhmotsdačvidmet'i	2297
 ori atas oras otkhmotsdatvramet'i	2298
 ori atas oras otkhmotsdatskhramet'i	2299
-ori atas samasi 	2300
+ori atas samasi	2300
 ori atas samas erti	2301
 ori atas samas ori	2302
 ori atas samas sami	2303
@@ -2377,7 +2377,7 @@ ori atas samas otkhmotsdatekvsmet'i	2396
 ori atas samas otkhmotsdačvidmet'i	2397
 ori atas samas otkhmotsdatvramet'i	2398
 ori atas samas otkhmotsdatskhramet'i	2399
-ori atas otkhasi 	2400
+ori atas otkhasi	2400
 ori atas otkhas erti	2401
 ori atas otkhas ori	2402
 ori atas otkhas sami	2403
@@ -2477,7 +2477,7 @@ ori atas otkhas otkhmotsdatekvsmet'i	2496
 ori atas otkhas otkhmotsdačvidmet'i	2497
 ori atas otkhas otkhmotsdatvramet'i	2498
 ori atas otkhas otkhmotsdatskhramet'i	2499
-ori atas khutasi 	2500
+ori atas khutasi	2500
 ori atas khutas erti	2501
 ori atas khutas ori	2502
 ori atas khutas sami	2503
@@ -2577,7 +2577,7 @@ ori atas khutas otkhmotsdatekvsmet'i	2596
 ori atas khutas otkhmotsdačvidmet'i	2597
 ori atas khutas otkhmotsdatvramet'i	2598
 ori atas khutas otkhmotsdatskhramet'i	2599
-ori atas ekvsasi 	2600
+ori atas ekvsasi	2600
 ori atas ekvsas erti	2601
 ori atas ekvsas ori	2602
 ori atas ekvsas sami	2603
@@ -2677,7 +2677,7 @@ ori atas ekvsas otkhmotsdatekvsmet'i	2696
 ori atas ekvsas otkhmotsdačvidmet'i	2697
 ori atas ekvsas otkhmotsdatvramet'i	2698
 ori atas ekvsas otkhmotsdatskhramet'i	2699
-ori atas švidasi 	2700
+ori atas švidasi	2700
 ori atas švidas erti	2701
 ori atas švidas ori	2702
 ori atas švidas sami	2703
@@ -2777,7 +2777,7 @@ ori atas švidas otkhmotsdatekvsmet'i	2796
 ori atas švidas otkhmotsdačvidmet'i	2797
 ori atas švidas otkhmotsdatvramet'i	2798
 ori atas švidas otkhmotsdatskhramet'i	2799
-ori atas rvaasi 	2800
+ori atas rvaasi	2800
 ori atas rvaas erti	2801
 ori atas rvaas ori	2802
 ori atas rvaas sami	2803
@@ -2877,7 +2877,7 @@ ori atas rvaas otkhmotsdatekvsmet'i	2896
 ori atas rvaas otkhmotsdačvidmet'i	2897
 ori atas rvaas otkhmotsdatvramet'i	2898
 ori atas rvaas otkhmotsdatskhramet'i	2899
-ori atas tskhraasi 	2900
+ori atas tskhraasi	2900
 ori atas tskhraas erti	2901
 ori atas tskhraas ori	2902
 ori atas tskhraas sami	2903
@@ -3077,7 +3077,7 @@ sami atas otkhmotsdatekvsmet'i	3096
 sami atas otkhmotsdačvidmet'i	3097
 sami atas otkhmotsdatvramet'i	3098
 sami atas otkhmotsdatskhramet'i	3099
-sami atas asi 	3100
+sami atas asi	3100
 sami atas as erti	3101
 sami atas as ori	3102
 sami atas as sami	3103
@@ -3177,7 +3177,7 @@ sami atas as otkhmotsdatekvsmet'i	3196
 sami atas as otkhmotsdačvidmet'i	3197
 sami atas as otkhmotsdatvramet'i	3198
 sami atas as otkhmotsdatskhramet'i	3199
-sami atas orasi 	3200
+sami atas orasi	3200
 sami atas oras erti	3201
 sami atas oras ori	3202
 sami atas oras sami	3203
@@ -3277,7 +3277,7 @@ sami atas oras otkhmotsdatekvsmet'i	3296
 sami atas oras otkhmotsdačvidmet'i	3297
 sami atas oras otkhmotsdatvramet'i	3298
 sami atas oras otkhmotsdatskhramet'i	3299
-sami atas samasi 	3300
+sami atas samasi	3300
 sami atas samas erti	3301
 sami atas samas ori	3302
 sami atas samas sami	3303
@@ -3377,7 +3377,7 @@ sami atas samas otkhmotsdatekvsmet'i	3396
 sami atas samas otkhmotsdačvidmet'i	3397
 sami atas samas otkhmotsdatvramet'i	3398
 sami atas samas otkhmotsdatskhramet'i	3399
-sami atas otkhasi 	3400
+sami atas otkhasi	3400
 sami atas otkhas erti	3401
 sami atas otkhas ori	3402
 sami atas otkhas sami	3403
@@ -3477,7 +3477,7 @@ sami atas otkhas otkhmotsdatekvsmet'i	3496
 sami atas otkhas otkhmotsdačvidmet'i	3497
 sami atas otkhas otkhmotsdatvramet'i	3498
 sami atas otkhas otkhmotsdatskhramet'i	3499
-sami atas khutasi 	3500
+sami atas khutasi	3500
 sami atas khutas erti	3501
 sami atas khutas ori	3502
 sami atas khutas sami	3503
@@ -3577,7 +3577,7 @@ sami atas khutas otkhmotsdatekvsmet'i	3596
 sami atas khutas otkhmotsdačvidmet'i	3597
 sami atas khutas otkhmotsdatvramet'i	3598
 sami atas khutas otkhmotsdatskhramet'i	3599
-sami atas ekvsasi 	3600
+sami atas ekvsasi	3600
 sami atas ekvsas erti	3601
 sami atas ekvsas ori	3602
 sami atas ekvsas sami	3603
@@ -3677,7 +3677,7 @@ sami atas ekvsas otkhmotsdatekvsmet'i	3696
 sami atas ekvsas otkhmotsdačvidmet'i	3697
 sami atas ekvsas otkhmotsdatvramet'i	3698
 sami atas ekvsas otkhmotsdatskhramet'i	3699
-sami atas švidasi 	3700
+sami atas švidasi	3700
 sami atas švidas erti	3701
 sami atas švidas ori	3702
 sami atas švidas sami	3703
@@ -3777,7 +3777,7 @@ sami atas švidas otkhmotsdatekvsmet'i	3796
 sami atas švidas otkhmotsdačvidmet'i	3797
 sami atas švidas otkhmotsdatvramet'i	3798
 sami atas švidas otkhmotsdatskhramet'i	3799
-sami atas rvaasi 	3800
+sami atas rvaasi	3800
 sami atas rvaas erti	3801
 sami atas rvaas ori	3802
 sami atas rvaas sami	3803
@@ -3877,7 +3877,7 @@ sami atas rvaas otkhmotsdatekvsmet'i	3896
 sami atas rvaas otkhmotsdačvidmet'i	3897
 sami atas rvaas otkhmotsdatvramet'i	3898
 sami atas rvaas otkhmotsdatskhramet'i	3899
-sami atas tskhraasi 	3900
+sami atas tskhraasi	3900
 sami atas tskhraas erti	3901
 sami atas tskhraas ori	3902
 sami atas tskhraas sami	3903
@@ -4077,7 +4077,7 @@ otkhi atas otkhmotsdatekvsmet'i	4096
 otkhi atas otkhmotsdačvidmet'i	4097
 otkhi atas otkhmotsdatvramet'i	4098
 otkhi atas otkhmotsdatskhramet'i	4099
-otkhi atas asi 	4100
+otkhi atas asi	4100
 otkhi atas as erti	4101
 otkhi atas as ori	4102
 otkhi atas as sami	4103
@@ -4177,7 +4177,7 @@ otkhi atas as otkhmotsdatekvsmet'i	4196
 otkhi atas as otkhmotsdačvidmet'i	4197
 otkhi atas as otkhmotsdatvramet'i	4198
 otkhi atas as otkhmotsdatskhramet'i	4199
-otkhi atas orasi 	4200
+otkhi atas orasi	4200
 otkhi atas oras erti	4201
 otkhi atas oras ori	4202
 otkhi atas oras sami	4203
@@ -4277,7 +4277,7 @@ otkhi atas oras otkhmotsdatekvsmet'i	4296
 otkhi atas oras otkhmotsdačvidmet'i	4297
 otkhi atas oras otkhmotsdatvramet'i	4298
 otkhi atas oras otkhmotsdatskhramet'i	4299
-otkhi atas samasi 	4300
+otkhi atas samasi	4300
 otkhi atas samas erti	4301
 otkhi atas samas ori	4302
 otkhi atas samas sami	4303
@@ -4377,7 +4377,7 @@ otkhi atas samas otkhmotsdatekvsmet'i	4396
 otkhi atas samas otkhmotsdačvidmet'i	4397
 otkhi atas samas otkhmotsdatvramet'i	4398
 otkhi atas samas otkhmotsdatskhramet'i	4399
-otkhi atas otkhasi 	4400
+otkhi atas otkhasi	4400
 otkhi atas otkhas erti	4401
 otkhi atas otkhas ori	4402
 otkhi atas otkhas sami	4403
@@ -4477,7 +4477,7 @@ otkhi atas otkhas otkhmotsdatekvsmet'i	4496
 otkhi atas otkhas otkhmotsdačvidmet'i	4497
 otkhi atas otkhas otkhmotsdatvramet'i	4498
 otkhi atas otkhas otkhmotsdatskhramet'i	4499
-otkhi atas khutasi 	4500
+otkhi atas khutasi	4500
 otkhi atas khutas erti	4501
 otkhi atas khutas ori	4502
 otkhi atas khutas sami	4503
@@ -4577,7 +4577,7 @@ otkhi atas khutas otkhmotsdatekvsmet'i	4596
 otkhi atas khutas otkhmotsdačvidmet'i	4597
 otkhi atas khutas otkhmotsdatvramet'i	4598
 otkhi atas khutas otkhmotsdatskhramet'i	4599
-otkhi atas ekvsasi 	4600
+otkhi atas ekvsasi	4600
 otkhi atas ekvsas erti	4601
 otkhi atas ekvsas ori	4602
 otkhi atas ekvsas sami	4603
@@ -4677,7 +4677,7 @@ otkhi atas ekvsas otkhmotsdatekvsmet'i	4696
 otkhi atas ekvsas otkhmotsdačvidmet'i	4697
 otkhi atas ekvsas otkhmotsdatvramet'i	4698
 otkhi atas ekvsas otkhmotsdatskhramet'i	4699
-otkhi atas švidasi 	4700
+otkhi atas švidasi	4700
 otkhi atas švidas erti	4701
 otkhi atas švidas ori	4702
 otkhi atas švidas sami	4703
@@ -4777,7 +4777,7 @@ otkhi atas švidas otkhmotsdatekvsmet'i	4796
 otkhi atas švidas otkhmotsdačvidmet'i	4797
 otkhi atas švidas otkhmotsdatvramet'i	4798
 otkhi atas švidas otkhmotsdatskhramet'i	4799
-otkhi atas rvaasi 	4800
+otkhi atas rvaasi	4800
 otkhi atas rvaas erti	4801
 otkhi atas rvaas ori	4802
 otkhi atas rvaas sami	4803
@@ -4877,7 +4877,7 @@ otkhi atas rvaas otkhmotsdatekvsmet'i	4896
 otkhi atas rvaas otkhmotsdačvidmet'i	4897
 otkhi atas rvaas otkhmotsdatvramet'i	4898
 otkhi atas rvaas otkhmotsdatskhramet'i	4899
-otkhi atas tskhraasi 	4900
+otkhi atas tskhraasi	4900
 otkhi atas tskhraas erti	4901
 otkhi atas tskhraas ori	4902
 otkhi atas tskhraas sami	4903
@@ -5077,7 +5077,7 @@ khuti atas otkhmotsdatekvsmet'i	5096
 khuti atas otkhmotsdačvidmet'i	5097
 khuti atas otkhmotsdatvramet'i	5098
 khuti atas otkhmotsdatskhramet'i	5099
-khuti atas asi 	5100
+khuti atas asi	5100
 khuti atas as erti	5101
 khuti atas as ori	5102
 khuti atas as sami	5103
@@ -5177,7 +5177,7 @@ khuti atas as otkhmotsdatekvsmet'i	5196
 khuti atas as otkhmotsdačvidmet'i	5197
 khuti atas as otkhmotsdatvramet'i	5198
 khuti atas as otkhmotsdatskhramet'i	5199
-khuti atas orasi 	5200
+khuti atas orasi	5200
 khuti atas oras erti	5201
 khuti atas oras ori	5202
 khuti atas oras sami	5203
@@ -5277,7 +5277,7 @@ khuti atas oras otkhmotsdatekvsmet'i	5296
 khuti atas oras otkhmotsdačvidmet'i	5297
 khuti atas oras otkhmotsdatvramet'i	5298
 khuti atas oras otkhmotsdatskhramet'i	5299
-khuti atas samasi 	5300
+khuti atas samasi	5300
 khuti atas samas erti	5301
 khuti atas samas ori	5302
 khuti atas samas sami	5303
@@ -5377,7 +5377,7 @@ khuti atas samas otkhmotsdatekvsmet'i	5396
 khuti atas samas otkhmotsdačvidmet'i	5397
 khuti atas samas otkhmotsdatvramet'i	5398
 khuti atas samas otkhmotsdatskhramet'i	5399
-khuti atas otkhasi 	5400
+khuti atas otkhasi	5400
 khuti atas otkhas erti	5401
 khuti atas otkhas ori	5402
 khuti atas otkhas sami	5403
@@ -5477,7 +5477,7 @@ khuti atas otkhas otkhmotsdatekvsmet'i	5496
 khuti atas otkhas otkhmotsdačvidmet'i	5497
 khuti atas otkhas otkhmotsdatvramet'i	5498
 khuti atas otkhas otkhmotsdatskhramet'i	5499
-khuti atas khutasi 	5500
+khuti atas khutasi	5500
 khuti atas khutas erti	5501
 khuti atas khutas ori	5502
 khuti atas khutas sami	5503
@@ -5577,7 +5577,7 @@ khuti atas khutas otkhmotsdatekvsmet'i	5596
 khuti atas khutas otkhmotsdačvidmet'i	5597
 khuti atas khutas otkhmotsdatvramet'i	5598
 khuti atas khutas otkhmotsdatskhramet'i	5599
-khuti atas ekvsasi 	5600
+khuti atas ekvsasi	5600
 khuti atas ekvsas erti	5601
 khuti atas ekvsas ori	5602
 khuti atas ekvsas sami	5603
@@ -5677,7 +5677,7 @@ khuti atas ekvsas otkhmotsdatekvsmet'i	5696
 khuti atas ekvsas otkhmotsdačvidmet'i	5697
 khuti atas ekvsas otkhmotsdatvramet'i	5698
 khuti atas ekvsas otkhmotsdatskhramet'i	5699
-khuti atas švidasi 	5700
+khuti atas švidasi	5700
 khuti atas švidas erti	5701
 khuti atas švidas ori	5702
 khuti atas švidas sami	5703
@@ -5777,7 +5777,7 @@ khuti atas švidas otkhmotsdatekvsmet'i	5796
 khuti atas švidas otkhmotsdačvidmet'i	5797
 khuti atas švidas otkhmotsdatvramet'i	5798
 khuti atas švidas otkhmotsdatskhramet'i	5799
-khuti atas rvaasi 	5800
+khuti atas rvaasi	5800
 khuti atas rvaas erti	5801
 khuti atas rvaas ori	5802
 khuti atas rvaas sami	5803
@@ -5877,7 +5877,7 @@ khuti atas rvaas otkhmotsdatekvsmet'i	5896
 khuti atas rvaas otkhmotsdačvidmet'i	5897
 khuti atas rvaas otkhmotsdatvramet'i	5898
 khuti atas rvaas otkhmotsdatskhramet'i	5899
-khuti atas tskhraasi 	5900
+khuti atas tskhraasi	5900
 khuti atas tskhraas erti	5901
 khuti atas tskhraas ori	5902
 khuti atas tskhraas sami	5903
@@ -6077,7 +6077,7 @@ ekvsi atas otkhmotsdatekvsmet'i	6096
 ekvsi atas otkhmotsdačvidmet'i	6097
 ekvsi atas otkhmotsdatvramet'i	6098
 ekvsi atas otkhmotsdatskhramet'i	6099
-ekvsi atas asi 	6100
+ekvsi atas asi	6100
 ekvsi atas as erti	6101
 ekvsi atas as ori	6102
 ekvsi atas as sami	6103
@@ -6177,7 +6177,7 @@ ekvsi atas as otkhmotsdatekvsmet'i	6196
 ekvsi atas as otkhmotsdačvidmet'i	6197
 ekvsi atas as otkhmotsdatvramet'i	6198
 ekvsi atas as otkhmotsdatskhramet'i	6199
-ekvsi atas orasi 	6200
+ekvsi atas orasi	6200
 ekvsi atas oras erti	6201
 ekvsi atas oras ori	6202
 ekvsi atas oras sami	6203
@@ -6277,7 +6277,7 @@ ekvsi atas oras otkhmotsdatekvsmet'i	6296
 ekvsi atas oras otkhmotsdačvidmet'i	6297
 ekvsi atas oras otkhmotsdatvramet'i	6298
 ekvsi atas oras otkhmotsdatskhramet'i	6299
-ekvsi atas samasi 	6300
+ekvsi atas samasi	6300
 ekvsi atas samas erti	6301
 ekvsi atas samas ori	6302
 ekvsi atas samas sami	6303
@@ -6377,7 +6377,7 @@ ekvsi atas samas otkhmotsdatekvsmet'i	6396
 ekvsi atas samas otkhmotsdačvidmet'i	6397
 ekvsi atas samas otkhmotsdatvramet'i	6398
 ekvsi atas samas otkhmotsdatskhramet'i	6399
-ekvsi atas otkhasi 	6400
+ekvsi atas otkhasi	6400
 ekvsi atas otkhas erti	6401
 ekvsi atas otkhas ori	6402
 ekvsi atas otkhas sami	6403
@@ -6477,7 +6477,7 @@ ekvsi atas otkhas otkhmotsdatekvsmet'i	6496
 ekvsi atas otkhas otkhmotsdačvidmet'i	6497
 ekvsi atas otkhas otkhmotsdatvramet'i	6498
 ekvsi atas otkhas otkhmotsdatskhramet'i	6499
-ekvsi atas khutasi 	6500
+ekvsi atas khutasi	6500
 ekvsi atas khutas erti	6501
 ekvsi atas khutas ori	6502
 ekvsi atas khutas sami	6503
@@ -6577,7 +6577,7 @@ ekvsi atas khutas otkhmotsdatekvsmet'i	6596
 ekvsi atas khutas otkhmotsdačvidmet'i	6597
 ekvsi atas khutas otkhmotsdatvramet'i	6598
 ekvsi atas khutas otkhmotsdatskhramet'i	6599
-ekvsi atas ekvsasi 	6600
+ekvsi atas ekvsasi	6600
 ekvsi atas ekvsas erti	6601
 ekvsi atas ekvsas ori	6602
 ekvsi atas ekvsas sami	6603
@@ -6677,7 +6677,7 @@ ekvsi atas ekvsas otkhmotsdatekvsmet'i	6696
 ekvsi atas ekvsas otkhmotsdačvidmet'i	6697
 ekvsi atas ekvsas otkhmotsdatvramet'i	6698
 ekvsi atas ekvsas otkhmotsdatskhramet'i	6699
-ekvsi atas švidasi 	6700
+ekvsi atas švidasi	6700
 ekvsi atas švidas erti	6701
 ekvsi atas švidas ori	6702
 ekvsi atas švidas sami	6703
@@ -6777,7 +6777,7 @@ ekvsi atas švidas otkhmotsdatekvsmet'i	6796
 ekvsi atas švidas otkhmotsdačvidmet'i	6797
 ekvsi atas švidas otkhmotsdatvramet'i	6798
 ekvsi atas švidas otkhmotsdatskhramet'i	6799
-ekvsi atas rvaasi 	6800
+ekvsi atas rvaasi	6800
 ekvsi atas rvaas erti	6801
 ekvsi atas rvaas ori	6802
 ekvsi atas rvaas sami	6803
@@ -6877,7 +6877,7 @@ ekvsi atas rvaas otkhmotsdatekvsmet'i	6896
 ekvsi atas rvaas otkhmotsdačvidmet'i	6897
 ekvsi atas rvaas otkhmotsdatvramet'i	6898
 ekvsi atas rvaas otkhmotsdatskhramet'i	6899
-ekvsi atas tskhraasi 	6900
+ekvsi atas tskhraasi	6900
 ekvsi atas tskhraas erti	6901
 ekvsi atas tskhraas ori	6902
 ekvsi atas tskhraas sami	6903
@@ -7077,7 +7077,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas otkhmotsdačvidmet'i	7097
 švidi atas otkhmotsdatvramet'i	7098
 švidi atas otkhmotsdatskhramet'i	7099
-švidi atas asi 	7100
+švidi atas asi	7100
 švidi atas as erti	7101
 švidi atas as ori	7102
 švidi atas as sami	7103
@@ -7177,7 +7177,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas as otkhmotsdačvidmet'i	7197
 švidi atas as otkhmotsdatvramet'i	7198
 švidi atas as otkhmotsdatskhramet'i	7199
-švidi atas orasi 	7200
+švidi atas orasi	7200
 švidi atas oras erti	7201
 švidi atas oras ori	7202
 švidi atas oras sami	7203
@@ -7277,7 +7277,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas oras otkhmotsdačvidmet'i	7297
 švidi atas oras otkhmotsdatvramet'i	7298
 švidi atas oras otkhmotsdatskhramet'i	7299
-švidi atas samasi 	7300
+švidi atas samasi	7300
 švidi atas samas erti	7301
 švidi atas samas ori	7302
 švidi atas samas sami	7303
@@ -7377,7 +7377,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas samas otkhmotsdačvidmet'i	7397
 švidi atas samas otkhmotsdatvramet'i	7398
 švidi atas samas otkhmotsdatskhramet'i	7399
-švidi atas otkhasi 	7400
+švidi atas otkhasi	7400
 švidi atas otkhas erti	7401
 švidi atas otkhas ori	7402
 švidi atas otkhas sami	7403
@@ -7477,7 +7477,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas otkhas otkhmotsdačvidmet'i	7497
 švidi atas otkhas otkhmotsdatvramet'i	7498
 švidi atas otkhas otkhmotsdatskhramet'i	7499
-švidi atas khutasi 	7500
+švidi atas khutasi	7500
 švidi atas khutas erti	7501
 švidi atas khutas ori	7502
 švidi atas khutas sami	7503
@@ -7577,7 +7577,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas khutas otkhmotsdačvidmet'i	7597
 švidi atas khutas otkhmotsdatvramet'i	7598
 švidi atas khutas otkhmotsdatskhramet'i	7599
-švidi atas ekvsasi 	7600
+švidi atas ekvsasi	7600
 švidi atas ekvsas erti	7601
 švidi atas ekvsas ori	7602
 švidi atas ekvsas sami	7603
@@ -7677,7 +7677,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas ekvsas otkhmotsdačvidmet'i	7697
 švidi atas ekvsas otkhmotsdatvramet'i	7698
 švidi atas ekvsas otkhmotsdatskhramet'i	7699
-švidi atas švidasi 	7700
+švidi atas švidasi	7700
 švidi atas švidas erti	7701
 švidi atas švidas ori	7702
 švidi atas švidas sami	7703
@@ -7777,7 +7777,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas švidas otkhmotsdačvidmet'i	7797
 švidi atas švidas otkhmotsdatvramet'i	7798
 švidi atas švidas otkhmotsdatskhramet'i	7799
-švidi atas rvaasi 	7800
+švidi atas rvaasi	7800
 švidi atas rvaas erti	7801
 švidi atas rvaas ori	7802
 švidi atas rvaas sami	7803
@@ -7877,7 +7877,7 @@ ekvsi atas tskhraas otkhmotsdatskhramet'i	6999
 švidi atas rvaas otkhmotsdačvidmet'i	7897
 švidi atas rvaas otkhmotsdatvramet'i	7898
 švidi atas rvaas otkhmotsdatskhramet'i	7899
-švidi atas tskhraasi 	7900
+švidi atas tskhraasi	7900
 švidi atas tskhraas erti	7901
 švidi atas tskhraas ori	7902
 švidi atas tskhraas sami	7903
@@ -8077,7 +8077,7 @@ rva atas otkhmotsdatekvsmet'i	8096
 rva atas otkhmotsdačvidmet'i	8097
 rva atas otkhmotsdatvramet'i	8098
 rva atas otkhmotsdatskhramet'i	8099
-rva atas asi 	8100
+rva atas asi	8100
 rva atas as erti	8101
 rva atas as ori	8102
 rva atas as sami	8103
@@ -8177,7 +8177,7 @@ rva atas as otkhmotsdatekvsmet'i	8196
 rva atas as otkhmotsdačvidmet'i	8197
 rva atas as otkhmotsdatvramet'i	8198
 rva atas as otkhmotsdatskhramet'i	8199
-rva atas orasi 	8200
+rva atas orasi	8200
 rva atas oras erti	8201
 rva atas oras ori	8202
 rva atas oras sami	8203
@@ -8277,7 +8277,7 @@ rva atas oras otkhmotsdatekvsmet'i	8296
 rva atas oras otkhmotsdačvidmet'i	8297
 rva atas oras otkhmotsdatvramet'i	8298
 rva atas oras otkhmotsdatskhramet'i	8299
-rva atas samasi 	8300
+rva atas samasi	8300
 rva atas samas erti	8301
 rva atas samas ori	8302
 rva atas samas sami	8303
@@ -8377,7 +8377,7 @@ rva atas samas otkhmotsdatekvsmet'i	8396
 rva atas samas otkhmotsdačvidmet'i	8397
 rva atas samas otkhmotsdatvramet'i	8398
 rva atas samas otkhmotsdatskhramet'i	8399
-rva atas otkhasi 	8400
+rva atas otkhasi	8400
 rva atas otkhas erti	8401
 rva atas otkhas ori	8402
 rva atas otkhas sami	8403
@@ -8477,7 +8477,7 @@ rva atas otkhas otkhmotsdatekvsmet'i	8496
 rva atas otkhas otkhmotsdačvidmet'i	8497
 rva atas otkhas otkhmotsdatvramet'i	8498
 rva atas otkhas otkhmotsdatskhramet'i	8499
-rva atas khutasi 	8500
+rva atas khutasi	8500
 rva atas khutas erti	8501
 rva atas khutas ori	8502
 rva atas khutas sami	8503
@@ -8577,7 +8577,7 @@ rva atas khutas otkhmotsdatekvsmet'i	8596
 rva atas khutas otkhmotsdačvidmet'i	8597
 rva atas khutas otkhmotsdatvramet'i	8598
 rva atas khutas otkhmotsdatskhramet'i	8599
-rva atas ekvsasi 	8600
+rva atas ekvsasi	8600
 rva atas ekvsas erti	8601
 rva atas ekvsas ori	8602
 rva atas ekvsas sami	8603
@@ -8677,7 +8677,7 @@ rva atas ekvsas otkhmotsdatekvsmet'i	8696
 rva atas ekvsas otkhmotsdačvidmet'i	8697
 rva atas ekvsas otkhmotsdatvramet'i	8698
 rva atas ekvsas otkhmotsdatskhramet'i	8699
-rva atas švidasi 	8700
+rva atas švidasi	8700
 rva atas švidas erti	8701
 rva atas švidas ori	8702
 rva atas švidas sami	8703
@@ -8777,7 +8777,7 @@ rva atas švidas otkhmotsdatekvsmet'i	8796
 rva atas švidas otkhmotsdačvidmet'i	8797
 rva atas švidas otkhmotsdatvramet'i	8798
 rva atas švidas otkhmotsdatskhramet'i	8799
-rva atas rvaasi 	8800
+rva atas rvaasi	8800
 rva atas rvaas erti	8801
 rva atas rvaas ori	8802
 rva atas rvaas sami	8803
@@ -8877,7 +8877,7 @@ rva atas rvaas otkhmotsdatekvsmet'i	8896
 rva atas rvaas otkhmotsdačvidmet'i	8897
 rva atas rvaas otkhmotsdatvramet'i	8898
 rva atas rvaas otkhmotsdatskhramet'i	8899
-rva atas tskhraasi 	8900
+rva atas tskhraasi	8900
 rva atas tskhraas erti	8901
 rva atas tskhraas ori	8902
 rva atas tskhraas sami	8903
@@ -9077,7 +9077,7 @@ tskhra atas otkhmotsdatekvsmet'i	9096
 tskhra atas otkhmotsdačvidmet'i	9097
 tskhra atas otkhmotsdatvramet'i	9098
 tskhra atas otkhmotsdatskhramet'i	9099
-tskhra atas asi 	9100
+tskhra atas asi	9100
 tskhra atas as erti	9101
 tskhra atas as ori	9102
 tskhra atas as sami	9103
@@ -9177,7 +9177,7 @@ tskhra atas as otkhmotsdatekvsmet'i	9196
 tskhra atas as otkhmotsdačvidmet'i	9197
 tskhra atas as otkhmotsdatvramet'i	9198
 tskhra atas as otkhmotsdatskhramet'i	9199
-tskhra atas orasi 	9200
+tskhra atas orasi	9200
 tskhra atas oras erti	9201
 tskhra atas oras ori	9202
 tskhra atas oras sami	9203
@@ -9277,7 +9277,7 @@ tskhra atas oras otkhmotsdatekvsmet'i	9296
 tskhra atas oras otkhmotsdačvidmet'i	9297
 tskhra atas oras otkhmotsdatvramet'i	9298
 tskhra atas oras otkhmotsdatskhramet'i	9299
-tskhra atas samasi 	9300
+tskhra atas samasi	9300
 tskhra atas samas erti	9301
 tskhra atas samas ori	9302
 tskhra atas samas sami	9303
@@ -9377,7 +9377,7 @@ tskhra atas samas otkhmotsdatekvsmet'i	9396
 tskhra atas samas otkhmotsdačvidmet'i	9397
 tskhra atas samas otkhmotsdatvramet'i	9398
 tskhra atas samas otkhmotsdatskhramet'i	9399
-tskhra atas otkhasi 	9400
+tskhra atas otkhasi	9400
 tskhra atas otkhas erti	9401
 tskhra atas otkhas ori	9402
 tskhra atas otkhas sami	9403
@@ -9477,7 +9477,7 @@ tskhra atas otkhas otkhmotsdatekvsmet'i	9496
 tskhra atas otkhas otkhmotsdačvidmet'i	9497
 tskhra atas otkhas otkhmotsdatvramet'i	9498
 tskhra atas otkhas otkhmotsdatskhramet'i	9499
-tskhra atas khutasi 	9500
+tskhra atas khutasi	9500
 tskhra atas khutas erti	9501
 tskhra atas khutas ori	9502
 tskhra atas khutas sami	9503
@@ -9577,7 +9577,7 @@ tskhra atas khutas otkhmotsdatekvsmet'i	9596
 tskhra atas khutas otkhmotsdačvidmet'i	9597
 tskhra atas khutas otkhmotsdatvramet'i	9598
 tskhra atas khutas otkhmotsdatskhramet'i	9599
-tskhra atas ekvsasi 	9600
+tskhra atas ekvsasi	9600
 tskhra atas ekvsas erti	9601
 tskhra atas ekvsas ori	9602
 tskhra atas ekvsas sami	9603
@@ -9677,7 +9677,7 @@ tskhra atas ekvsas otkhmotsdatekvsmet'i	9696
 tskhra atas ekvsas otkhmotsdačvidmet'i	9697
 tskhra atas ekvsas otkhmotsdatvramet'i	9698
 tskhra atas ekvsas otkhmotsdatskhramet'i	9699
-tskhra atas švidasi 	9700
+tskhra atas švidasi	9700
 tskhra atas švidas erti	9701
 tskhra atas švidas ori	9702
 tskhra atas švidas sami	9703
@@ -9777,7 +9777,7 @@ tskhra atas švidas otkhmotsdatekvsmet'i	9796
 tskhra atas švidas otkhmotsdačvidmet'i	9797
 tskhra atas švidas otkhmotsdatvramet'i	9798
 tskhra atas švidas otkhmotsdatskhramet'i	9799
-tskhra atas rvaasi 	9800
+tskhra atas rvaasi	9800
 tskhra atas rvaas erti	9801
 tskhra atas rvaas ori	9802
 tskhra atas rvaas sami	9803
@@ -9877,7 +9877,7 @@ tskhra atas rvaas otkhmotsdatekvsmet'i	9896
 tskhra atas rvaas otkhmotsdačvidmet'i	9897
 tskhra atas rvaas otkhmotsdatvramet'i	9898
 tskhra atas rvaas otkhmotsdatskhramet'i	9899
-tskhra atas tskhraasi 	9900
+tskhra atas tskhraasi	9900
 tskhra atas tskhraas erti	9901
 tskhra atas tskhraas ori	9902
 tskhra atas tskhraas sami	9903

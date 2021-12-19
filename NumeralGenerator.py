@@ -419,13 +419,13 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 
 	def get100(self, iii, ii, i, isNoZero=False):
 		isPlainHundred = (ii == 0 and i == 0) # true for 100, 200, 300 etc
-		suffix = 'i' if (isPlainHundred) else ''
+		suffix = 'i' if (isPlainHundred) else ' ' + self.get10(ii, i, True)
 		if iii == 0:
 			return self.get10(ii, i, isNoZero)
 		elif iii == 1:
-			return self.hundred + suffix + ' ' + self.get10(ii, i, True)
+			return self.hundred + suffix
 		else:
-			return self.get1(iii, True, showI=False) + self.hundred + suffix + ' ' + self.get10(ii, i, True)
+			return self.get1(iii, True, showI=False) + self.hundred + suffix
 
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0:
