@@ -418,12 +418,14 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 			return self.twenties[ii // 2] + 'da' + self.getTeens(((ii % 2)*10) + i, True)
 
 	def get100(self, iii, ii, i, isNoZero=False):
+		isPlainHundred = (ii == 0 and i == 0) # true for 100, 200, 300 etc
+		suffix = 'i' if (isPlainHundred) else ''
 		if iii == 0:
 			return self.get10(ii, i, isNoZero)
 		elif iii == 1:
-			return self.hundred + ' ' + self.get10(ii, i, True)
+			return self.hundred + suffix + ' ' + self.get10(ii, i, True)
 		else:
-			return self.get1(iii, True) + ' ' + self.hundred + ' ' + self.get10(ii, i, True)
+			return self.get1(iii, True, showI=False) + self.hundred + suffix + ' ' + self.get10(ii, i, True)
 
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0:
