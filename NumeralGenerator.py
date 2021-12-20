@@ -515,6 +515,91 @@ class NumeralGeneratorGerman(NumeralGenerator):
 		else: # >= 1001
 			return self.get1(iv, True, useAltOne=True) + self.thousand + ' ' + self.get100(iii, ii, i, True)
 
+class NumeralGeneratorItalian(NumeralGenerator):
+	'''
+	Numeral generator for Italian
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'italian')	
+		self.ones = [
+			'zero', # 0
+			'uno', # 1
+			'due', # 2
+			'tre', # 3
+			'quattro', # 4
+			'cinque', # 5
+			'sei', # 6
+			'sette', # 7
+			'otto', # 8
+			'nove' # 9
+		]
+		self.teens = [
+			'', # 10
+			'undici', # 11
+			'dodici', # 12
+			'tredici', # 13
+			'quattordici', # 14
+			'quindici', # 15
+			'sedici', # 16
+			'diciassette', # 17
+			'diciotto', # 18
+			'diciannove' # 19
+		]
+		self.tens = [
+			'', # 0
+			'dieci', # 10
+			'venti', # 20
+			'trenta', # 30
+			'quaranta', # 40
+			'cinquanta', # 50
+			'sessanta', # 60
+			'settanta', # 70
+			'ottanta', # 80
+			'novanta' # 90
+		]
+		self.altThree = 'tré'
+		self.hundred = 'cento'
+		self.thousand = 'mille'
+	
+	def get1(self, i, isNoZero=False, useAltThree=False):
+		if isNoZero and i == 0:
+			return ''
+		if useAltThree and i == 3:
+			return self.altThree
+		return self.ones[i]
+	
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		elif ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19 
+			return self.teens[i]
+		elif i == 0: # 20, 30, 40...
+			return self.tens[ii]
+		else: # >= 21
+			# Need to trim the last vowel from the tens when 1 or 8 is after it
+			theTen = self.tens[ii][:-1] if (i == 1 or i == 8) else self.tens[ii]
+			return theTen + self.get1(i, True, useAltThree=True)
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		elif ii == 0 and i == 0: # 100, 200...
+			return self.get1(iii, True) + ' ' + self.hundred
+		else: # 101-199, 201-299...
+			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		elif iii == 0 and not (ii == 0 and i == 0): # 1001-1099, 2001-2099...
+			return self.get1(iv, True) + ' ' + self.thousand + ' and ' + self.get100(iii, ii, i, True)
+		else: # >= 1100
+			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
+
+
+
 class NumeralGeneratorTurkish(NumeralGenerator):
 	'''
 	Numeral generator for Turkish
