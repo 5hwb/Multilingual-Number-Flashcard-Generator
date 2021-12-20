@@ -45,4 +45,4 @@ These languages are currently in development:
 ## TODOs
 
 * Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Norwegian, Portuguese, Russian, Spanish, Swedish, other widely studied languages
-* Create num generator for Hungarian, Basque!
+* Create num generator for Hungarian, Armenian, Basque!
