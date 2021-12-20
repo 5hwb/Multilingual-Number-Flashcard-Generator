@@ -360,7 +360,7 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 	'''
 	Numeral generator for Georgian
 	'''
-	def __init__(self, name='georgian_script'):
+	def __init__(self, name='georgian'):
 		NumeralGenerator.__init__(self, name)
 		self.ones = [
 			'ნულ', # 0
@@ -442,7 +442,7 @@ class NumeralGeneratorGeorgianRomanised(NumeralGeneratorGeorgian):
 	Numeral generator for Georgian (romanised)
 	'''
 	def __init__(self):
-		NumeralGeneratorGeorgian.__init__(self, 'georgian')
+		NumeralGeneratorGeorgian.__init__(self, 'georgian_r')
 		self.ones = [
 			'nul', # 0
 			'ert', # 1
