@@ -560,6 +560,7 @@ class NumeralGeneratorItalian(NumeralGenerator):
 		self.altThree = 'tré'
 		self.hundred = 'cento'
 		self.thousand = 'mille'
+		self.thousands = 'mila'
 	
 	def get1(self, i, isNoZero=False, useAltThree=False):
 		if isNoZero and i == 0:
@@ -583,22 +584,22 @@ class NumeralGeneratorItalian(NumeralGenerator):
 			return theTen + self.get1(i, True, useAltThree=True)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
+		# Need to trim the last vowel from the hundreds when 80-89 is after it
+		theHundred = self.hundred[:-1] if (ii == 8) else self.hundred
 		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
-		elif ii == 0 and i == 0: # 100, 200...
-			return self.get1(iii, True) + ' ' + self.hundred
-		else: # 101-199, 201-299...
-			return self.get1(iii, True) + ' ' + self.hundred + ' and ' + self.get10(ii, i, True)
+		elif iii == 1: # 100-199
+			return theHundred + self.get10(ii, i, True)
+		else: # 200+
+			return self.get1(iii, True) + theHundred + self.get10(ii, i, True)
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		if iv == 0: # < 1000
 			return self.get100(iii, ii, i, isNoZero)
-		elif iii == 0 and not (ii == 0 and i == 0): # 1001-1099, 2001-2099...
-			return self.get1(iv, True) + ' ' + self.thousand + ' and ' + self.get100(iii, ii, i, True)
-		else: # >= 1100
-			return self.get1(iv, True) + ' ' + self.thousand + ' ' + self.get100(iii, ii, i, True)
-
-
+		elif iv == 1: # 1001-1999
+			return self.thousand + self.get100(iii, ii, i, True)
+		else: # 2000+
+			return self.get1(iv, True) + self.thousands + self.get100(iii, ii, i, True)
 
 class NumeralGeneratorTurkish(NumeralGenerator):
 	'''

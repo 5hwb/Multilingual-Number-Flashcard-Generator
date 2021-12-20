@@ -13,6 +13,7 @@ Currently, the following languages are fully implemented:
 * French
 * Georgian
 * German
+* Italian
 * Turkish
 * Vietnamese
 
