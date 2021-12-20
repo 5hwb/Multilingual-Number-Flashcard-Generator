@@ -360,8 +360,89 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 	'''
 	Numeral generator for Georgian
 	'''
+	def __init__(self, name='georgian_script'):
+		NumeralGenerator.__init__(self, name)
+		self.ones = [
+			'ნულ', # 0
+			'ერთ', # 1
+			'ორ', # 2
+			'სამ', # 3
+			'ოთხ', # 4
+			'ხუთ', # 5
+			'ექვს', # 6
+			'შვიდ', # 7
+			'რვა', # 8
+			'ცხრა' # 9
+		]
+		self.teens = [
+			'ათ', # 10
+			'თერთმეტ', # 11
+			'თორმეტ', # 12
+			'ცამეტ', # 13
+			'თოთხმეტ', # 14
+			'თხუთმეტ', # 15
+			'თექვსმეტ', # 16
+			'ჩვიდმეტ', # 17
+			'თვრამეტ', # 18
+			'ცხრამეტ' # 19
+		]
+		self.twenties = [
+			'', # 0
+			'ოც', # 20
+			'ორმოც', # 40
+			'სამოც', # 60
+			'ოთხმოც', # 80
+		]
+		self.hundred = 'ას'
+		self.thousand = 'ათას'
+		self.theI = 'ი'
+		self.theDa = 'და'
+
+	def get1(self, i, isNoZero=False, showI=True):
+		if isNoZero and i == 0:
+			return ''
+		return self.ones[i] + ('' if i == 8 or i == 9 else self.theI if showI else '')
+
+	def getTeens(self, i, isNoZero=False, showI=True):
+		onesAndTeens = self.ones + self.teens
+		if isNoZero and i == 0:
+			return ''
+		return onesAndTeens[i] + ('' if i == 8 or i == 9 else self.theI if showI else '')
+
+	def get10(self, ii, i, isNoZero=False):
+		if ii <= 1: # < 20
+			return self.getTeens((ii*10) + i, isNoZero)
+		elif i == 0 and ii % 2 == 0: # even number = mult of 20
+			return self.twenties[ii // 2] + self.theI
+		else:
+			return self.twenties[ii // 2] + self.theDa + self.getTeens(((ii % 2)*10) + i, True)
+
+	def get100(self, iii, ii, i, isNoZero=False):
+		isPlainHundred = (ii == 0 and i == 0) # true for 100, 200, 300 etc
+		suffix = self.theI if (isPlainHundred) else ' ' + self.get10(ii, i, True)
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		elif iii == 1: # 100
+			return self.hundred + suffix
+		else: # 200+
+			return self.get1(iii, True, showI=False) + self.hundred + suffix
+
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		isPlainThousand = (iii == 0 and ii == 0 and i == 0) # true for 1000, 2000, 3000 etc
+		suffix = self.theI if (isPlainThousand) else ' ' + self.get100(iii, ii, i, True)
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		elif iv == 1: # 1000
+			return self.thousand + suffix
+		else: # 2000+
+			return self.get1(iv, True) + ' ' + self.thousand + suffix
+
+class NumeralGeneratorGeorgianRomanised(NumeralGeneratorGeorgian):
+	'''
+	Numeral generator for Georgian (romanised)
+	'''
 	def __init__(self):
-		NumeralGenerator.__init__(self, 'georgian')
+		NumeralGeneratorGeorgian.__init__(self, 'georgian')
 		self.ones = [
 			'nul', # 0
 			'ert', # 1
@@ -395,46 +476,8 @@ class NumeralGeneratorGeorgian(NumeralGenerator):
 		]
 		self.hundred = 'as'
 		self.thousand = 'atas'
-
-	def get1(self, i, isNoZero=False, showI=True):
-		if isNoZero and i == 0:
-			return ''
-		return self.ones[i] + ('' if i == 8 or i == 9 else 'i' if showI else '')
-
-	def getTeens(self, i, isNoZero=False, showI=True):
-		onesAndTeens = self.ones + self.teens
-		if isNoZero and i == 0:
-			return ''
-		return onesAndTeens[i] + ('' if i == 8 or i == 9 else 'i' if showI else '')
-
-	def get10(self, ii, i, isNoZero=False):
-		if ii <= 1: # < 20
-			return self.getTeens((ii*10) + i, isNoZero)
-		elif i == 0 and ii % 2 == 0: # even number = mult of 20
-			return self.twenties[ii // 2] + 'i'
-		else:
-			return self.twenties[ii // 2] + 'da' + self.getTeens(((ii % 2)*10) + i, True)
-
-	def get100(self, iii, ii, i, isNoZero=False):
-		isPlainHundred = (ii == 0 and i == 0) # true for 100, 200, 300 etc
-		suffix = 'i' if (isPlainHundred) else ' ' + self.get10(ii, i, True)
-		if iii == 0: # < 100
-			return self.get10(ii, i, isNoZero)
-		elif iii == 1: # 100
-			return self.hundred + suffix
-		else: # 200+
-			return self.get1(iii, True, showI=False) + self.hundred + suffix
-
-	def get1000(self, iv, iii, ii, i, isNoZero=False):
-		isPlainThousand = (iii == 0 and ii == 0 and i == 0) # true for 1000, 2000, 3000 etc
-		suffix = 'i' if (isPlainThousand) else ' ' + self.get100(iii, ii, i, True)
-		if iv == 0: # < 1000
-			return self.get100(iii, ii, i, isNoZero)
-		elif iv == 1: # 1000
-			return self.thousand + suffix
-		else: # 2000+
-			return self.get1(iv, True) + ' ' + self.thousand + suffix
-
+		self.theI = 'i'
+		self.theDa = 'da'
 
 class NumeralGeneratorGerman(NumeralGenerator):
 	'''
