@@ -17,6 +17,75 @@ class NumeralGenerator:
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		return ''
 
+class NumeralGeneratorArmenianRomanised(NumeralGenerator):
+	'''
+	Numeral generator for Armenian (romanised)
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'armenian_r')	
+		self.ones = [
+			'zro', # 0
+			'mek', # 1
+			'yerku', # 2
+			'yerek\'', # 3
+			'ch\'ors', # 4
+			'hing', # 5
+			'vets\'', # 6
+			'yot\'', # 7
+			'ut\'', # 8
+			'iny' # 9
+		]
+		self.tens = [
+			'', # 0
+			'tasy', # 10
+			'k\'san', # 20
+			'yeresun', # 30
+			'k\'arrasun', # 40
+			'hisun', # 50
+			'vat\'sun', # 60
+			'yot\'anasun', # 70
+			'ut\'sun', # 80
+			'inisun' # 90
+		]
+		self.teen = 'tasn'
+		self.hundred = 'haryur'
+		self.thousand = 'hazar'
+	
+	def get1(self, i, isNoZero=False):
+		if isNoZero and i == 0:
+			return ''
+		return self.ones[i]
+	
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		elif ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19 
+			return self.teen + self.get1(i, isNoZero)
+		elif i == 0: # 20, 30, 40...
+			return self.tens[ii]
+		else: # >= 21
+			return self.tens[ii] + self.get1(i, True)
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		theTens = ' ' + self.get10(ii, i, True)
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		elif iii == 1: # 100-199
+			return self.hundred + theTens
+		else: # 200+
+			return self.get1(iii, True) + ' ' + self.hundred + theTens
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		theHundred = ' ' + self.get100(iii, ii, i, True)
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		elif iv == 1: # 1001-1999
+			return self.thousand + theHundred
+		else: # >= 1100
+			return self.get1(iv, True) + ' ' + self.thousand + theHundred
+
 class NumeralGeneratorChineseHanzi(NumeralGenerator):
 	'''
 	Numeral generator for Chinese (hanzi)

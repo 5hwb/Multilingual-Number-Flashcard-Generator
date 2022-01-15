@@ -6,12 +6,14 @@ Anki is available on Windows, Linux, Mac and Android and can be downloaded from 
 
 Currently, the following languages are fully implemented:
 
+* Armenian (romanised)
 * Chinese (hanzi)
 * Chinese (Mandarin, pinyin)
 * English
 * Finnish
 * French
 * Georgian
+* Georgian (romanised)
 * German
 * Italian
 * Turkish
