@@ -793,6 +793,88 @@ class NumeralGeneratorItalian(NumeralGenerator):
 		else: # 2000+
 			return self.get1(iv, True) + self.thousands + self.get100(iii, ii, i, True)
 
+class NumeralGeneratorTagalog(NumeralGenerator):
+	'''
+	Numeral generator for Tagalog
+	'''
+	def __init__(self):
+		NumeralGenerator.__init__(self, 'tagalog')	
+		self.ones = [
+			'wala', # 0
+			'isa', # 1
+			'dalawa', # 2
+			'tatlo', # 3
+			'apat', # 4
+			'lima', # 5
+			'anim', # 6
+			'pito', # 7
+			'walo', # 8
+			'siyam' # 9
+		]
+		self.teens = [
+			'', # 10
+			'labing-isa', # 11
+			'labindalawa', # 12
+			'labintatlo', # 13
+			'labing-apat', # 14
+			'labinlima', # 15
+			'labin-anim', # 16
+			'labimpito', # 17
+			'labingwalo', # 18
+			'labinsiyam' # 19
+		]
+		self.tens = [
+			'', # 0
+			'sampu', # 10
+			'dalawampu', # 20
+			'tatlumpu', # 30
+			'apatnapu', # 40
+			'limampu', # 50
+			'animnapu', # 60
+			'pitumpu', # 70
+			'walumpu', # 80
+			'siyamnapu' # 90
+		]
+		self.hundred = 'daan'
+		self.altHundred = 'raan'
+		self.thousand = 'libo'
+	
+	def get1(self, i, isNoZero=False):
+		if isNoZero and i == 0:
+			return ''
+		return self.ones[i]
+	
+	def get10(self, ii, i, isNoZero=False):
+		if ii == 0: # < 10
+			return self.get1(i, isNoZero)
+		if ii == 1 and i == 0: # 10
+			return self.tens[ii]
+		elif ii == 1: # 11-19
+			return self.teens[i]
+		elif i == 0: # 20, 30, 40 ... 90
+			return self.tens[ii]
+		else: # >= 21
+			return self.tens[ii] + '\'t ' + self.get1(i, True)
+	
+	def get100(self, iii, ii, i, isNoZero=False):
+		theOne = self.get1(iii, True)[:-1] + 'u' if (iii == 3 or iii == 7 or iii == 8) else self.get1(iii, True)
+		theTens = '' if (ii == 0 and i == 0) else ' at ' + self.get10(ii, i, True)
+		if iii == 0: # < 100
+			return self.get10(ii, i, isNoZero)
+		if iii == 4 or iii == 6 or iii == 9: # 400, 600, 900
+			return theOne + 'na' + self.altHundred + theTens
+		else: # 200+
+			return theOne + 'n' + self.hundred + theTens
+	
+	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		theHundreds = '' if (iii == 0 and ii == 0 and i == 0) else '\'t ' + self.get100(iii, ii, i, True)
+		if iv == 0: # < 1000
+			return self.get100(iii, ii, i, isNoZero)
+		if iv == 4 or iv == 6 or iv == 9: # 4000, 6000, 9000
+			return self.get1(iv, True) + ' na ' + self.thousand + theHundreds
+		else: # 2000+
+			return self.get1(iv, True) + 'ng ' + self.thousand + theHundreds
+
 class NumeralGeneratorTurkish(NumeralGenerator):
 	'''
 	Numeral generator for Turkish
