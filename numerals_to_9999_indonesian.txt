@@ -77,7 +77,7 @@ sembilan puluh enam	96
 sembilan puluh tujuh	97
 sembilan puluh delapan	98
 sembilan puluh sembilan	99
-seratus 	100
+seratus	100
 seratus satu	101
 seratus dua	102
 seratus tiga	103
@@ -177,7 +177,7 @@ seratus sembilan puluh enam	196
 seratus sembilan puluh tujuh	197
 seratus sembilan puluh delapan	198
 seratus sembilan puluh sembilan	199
-dua ratus 	200
+dua ratus	200
 dua ratus satu	201
 dua ratus dua	202
 dua ratus tiga	203
@@ -277,7 +277,7 @@ dua ratus sembilan puluh enam	296
 dua ratus sembilan puluh tujuh	297
 dua ratus sembilan puluh delapan	298
 dua ratus sembilan puluh sembilan	299
-tiga ratus 	300
+tiga ratus	300
 tiga ratus satu	301
 tiga ratus dua	302
 tiga ratus tiga	303
@@ -377,7 +377,7 @@ tiga ratus sembilan puluh enam	396
 tiga ratus sembilan puluh tujuh	397
 tiga ratus sembilan puluh delapan	398
 tiga ratus sembilan puluh sembilan	399
-empat ratus 	400
+empat ratus	400
 empat ratus satu	401
 empat ratus dua	402
 empat ratus tiga	403
@@ -477,7 +477,7 @@ empat ratus sembilan puluh enam	496
 empat ratus sembilan puluh tujuh	497
 empat ratus sembilan puluh delapan	498
 empat ratus sembilan puluh sembilan	499
-lima ratus 	500
+lima ratus	500
 lima ratus satu	501
 lima ratus dua	502
 lima ratus tiga	503
@@ -577,7 +577,7 @@ lima ratus sembilan puluh enam	596
 lima ratus sembilan puluh tujuh	597
 lima ratus sembilan puluh delapan	598
 lima ratus sembilan puluh sembilan	599
-enam ratus 	600
+enam ratus	600
 enam ratus satu	601
 enam ratus dua	602
 enam ratus tiga	603
@@ -677,7 +677,7 @@ enam ratus sembilan puluh enam	696
 enam ratus sembilan puluh tujuh	697
 enam ratus sembilan puluh delapan	698
 enam ratus sembilan puluh sembilan	699
-tujuh ratus 	700
+tujuh ratus	700
 tujuh ratus satu	701
 tujuh ratus dua	702
 tujuh ratus tiga	703
@@ -777,7 +777,7 @@ tujuh ratus sembilan puluh enam	796
 tujuh ratus sembilan puluh tujuh	797
 tujuh ratus sembilan puluh delapan	798
 tujuh ratus sembilan puluh sembilan	799
-delapan ratus 	800
+delapan ratus	800
 delapan ratus satu	801
 delapan ratus dua	802
 delapan ratus tiga	803
@@ -877,7 +877,7 @@ delapan ratus sembilan puluh enam	896
 delapan ratus sembilan puluh tujuh	897
 delapan ratus sembilan puluh delapan	898
 delapan ratus sembilan puluh sembilan	899
-sembilan ratus 	900
+sembilan ratus	900
 sembilan ratus satu	901
 sembilan ratus dua	902
 sembilan ratus tiga	903
@@ -977,7 +977,7 @@ sembilan ratus sembilan puluh enam	996
 sembilan ratus sembilan puluh tujuh	997
 sembilan ratus sembilan puluh delapan	998
 sembilan ratus sembilan puluh sembilan	999
-seribu 	1000
+seribu	1000
 seribu satu	1001
 seribu dua	1002
 seribu tiga	1003
@@ -1077,7 +1077,7 @@ seribu sembilan puluh enam	1096
 seribu sembilan puluh tujuh	1097
 seribu sembilan puluh delapan	1098
 seribu sembilan puluh sembilan	1099
-seribu seratus 	1100
+seribu seratus	1100
 seribu seratus satu	1101
 seribu seratus dua	1102
 seribu seratus tiga	1103
@@ -1177,7 +1177,7 @@ seribu seratus sembilan puluh enam	1196
 seribu seratus sembilan puluh tujuh	1197
 seribu seratus sembilan puluh delapan	1198
 seribu seratus sembilan puluh sembilan	1199
-seribu dua ratus 	1200
+seribu dua ratus	1200
 seribu dua ratus satu	1201
 seribu dua ratus dua	1202
 seribu dua ratus tiga	1203
@@ -1277,7 +1277,7 @@ seribu dua ratus sembilan puluh enam	1296
 seribu dua ratus sembilan puluh tujuh	1297
 seribu dua ratus sembilan puluh delapan	1298
 seribu dua ratus sembilan puluh sembilan	1299
-seribu tiga ratus 	1300
+seribu tiga ratus	1300
 seribu tiga ratus satu	1301
 seribu tiga ratus dua	1302
 seribu tiga ratus tiga	1303
@@ -1377,7 +1377,7 @@ seribu tiga ratus sembilan puluh enam	1396
 seribu tiga ratus sembilan puluh tujuh	1397
 seribu tiga ratus sembilan puluh delapan	1398
 seribu tiga ratus sembilan puluh sembilan	1399
-seribu empat ratus 	1400
+seribu empat ratus	1400
 seribu empat ratus satu	1401
 seribu empat ratus dua	1402
 seribu empat ratus tiga	1403
@@ -1477,7 +1477,7 @@ seribu empat ratus sembilan puluh enam	1496
 seribu empat ratus sembilan puluh tujuh	1497
 seribu empat ratus sembilan puluh delapan	1498
 seribu empat ratus sembilan puluh sembilan	1499
-seribu lima ratus 	1500
+seribu lima ratus	1500
 seribu lima ratus satu	1501
 seribu lima ratus dua	1502
 seribu lima ratus tiga	1503
@@ -1577,7 +1577,7 @@ seribu lima ratus sembilan puluh enam	1596
 seribu lima ratus sembilan puluh tujuh	1597
 seribu lima ratus sembilan puluh delapan	1598
 seribu lima ratus sembilan puluh sembilan	1599
-seribu enam ratus 	1600
+seribu enam ratus	1600
 seribu enam ratus satu	1601
 seribu enam ratus dua	1602
 seribu enam ratus tiga	1603
@@ -1677,7 +1677,7 @@ seribu enam ratus sembilan puluh enam	1696
 seribu enam ratus sembilan puluh tujuh	1697
 seribu enam ratus sembilan puluh delapan	1698
 seribu enam ratus sembilan puluh sembilan	1699
-seribu tujuh ratus 	1700
+seribu tujuh ratus	1700
 seribu tujuh ratus satu	1701
 seribu tujuh ratus dua	1702
 seribu tujuh ratus tiga	1703
@@ -1777,7 +1777,7 @@ seribu tujuh ratus sembilan puluh enam	1796
 seribu tujuh ratus sembilan puluh tujuh	1797
 seribu tujuh ratus sembilan puluh delapan	1798
 seribu tujuh ratus sembilan puluh sembilan	1799
-seribu delapan ratus 	1800
+seribu delapan ratus	1800
 seribu delapan ratus satu	1801
 seribu delapan ratus dua	1802
 seribu delapan ratus tiga	1803
@@ -1877,7 +1877,7 @@ seribu delapan ratus sembilan puluh enam	1896
 seribu delapan ratus sembilan puluh tujuh	1897
 seribu delapan ratus sembilan puluh delapan	1898
 seribu delapan ratus sembilan puluh sembilan	1899
-seribu sembilan ratus 	1900
+seribu sembilan ratus	1900
 seribu sembilan ratus satu	1901
 seribu sembilan ratus dua	1902
 seribu sembilan ratus tiga	1903
@@ -1977,7 +1977,7 @@ seribu sembilan ratus sembilan puluh enam	1996
 seribu sembilan ratus sembilan puluh tujuh	1997
 seribu sembilan ratus sembilan puluh delapan	1998
 seribu sembilan ratus sembilan puluh sembilan	1999
-dua ribu 	2000
+dua ribu	2000
 dua ribu satu	2001
 dua ribu dua	2002
 dua ribu tiga	2003
@@ -2077,7 +2077,7 @@ dua ribu sembilan puluh enam	2096
 dua ribu sembilan puluh tujuh	2097
 dua ribu sembilan puluh delapan	2098
 dua ribu sembilan puluh sembilan	2099
-dua ribu seratus 	2100
+dua ribu seratus	2100
 dua ribu seratus satu	2101
 dua ribu seratus dua	2102
 dua ribu seratus tiga	2103
@@ -2177,7 +2177,7 @@ dua ribu seratus sembilan puluh enam	2196
 dua ribu seratus sembilan puluh tujuh	2197
 dua ribu seratus sembilan puluh delapan	2198
 dua ribu seratus sembilan puluh sembilan	2199
-dua ribu dua ratus 	2200
+dua ribu dua ratus	2200
 dua ribu dua ratus satu	2201
 dua ribu dua ratus dua	2202
 dua ribu dua ratus tiga	2203
@@ -2277,7 +2277,7 @@ dua ribu dua ratus sembilan puluh enam	2296
 dua ribu dua ratus sembilan puluh tujuh	2297
 dua ribu dua ratus sembilan puluh delapan	2298
 dua ribu dua ratus sembilan puluh sembilan	2299
-dua ribu tiga ratus 	2300
+dua ribu tiga ratus	2300
 dua ribu tiga ratus satu	2301
 dua ribu tiga ratus dua	2302
 dua ribu tiga ratus tiga	2303
@@ -2377,7 +2377,7 @@ dua ribu tiga ratus sembilan puluh enam	2396
 dua ribu tiga ratus sembilan puluh tujuh	2397
 dua ribu tiga ratus sembilan puluh delapan	2398
 dua ribu tiga ratus sembilan puluh sembilan	2399
-dua ribu empat ratus 	2400
+dua ribu empat ratus	2400
 dua ribu empat ratus satu	2401
 dua ribu empat ratus dua	2402
 dua ribu empat ratus tiga	2403
@@ -2477,7 +2477,7 @@ dua ribu empat ratus sembilan puluh enam	2496
 dua ribu empat ratus sembilan puluh tujuh	2497
 dua ribu empat ratus sembilan puluh delapan	2498
 dua ribu empat ratus sembilan puluh sembilan	2499
-dua ribu lima ratus 	2500
+dua ribu lima ratus	2500
 dua ribu lima ratus satu	2501
 dua ribu lima ratus dua	2502
 dua ribu lima ratus tiga	2503
@@ -2577,7 +2577,7 @@ dua ribu lima ratus sembilan puluh enam	2596
 dua ribu lima ratus sembilan puluh tujuh	2597
 dua ribu lima ratus sembilan puluh delapan	2598
 dua ribu lima ratus sembilan puluh sembilan	2599
-dua ribu enam ratus 	2600
+dua ribu enam ratus	2600
 dua ribu enam ratus satu	2601
 dua ribu enam ratus dua	2602
 dua ribu enam ratus tiga	2603
@@ -2677,7 +2677,7 @@ dua ribu enam ratus sembilan puluh enam	2696
 dua ribu enam ratus sembilan puluh tujuh	2697
 dua ribu enam ratus sembilan puluh delapan	2698
 dua ribu enam ratus sembilan puluh sembilan	2699
-dua ribu tujuh ratus 	2700
+dua ribu tujuh ratus	2700
 dua ribu tujuh ratus satu	2701
 dua ribu tujuh ratus dua	2702
 dua ribu tujuh ratus tiga	2703
@@ -2777,7 +2777,7 @@ dua ribu tujuh ratus sembilan puluh enam	2796
 dua ribu tujuh ratus sembilan puluh tujuh	2797
 dua ribu tujuh ratus sembilan puluh delapan	2798
 dua ribu tujuh ratus sembilan puluh sembilan	2799
-dua ribu delapan ratus 	2800
+dua ribu delapan ratus	2800
 dua ribu delapan ratus satu	2801
 dua ribu delapan ratus dua	2802
 dua ribu delapan ratus tiga	2803
@@ -2877,7 +2877,7 @@ dua ribu delapan ratus sembilan puluh enam	2896
 dua ribu delapan ratus sembilan puluh tujuh	2897
 dua ribu delapan ratus sembilan puluh delapan	2898
 dua ribu delapan ratus sembilan puluh sembilan	2899
-dua ribu sembilan ratus 	2900
+dua ribu sembilan ratus	2900
 dua ribu sembilan ratus satu	2901
 dua ribu sembilan ratus dua	2902
 dua ribu sembilan ratus tiga	2903
@@ -2977,7 +2977,7 @@ dua ribu sembilan ratus sembilan puluh enam	2996
 dua ribu sembilan ratus sembilan puluh tujuh	2997
 dua ribu sembilan ratus sembilan puluh delapan	2998
 dua ribu sembilan ratus sembilan puluh sembilan	2999
-tiga ribu 	3000
+tiga ribu	3000
 tiga ribu satu	3001
 tiga ribu dua	3002
 tiga ribu tiga	3003
@@ -3077,7 +3077,7 @@ tiga ribu sembilan puluh enam	3096
 tiga ribu sembilan puluh tujuh	3097
 tiga ribu sembilan puluh delapan	3098
 tiga ribu sembilan puluh sembilan	3099
-tiga ribu seratus 	3100
+tiga ribu seratus	3100
 tiga ribu seratus satu	3101
 tiga ribu seratus dua	3102
 tiga ribu seratus tiga	3103
@@ -3177,7 +3177,7 @@ tiga ribu seratus sembilan puluh enam	3196
 tiga ribu seratus sembilan puluh tujuh	3197
 tiga ribu seratus sembilan puluh delapan	3198
 tiga ribu seratus sembilan puluh sembilan	3199
-tiga ribu dua ratus 	3200
+tiga ribu dua ratus	3200
 tiga ribu dua ratus satu	3201
 tiga ribu dua ratus dua	3202
 tiga ribu dua ratus tiga	3203
@@ -3277,7 +3277,7 @@ tiga ribu dua ratus sembilan puluh enam	3296
 tiga ribu dua ratus sembilan puluh tujuh	3297
 tiga ribu dua ratus sembilan puluh delapan	3298
 tiga ribu dua ratus sembilan puluh sembilan	3299
-tiga ribu tiga ratus 	3300
+tiga ribu tiga ratus	3300
 tiga ribu tiga ratus satu	3301
 tiga ribu tiga ratus dua	3302
 tiga ribu tiga ratus tiga	3303
@@ -3377,7 +3377,7 @@ tiga ribu tiga ratus sembilan puluh enam	3396
 tiga ribu tiga ratus sembilan puluh tujuh	3397
 tiga ribu tiga ratus sembilan puluh delapan	3398
 tiga ribu tiga ratus sembilan puluh sembilan	3399
-tiga ribu empat ratus 	3400
+tiga ribu empat ratus	3400
 tiga ribu empat ratus satu	3401
 tiga ribu empat ratus dua	3402
 tiga ribu empat ratus tiga	3403
@@ -3477,7 +3477,7 @@ tiga ribu empat ratus sembilan puluh enam	3496
 tiga ribu empat ratus sembilan puluh tujuh	3497
 tiga ribu empat ratus sembilan puluh delapan	3498
 tiga ribu empat ratus sembilan puluh sembilan	3499
-tiga ribu lima ratus 	3500
+tiga ribu lima ratus	3500
 tiga ribu lima ratus satu	3501
 tiga ribu lima ratus dua	3502
 tiga ribu lima ratus tiga	3503
@@ -3577,7 +3577,7 @@ tiga ribu lima ratus sembilan puluh enam	3596
 tiga ribu lima ratus sembilan puluh tujuh	3597
 tiga ribu lima ratus sembilan puluh delapan	3598
 tiga ribu lima ratus sembilan puluh sembilan	3599
-tiga ribu enam ratus 	3600
+tiga ribu enam ratus	3600
 tiga ribu enam ratus satu	3601
 tiga ribu enam ratus dua	3602
 tiga ribu enam ratus tiga	3603
@@ -3677,7 +3677,7 @@ tiga ribu enam ratus sembilan puluh enam	3696
 tiga ribu enam ratus sembilan puluh tujuh	3697
 tiga ribu enam ratus sembilan puluh delapan	3698
 tiga ribu enam ratus sembilan puluh sembilan	3699
-tiga ribu tujuh ratus 	3700
+tiga ribu tujuh ratus	3700
 tiga ribu tujuh ratus satu	3701
 tiga ribu tujuh ratus dua	3702
 tiga ribu tujuh ratus tiga	3703
@@ -3777,7 +3777,7 @@ tiga ribu tujuh ratus sembilan puluh enam	3796
 tiga ribu tujuh ratus sembilan puluh tujuh	3797
 tiga ribu tujuh ratus sembilan puluh delapan	3798
 tiga ribu tujuh ratus sembilan puluh sembilan	3799
-tiga ribu delapan ratus 	3800
+tiga ribu delapan ratus	3800
 tiga ribu delapan ratus satu	3801
 tiga ribu delapan ratus dua	3802
 tiga ribu delapan ratus tiga	3803
@@ -3877,7 +3877,7 @@ tiga ribu delapan ratus sembilan puluh enam	3896
 tiga ribu delapan ratus sembilan puluh tujuh	3897
 tiga ribu delapan ratus sembilan puluh delapan	3898
 tiga ribu delapan ratus sembilan puluh sembilan	3899
-tiga ribu sembilan ratus 	3900
+tiga ribu sembilan ratus	3900
 tiga ribu sembilan ratus satu	3901
 tiga ribu sembilan ratus dua	3902
 tiga ribu sembilan ratus tiga	3903
@@ -3977,7 +3977,7 @@ tiga ribu sembilan ratus sembilan puluh enam	3996
 tiga ribu sembilan ratus sembilan puluh tujuh	3997
 tiga ribu sembilan ratus sembilan puluh delapan	3998
 tiga ribu sembilan ratus sembilan puluh sembilan	3999
-empat ribu 	4000
+empat ribu	4000
 empat ribu satu	4001
 empat ribu dua	4002
 empat ribu tiga	4003
@@ -4077,7 +4077,7 @@ empat ribu sembilan puluh enam	4096
 empat ribu sembilan puluh tujuh	4097
 empat ribu sembilan puluh delapan	4098
 empat ribu sembilan puluh sembilan	4099
-empat ribu seratus 	4100
+empat ribu seratus	4100
 empat ribu seratus satu	4101
 empat ribu seratus dua	4102
 empat ribu seratus tiga	4103
@@ -4177,7 +4177,7 @@ empat ribu seratus sembilan puluh enam	4196
 empat ribu seratus sembilan puluh tujuh	4197
 empat ribu seratus sembilan puluh delapan	4198
 empat ribu seratus sembilan puluh sembilan	4199
-empat ribu dua ratus 	4200
+empat ribu dua ratus	4200
 empat ribu dua ratus satu	4201
 empat ribu dua ratus dua	4202
 empat ribu dua ratus tiga	4203
@@ -4277,7 +4277,7 @@ empat ribu dua ratus sembilan puluh enam	4296
 empat ribu dua ratus sembilan puluh tujuh	4297
 empat ribu dua ratus sembilan puluh delapan	4298
 empat ribu dua ratus sembilan puluh sembilan	4299
-empat ribu tiga ratus 	4300
+empat ribu tiga ratus	4300
 empat ribu tiga ratus satu	4301
 empat ribu tiga ratus dua	4302
 empat ribu tiga ratus tiga	4303
@@ -4377,7 +4377,7 @@ empat ribu tiga ratus sembilan puluh enam	4396
 empat ribu tiga ratus sembilan puluh tujuh	4397
 empat ribu tiga ratus sembilan puluh delapan	4398
 empat ribu tiga ratus sembilan puluh sembilan	4399
-empat ribu empat ratus 	4400
+empat ribu empat ratus	4400
 empat ribu empat ratus satu	4401
 empat ribu empat ratus dua	4402
 empat ribu empat ratus tiga	4403
@@ -4477,7 +4477,7 @@ empat ribu empat ratus sembilan puluh enam	4496
 empat ribu empat ratus sembilan puluh tujuh	4497
 empat ribu empat ratus sembilan puluh delapan	4498
 empat ribu empat ratus sembilan puluh sembilan	4499
-empat ribu lima ratus 	4500
+empat ribu lima ratus	4500
 empat ribu lima ratus satu	4501
 empat ribu lima ratus dua	4502
 empat ribu lima ratus tiga	4503
@@ -4577,7 +4577,7 @@ empat ribu lima ratus sembilan puluh enam	4596
 empat ribu lima ratus sembilan puluh tujuh	4597
 empat ribu lima ratus sembilan puluh delapan	4598
 empat ribu lima ratus sembilan puluh sembilan	4599
-empat ribu enam ratus 	4600
+empat ribu enam ratus	4600
 empat ribu enam ratus satu	4601
 empat ribu enam ratus dua	4602
 empat ribu enam ratus tiga	4603
@@ -4677,7 +4677,7 @@ empat ribu enam ratus sembilan puluh enam	4696
 empat ribu enam ratus sembilan puluh tujuh	4697
 empat ribu enam ratus sembilan puluh delapan	4698
 empat ribu enam ratus sembilan puluh sembilan	4699
-empat ribu tujuh ratus 	4700
+empat ribu tujuh ratus	4700
 empat ribu tujuh ratus satu	4701
 empat ribu tujuh ratus dua	4702
 empat ribu tujuh ratus tiga	4703
@@ -4777,7 +4777,7 @@ empat ribu tujuh ratus sembilan puluh enam	4796
 empat ribu tujuh ratus sembilan puluh tujuh	4797
 empat ribu tujuh ratus sembilan puluh delapan	4798
 empat ribu tujuh ratus sembilan puluh sembilan	4799
-empat ribu delapan ratus 	4800
+empat ribu delapan ratus	4800
 empat ribu delapan ratus satu	4801
 empat ribu delapan ratus dua	4802
 empat ribu delapan ratus tiga	4803
@@ -4877,7 +4877,7 @@ empat ribu delapan ratus sembilan puluh enam	4896
 empat ribu delapan ratus sembilan puluh tujuh	4897
 empat ribu delapan ratus sembilan puluh delapan	4898
 empat ribu delapan ratus sembilan puluh sembilan	4899
-empat ribu sembilan ratus 	4900
+empat ribu sembilan ratus	4900
 empat ribu sembilan ratus satu	4901
 empat ribu sembilan ratus dua	4902
 empat ribu sembilan ratus tiga	4903
@@ -4977,7 +4977,7 @@ empat ribu sembilan ratus sembilan puluh enam	4996
 empat ribu sembilan ratus sembilan puluh tujuh	4997
 empat ribu sembilan ratus sembilan puluh delapan	4998
 empat ribu sembilan ratus sembilan puluh sembilan	4999
-lima ribu 	5000
+lima ribu	5000
 lima ribu satu	5001
 lima ribu dua	5002
 lima ribu tiga	5003
@@ -5077,7 +5077,7 @@ lima ribu sembilan puluh enam	5096
 lima ribu sembilan puluh tujuh	5097
 lima ribu sembilan puluh delapan	5098
 lima ribu sembilan puluh sembilan	5099
-lima ribu seratus 	5100
+lima ribu seratus	5100
 lima ribu seratus satu	5101
 lima ribu seratus dua	5102
 lima ribu seratus tiga	5103
@@ -5177,7 +5177,7 @@ lima ribu seratus sembilan puluh enam	5196
 lima ribu seratus sembilan puluh tujuh	5197
 lima ribu seratus sembilan puluh delapan	5198
 lima ribu seratus sembilan puluh sembilan	5199
-lima ribu dua ratus 	5200
+lima ribu dua ratus	5200
 lima ribu dua ratus satu	5201
 lima ribu dua ratus dua	5202
 lima ribu dua ratus tiga	5203
@@ -5277,7 +5277,7 @@ lima ribu dua ratus sembilan puluh enam	5296
 lima ribu dua ratus sembilan puluh tujuh	5297
 lima ribu dua ratus sembilan puluh delapan	5298
 lima ribu dua ratus sembilan puluh sembilan	5299
-lima ribu tiga ratus 	5300
+lima ribu tiga ratus	5300
 lima ribu tiga ratus satu	5301
 lima ribu tiga ratus dua	5302
 lima ribu tiga ratus tiga	5303
@@ -5377,7 +5377,7 @@ lima ribu tiga ratus sembilan puluh enam	5396
 lima ribu tiga ratus sembilan puluh tujuh	5397
 lima ribu tiga ratus sembilan puluh delapan	5398
 lima ribu tiga ratus sembilan puluh sembilan	5399
-lima ribu empat ratus 	5400
+lima ribu empat ratus	5400
 lima ribu empat ratus satu	5401
 lima ribu empat ratus dua	5402
 lima ribu empat ratus tiga	5403
@@ -5477,7 +5477,7 @@ lima ribu empat ratus sembilan puluh enam	5496
 lima ribu empat ratus sembilan puluh tujuh	5497
 lima ribu empat ratus sembilan puluh delapan	5498
 lima ribu empat ratus sembilan puluh sembilan	5499
-lima ribu lima ratus 	5500
+lima ribu lima ratus	5500
 lima ribu lima ratus satu	5501
 lima ribu lima ratus dua	5502
 lima ribu lima ratus tiga	5503
@@ -5577,7 +5577,7 @@ lima ribu lima ratus sembilan puluh enam	5596
 lima ribu lima ratus sembilan puluh tujuh	5597
 lima ribu lima ratus sembilan puluh delapan	5598
 lima ribu lima ratus sembilan puluh sembilan	5599
-lima ribu enam ratus 	5600
+lima ribu enam ratus	5600
 lima ribu enam ratus satu	5601
 lima ribu enam ratus dua	5602
 lima ribu enam ratus tiga	5603
@@ -5677,7 +5677,7 @@ lima ribu enam ratus sembilan puluh enam	5696
 lima ribu enam ratus sembilan puluh tujuh	5697
 lima ribu enam ratus sembilan puluh delapan	5698
 lima ribu enam ratus sembilan puluh sembilan	5699
-lima ribu tujuh ratus 	5700
+lima ribu tujuh ratus	5700
 lima ribu tujuh ratus satu	5701
 lima ribu tujuh ratus dua	5702
 lima ribu tujuh ratus tiga	5703
@@ -5777,7 +5777,7 @@ lima ribu tujuh ratus sembilan puluh enam	5796
 lima ribu tujuh ratus sembilan puluh tujuh	5797
 lima ribu tujuh ratus sembilan puluh delapan	5798
 lima ribu tujuh ratus sembilan puluh sembilan	5799
-lima ribu delapan ratus 	5800
+lima ribu delapan ratus	5800
 lima ribu delapan ratus satu	5801
 lima ribu delapan ratus dua	5802
 lima ribu delapan ratus tiga	5803
@@ -5877,7 +5877,7 @@ lima ribu delapan ratus sembilan puluh enam	5896
 lima ribu delapan ratus sembilan puluh tujuh	5897
 lima ribu delapan ratus sembilan puluh delapan	5898
 lima ribu delapan ratus sembilan puluh sembilan	5899
-lima ribu sembilan ratus 	5900
+lima ribu sembilan ratus	5900
 lima ribu sembilan ratus satu	5901
 lima ribu sembilan ratus dua	5902
 lima ribu sembilan ratus tiga	5903
@@ -5977,7 +5977,7 @@ lima ribu sembilan ratus sembilan puluh enam	5996
 lima ribu sembilan ratus sembilan puluh tujuh	5997
 lima ribu sembilan ratus sembilan puluh delapan	5998
 lima ribu sembilan ratus sembilan puluh sembilan	5999
-enam ribu 	6000
+enam ribu	6000
 enam ribu satu	6001
 enam ribu dua	6002
 enam ribu tiga	6003
@@ -6077,7 +6077,7 @@ enam ribu sembilan puluh enam	6096
 enam ribu sembilan puluh tujuh	6097
 enam ribu sembilan puluh delapan	6098
 enam ribu sembilan puluh sembilan	6099
-enam ribu seratus 	6100
+enam ribu seratus	6100
 enam ribu seratus satu	6101
 enam ribu seratus dua	6102
 enam ribu seratus tiga	6103
@@ -6177,7 +6177,7 @@ enam ribu seratus sembilan puluh enam	6196
 enam ribu seratus sembilan puluh tujuh	6197
 enam ribu seratus sembilan puluh delapan	6198
 enam ribu seratus sembilan puluh sembilan	6199
-enam ribu dua ratus 	6200
+enam ribu dua ratus	6200
 enam ribu dua ratus satu	6201
 enam ribu dua ratus dua	6202
 enam ribu dua ratus tiga	6203
@@ -6277,7 +6277,7 @@ enam ribu dua ratus sembilan puluh enam	6296
 enam ribu dua ratus sembilan puluh tujuh	6297
 enam ribu dua ratus sembilan puluh delapan	6298
 enam ribu dua ratus sembilan puluh sembilan	6299
-enam ribu tiga ratus 	6300
+enam ribu tiga ratus	6300
 enam ribu tiga ratus satu	6301
 enam ribu tiga ratus dua	6302
 enam ribu tiga ratus tiga	6303
@@ -6377,7 +6377,7 @@ enam ribu tiga ratus sembilan puluh enam	6396
 enam ribu tiga ratus sembilan puluh tujuh	6397
 enam ribu tiga ratus sembilan puluh delapan	6398
 enam ribu tiga ratus sembilan puluh sembilan	6399
-enam ribu empat ratus 	6400
+enam ribu empat ratus	6400
 enam ribu empat ratus satu	6401
 enam ribu empat ratus dua	6402
 enam ribu empat ratus tiga	6403
@@ -6477,7 +6477,7 @@ enam ribu empat ratus sembilan puluh enam	6496
 enam ribu empat ratus sembilan puluh tujuh	6497
 enam ribu empat ratus sembilan puluh delapan	6498
 enam ribu empat ratus sembilan puluh sembilan	6499
-enam ribu lima ratus 	6500
+enam ribu lima ratus	6500
 enam ribu lima ratus satu	6501
 enam ribu lima ratus dua	6502
 enam ribu lima ratus tiga	6503
@@ -6577,7 +6577,7 @@ enam ribu lima ratus sembilan puluh enam	6596
 enam ribu lima ratus sembilan puluh tujuh	6597
 enam ribu lima ratus sembilan puluh delapan	6598
 enam ribu lima ratus sembilan puluh sembilan	6599
-enam ribu enam ratus 	6600
+enam ribu enam ratus	6600
 enam ribu enam ratus satu	6601
 enam ribu enam ratus dua	6602
 enam ribu enam ratus tiga	6603
@@ -6677,7 +6677,7 @@ enam ribu enam ratus sembilan puluh enam	6696
 enam ribu enam ratus sembilan puluh tujuh	6697
 enam ribu enam ratus sembilan puluh delapan	6698
 enam ribu enam ratus sembilan puluh sembilan	6699
-enam ribu tujuh ratus 	6700
+enam ribu tujuh ratus	6700
 enam ribu tujuh ratus satu	6701
 enam ribu tujuh ratus dua	6702
 enam ribu tujuh ratus tiga	6703
@@ -6777,7 +6777,7 @@ enam ribu tujuh ratus sembilan puluh enam	6796
 enam ribu tujuh ratus sembilan puluh tujuh	6797
 enam ribu tujuh ratus sembilan puluh delapan	6798
 enam ribu tujuh ratus sembilan puluh sembilan	6799
-enam ribu delapan ratus 	6800
+enam ribu delapan ratus	6800
 enam ribu delapan ratus satu	6801
 enam ribu delapan ratus dua	6802
 enam ribu delapan ratus tiga	6803
@@ -6877,7 +6877,7 @@ enam ribu delapan ratus sembilan puluh enam	6896
 enam ribu delapan ratus sembilan puluh tujuh	6897
 enam ribu delapan ratus sembilan puluh delapan	6898
 enam ribu delapan ratus sembilan puluh sembilan	6899
-enam ribu sembilan ratus 	6900
+enam ribu sembilan ratus	6900
 enam ribu sembilan ratus satu	6901
 enam ribu sembilan ratus dua	6902
 enam ribu sembilan ratus tiga	6903
@@ -6977,7 +6977,7 @@ enam ribu sembilan ratus sembilan puluh enam	6996
 enam ribu sembilan ratus sembilan puluh tujuh	6997
 enam ribu sembilan ratus sembilan puluh delapan	6998
 enam ribu sembilan ratus sembilan puluh sembilan	6999
-tujuh ribu 	7000
+tujuh ribu	7000
 tujuh ribu satu	7001
 tujuh ribu dua	7002
 tujuh ribu tiga	7003
@@ -7077,7 +7077,7 @@ tujuh ribu sembilan puluh enam	7096
 tujuh ribu sembilan puluh tujuh	7097
 tujuh ribu sembilan puluh delapan	7098
 tujuh ribu sembilan puluh sembilan	7099
-tujuh ribu seratus 	7100
+tujuh ribu seratus	7100
 tujuh ribu seratus satu	7101
 tujuh ribu seratus dua	7102
 tujuh ribu seratus tiga	7103
@@ -7177,7 +7177,7 @@ tujuh ribu seratus sembilan puluh enam	7196
 tujuh ribu seratus sembilan puluh tujuh	7197
 tujuh ribu seratus sembilan puluh delapan	7198
 tujuh ribu seratus sembilan puluh sembilan	7199
-tujuh ribu dua ratus 	7200
+tujuh ribu dua ratus	7200
 tujuh ribu dua ratus satu	7201
 tujuh ribu dua ratus dua	7202
 tujuh ribu dua ratus tiga	7203
@@ -7277,7 +7277,7 @@ tujuh ribu dua ratus sembilan puluh enam	7296
 tujuh ribu dua ratus sembilan puluh tujuh	7297
 tujuh ribu dua ratus sembilan puluh delapan	7298
 tujuh ribu dua ratus sembilan puluh sembilan	7299
-tujuh ribu tiga ratus 	7300
+tujuh ribu tiga ratus	7300
 tujuh ribu tiga ratus satu	7301
 tujuh ribu tiga ratus dua	7302
 tujuh ribu tiga ratus tiga	7303
@@ -7377,7 +7377,7 @@ tujuh ribu tiga ratus sembilan puluh enam	7396
 tujuh ribu tiga ratus sembilan puluh tujuh	7397
 tujuh ribu tiga ratus sembilan puluh delapan	7398
 tujuh ribu tiga ratus sembilan puluh sembilan	7399
-tujuh ribu empat ratus 	7400
+tujuh ribu empat ratus	7400
 tujuh ribu empat ratus satu	7401
 tujuh ribu empat ratus dua	7402
 tujuh ribu empat ratus tiga	7403
@@ -7477,7 +7477,7 @@ tujuh ribu empat ratus sembilan puluh enam	7496
 tujuh ribu empat ratus sembilan puluh tujuh	7497
 tujuh ribu empat ratus sembilan puluh delapan	7498
 tujuh ribu empat ratus sembilan puluh sembilan	7499
-tujuh ribu lima ratus 	7500
+tujuh ribu lima ratus	7500
 tujuh ribu lima ratus satu	7501
 tujuh ribu lima ratus dua	7502
 tujuh ribu lima ratus tiga	7503
@@ -7577,7 +7577,7 @@ tujuh ribu lima ratus sembilan puluh enam	7596
 tujuh ribu lima ratus sembilan puluh tujuh	7597
 tujuh ribu lima ratus sembilan puluh delapan	7598
 tujuh ribu lima ratus sembilan puluh sembilan	7599
-tujuh ribu enam ratus 	7600
+tujuh ribu enam ratus	7600
 tujuh ribu enam ratus satu	7601
 tujuh ribu enam ratus dua	7602
 tujuh ribu enam ratus tiga	7603
@@ -7677,7 +7677,7 @@ tujuh ribu enam ratus sembilan puluh enam	7696
 tujuh ribu enam ratus sembilan puluh tujuh	7697
 tujuh ribu enam ratus sembilan puluh delapan	7698
 tujuh ribu enam ratus sembilan puluh sembilan	7699
-tujuh ribu tujuh ratus 	7700
+tujuh ribu tujuh ratus	7700
 tujuh ribu tujuh ratus satu	7701
 tujuh ribu tujuh ratus dua	7702
 tujuh ribu tujuh ratus tiga	7703
@@ -7777,7 +7777,7 @@ tujuh ribu tujuh ratus sembilan puluh enam	7796
 tujuh ribu tujuh ratus sembilan puluh tujuh	7797
 tujuh ribu tujuh ratus sembilan puluh delapan	7798
 tujuh ribu tujuh ratus sembilan puluh sembilan	7799
-tujuh ribu delapan ratus 	7800
+tujuh ribu delapan ratus	7800
 tujuh ribu delapan ratus satu	7801
 tujuh ribu delapan ratus dua	7802
 tujuh ribu delapan ratus tiga	7803
@@ -7877,7 +7877,7 @@ tujuh ribu delapan ratus sembilan puluh enam	7896
 tujuh ribu delapan ratus sembilan puluh tujuh	7897
 tujuh ribu delapan ratus sembilan puluh delapan	7898
 tujuh ribu delapan ratus sembilan puluh sembilan	7899
-tujuh ribu sembilan ratus 	7900
+tujuh ribu sembilan ratus	7900
 tujuh ribu sembilan ratus satu	7901
 tujuh ribu sembilan ratus dua	7902
 tujuh ribu sembilan ratus tiga	7903
@@ -7977,7 +7977,7 @@ tujuh ribu sembilan ratus sembilan puluh enam	7996
 tujuh ribu sembilan ratus sembilan puluh tujuh	7997
 tujuh ribu sembilan ratus sembilan puluh delapan	7998
 tujuh ribu sembilan ratus sembilan puluh sembilan	7999
-delapan ribu 	8000
+delapan ribu	8000
 delapan ribu satu	8001
 delapan ribu dua	8002
 delapan ribu tiga	8003
@@ -8077,7 +8077,7 @@ delapan ribu sembilan puluh enam	8096
 delapan ribu sembilan puluh tujuh	8097
 delapan ribu sembilan puluh delapan	8098
 delapan ribu sembilan puluh sembilan	8099
-delapan ribu seratus 	8100
+delapan ribu seratus	8100
 delapan ribu seratus satu	8101
 delapan ribu seratus dua	8102
 delapan ribu seratus tiga	8103
@@ -8177,7 +8177,7 @@ delapan ribu seratus sembilan puluh enam	8196
 delapan ribu seratus sembilan puluh tujuh	8197
 delapan ribu seratus sembilan puluh delapan	8198
 delapan ribu seratus sembilan puluh sembilan	8199
-delapan ribu dua ratus 	8200
+delapan ribu dua ratus	8200
 delapan ribu dua ratus satu	8201
 delapan ribu dua ratus dua	8202
 delapan ribu dua ratus tiga	8203
@@ -8277,7 +8277,7 @@ delapan ribu dua ratus sembilan puluh enam	8296
 delapan ribu dua ratus sembilan puluh tujuh	8297
 delapan ribu dua ratus sembilan puluh delapan	8298
 delapan ribu dua ratus sembilan puluh sembilan	8299
-delapan ribu tiga ratus 	8300
+delapan ribu tiga ratus	8300
 delapan ribu tiga ratus satu	8301
 delapan ribu tiga ratus dua	8302
 delapan ribu tiga ratus tiga	8303
@@ -8377,7 +8377,7 @@ delapan ribu tiga ratus sembilan puluh enam	8396
 delapan ribu tiga ratus sembilan puluh tujuh	8397
 delapan ribu tiga ratus sembilan puluh delapan	8398
 delapan ribu tiga ratus sembilan puluh sembilan	8399
-delapan ribu empat ratus 	8400
+delapan ribu empat ratus	8400
 delapan ribu empat ratus satu	8401
 delapan ribu empat ratus dua	8402
 delapan ribu empat ratus tiga	8403
@@ -8477,7 +8477,7 @@ delapan ribu empat ratus sembilan puluh enam	8496
 delapan ribu empat ratus sembilan puluh tujuh	8497
 delapan ribu empat ratus sembilan puluh delapan	8498
 delapan ribu empat ratus sembilan puluh sembilan	8499
-delapan ribu lima ratus 	8500
+delapan ribu lima ratus	8500
 delapan ribu lima ratus satu	8501
 delapan ribu lima ratus dua	8502
 delapan ribu lima ratus tiga	8503
@@ -8577,7 +8577,7 @@ delapan ribu lima ratus sembilan puluh enam	8596
 delapan ribu lima ratus sembilan puluh tujuh	8597
 delapan ribu lima ratus sembilan puluh delapan	8598
 delapan ribu lima ratus sembilan puluh sembilan	8599
-delapan ribu enam ratus 	8600
+delapan ribu enam ratus	8600
 delapan ribu enam ratus satu	8601
 delapan ribu enam ratus dua	8602
 delapan ribu enam ratus tiga	8603
@@ -8677,7 +8677,7 @@ delapan ribu enam ratus sembilan puluh enam	8696
 delapan ribu enam ratus sembilan puluh tujuh	8697
 delapan ribu enam ratus sembilan puluh delapan	8698
 delapan ribu enam ratus sembilan puluh sembilan	8699
-delapan ribu tujuh ratus 	8700
+delapan ribu tujuh ratus	8700
 delapan ribu tujuh ratus satu	8701
 delapan ribu tujuh ratus dua	8702
 delapan ribu tujuh ratus tiga	8703
@@ -8777,7 +8777,7 @@ delapan ribu tujuh ratus sembilan puluh enam	8796
 delapan ribu tujuh ratus sembilan puluh tujuh	8797
 delapan ribu tujuh ratus sembilan puluh delapan	8798
 delapan ribu tujuh ratus sembilan puluh sembilan	8799
-delapan ribu delapan ratus 	8800
+delapan ribu delapan ratus	8800
 delapan ribu delapan ratus satu	8801
 delapan ribu delapan ratus dua	8802
 delapan ribu delapan ratus tiga	8803
@@ -8877,7 +8877,7 @@ delapan ribu delapan ratus sembilan puluh enam	8896
 delapan ribu delapan ratus sembilan puluh tujuh	8897
 delapan ribu delapan ratus sembilan puluh delapan	8898
 delapan ribu delapan ratus sembilan puluh sembilan	8899
-delapan ribu sembilan ratus 	8900
+delapan ribu sembilan ratus	8900
 delapan ribu sembilan ratus satu	8901
 delapan ribu sembilan ratus dua	8902
 delapan ribu sembilan ratus tiga	8903
@@ -8977,7 +8977,7 @@ delapan ribu sembilan ratus sembilan puluh enam	8996
 delapan ribu sembilan ratus sembilan puluh tujuh	8997
 delapan ribu sembilan ratus sembilan puluh delapan	8998
 delapan ribu sembilan ratus sembilan puluh sembilan	8999
-sembilan ribu 	9000
+sembilan ribu	9000
 sembilan ribu satu	9001
 sembilan ribu dua	9002
 sembilan ribu tiga	9003
@@ -9077,7 +9077,7 @@ sembilan ribu sembilan puluh enam	9096
 sembilan ribu sembilan puluh tujuh	9097
 sembilan ribu sembilan puluh delapan	9098
 sembilan ribu sembilan puluh sembilan	9099
-sembilan ribu seratus 	9100
+sembilan ribu seratus	9100
 sembilan ribu seratus satu	9101
 sembilan ribu seratus dua	9102
 sembilan ribu seratus tiga	9103
@@ -9177,7 +9177,7 @@ sembilan ribu seratus sembilan puluh enam	9196
 sembilan ribu seratus sembilan puluh tujuh	9197
 sembilan ribu seratus sembilan puluh delapan	9198
 sembilan ribu seratus sembilan puluh sembilan	9199
-sembilan ribu dua ratus 	9200
+sembilan ribu dua ratus	9200
 sembilan ribu dua ratus satu	9201
 sembilan ribu dua ratus dua	9202
 sembilan ribu dua ratus tiga	9203
@@ -9277,7 +9277,7 @@ sembilan ribu dua ratus sembilan puluh enam	9296
 sembilan ribu dua ratus sembilan puluh tujuh	9297
 sembilan ribu dua ratus sembilan puluh delapan	9298
 sembilan ribu dua ratus sembilan puluh sembilan	9299
-sembilan ribu tiga ratus 	9300
+sembilan ribu tiga ratus	9300
 sembilan ribu tiga ratus satu	9301
 sembilan ribu tiga ratus dua	9302
 sembilan ribu tiga ratus tiga	9303
@@ -9377,7 +9377,7 @@ sembilan ribu tiga ratus sembilan puluh enam	9396
 sembilan ribu tiga ratus sembilan puluh tujuh	9397
 sembilan ribu tiga ratus sembilan puluh delapan	9398
 sembilan ribu tiga ratus sembilan puluh sembilan	9399
-sembilan ribu empat ratus 	9400
+sembilan ribu empat ratus	9400
 sembilan ribu empat ratus satu	9401
 sembilan ribu empat ratus dua	9402
 sembilan ribu empat ratus tiga	9403
@@ -9477,7 +9477,7 @@ sembilan ribu empat ratus sembilan puluh enam	9496
 sembilan ribu empat ratus sembilan puluh tujuh	9497
 sembilan ribu empat ratus sembilan puluh delapan	9498
 sembilan ribu empat ratus sembilan puluh sembilan	9499
-sembilan ribu lima ratus 	9500
+sembilan ribu lima ratus	9500
 sembilan ribu lima ratus satu	9501
 sembilan ribu lima ratus dua	9502
 sembilan ribu lima ratus tiga	9503
@@ -9577,7 +9577,7 @@ sembilan ribu lima ratus sembilan puluh enam	9596
 sembilan ribu lima ratus sembilan puluh tujuh	9597
 sembilan ribu lima ratus sembilan puluh delapan	9598
 sembilan ribu lima ratus sembilan puluh sembilan	9599
-sembilan ribu enam ratus 	9600
+sembilan ribu enam ratus	9600
 sembilan ribu enam ratus satu	9601
 sembilan ribu enam ratus dua	9602
 sembilan ribu enam ratus tiga	9603
@@ -9677,7 +9677,7 @@ sembilan ribu enam ratus sembilan puluh enam	9696
 sembilan ribu enam ratus sembilan puluh tujuh	9697
 sembilan ribu enam ratus sembilan puluh delapan	9698
 sembilan ribu enam ratus sembilan puluh sembilan	9699
-sembilan ribu tujuh ratus 	9700
+sembilan ribu tujuh ratus	9700
 sembilan ribu tujuh ratus satu	9701
 sembilan ribu tujuh ratus dua	9702
 sembilan ribu tujuh ratus tiga	9703
@@ -9777,7 +9777,7 @@ sembilan ribu tujuh ratus sembilan puluh enam	9796
 sembilan ribu tujuh ratus sembilan puluh tujuh	9797
 sembilan ribu tujuh ratus sembilan puluh delapan	9798
 sembilan ribu tujuh ratus sembilan puluh sembilan	9799
-sembilan ribu delapan ratus 	9800
+sembilan ribu delapan ratus	9800
 sembilan ribu delapan ratus satu	9801
 sembilan ribu delapan ratus dua	9802
 sembilan ribu delapan ratus tiga	9803
@@ -9877,7 +9877,7 @@ sembilan ribu delapan ratus sembilan puluh enam	9896
 sembilan ribu delapan ratus sembilan puluh tujuh	9897
 sembilan ribu delapan ratus sembilan puluh delapan	9898
 sembilan ribu delapan ratus sembilan puluh sembilan	9899
-sembilan ribu sembilan ratus 	9900
+sembilan ribu sembilan ratus	9900
 sembilan ribu sembilan ratus satu	9901
 sembilan ribu sembilan ratus dua	9902
 sembilan ribu sembilan ratus tiga	9903

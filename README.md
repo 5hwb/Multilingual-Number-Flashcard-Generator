@@ -6,22 +6,24 @@ Anki is available on Windows, Linux, Mac and Android and can be downloaded from 
 
 Currently, the following languages are fully implemented:
 
-* Armenian (romanised)
-* Chinese (hanzi)
-* Chinese (Mandarin, pinyin)
-* English
-* Finnish
-* French
-* Georgian
-* Georgian (romanised)
-* German
-* Italian
-* Turkish
-* Vietnamese
+- Armenian (romanised)
+- Chinese (hanzi)
+- Chinese (Mandarin, pinyin)
+- English
+- Finnish
+- French
+- Georgian
+- Georgian (romanised)
+- German
+- Indonesian
+- Italian
+- Tagalog
+- Turkish
+- Vietnamese
 
 These languages are currently in development:
 
-* N/A
+- N/A
 
 ## Screenshots of generated number flashcards
 
@@ -47,5 +49,5 @@ These languages are currently in development:
 
 ## TODOs
 
-* Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Norwegian, Portuguese, Russian, Spanish, Swedish, other widely studied languages
-* Create num generator for Hungarian, Armenian, Basque!
+- Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Norwegian, Portuguese, Russian, Spanish, Swedish, other widely studied languages
+- Create num generator for Hungarian, Armenian, Basque!

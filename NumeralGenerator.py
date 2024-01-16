@@ -692,20 +692,22 @@ class NumeralGeneratorIndonesian(NumeralGenerator):
 			return self.tens[ii] + ' ' + self.get1(i, True)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
+		theTens = '' if (ii == 0 and i == 0) else ' ' + self.get10(ii, i, True)
 		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
 		elif iii == 1: # 100-199
-			return self.hundred + ' ' + self.get10(ii, i, True)
+			return self.hundred + theTens
 		else: # 200+
-			return self.get1(iii, True) + ' ' + self.hundreds + ' ' + self.get10(ii, i, True)
-	
+			return self.get1(iii, True) + ' ' + self.hundreds + theTens
+
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
+		theHundreds = '' if (iii == 0 and ii == 0 and i == 0) else ' ' + self.get100(iii, ii, i, True)
 		if iv == 0: # < 1000
 			return self.get100(iii, ii, i, isNoZero)
 		elif iv == 1: # 1001-1999
-			return self.thousand + ' ' + self.get100(iii, ii, i, True)
+			return self.thousand + theHundreds
 		else: # 2000+
-			return self.get1(iv, True) + ' ' + self.thousands + ' ' + self.get100(iii, ii, i, True)
+			return self.get1(iv, True) + ' ' + self.thousands + theHundreds
 
 class NumeralGeneratorItalian(NumeralGenerator):
 	'''

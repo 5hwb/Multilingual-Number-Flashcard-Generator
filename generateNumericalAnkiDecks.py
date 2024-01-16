@@ -13,9 +13,9 @@ NumeralGeneratorGerman, NumeralGeneratorIndonesian, NumeralGeneratorItalian, Num
 #numGenerator = NumeralGeneratorGeorgian()
 #numGenerator = NumeralGeneratorGeorgianRomanised()
 #numGenerator = NumeralGeneratorGerman()
-#numGenerator = NumeralGeneratorIndonesian()
+numGenerator = NumeralGeneratorIndonesian()
 #numGenerator = NumeralGeneratorItalian()
-numGenerator = NumeralGeneratorTagalog()
+#numGenerator = NumeralGeneratorTagalog()
 #numGenerator = NumeralGeneratorTurkish()
 #numGenerator = NumeralGeneratorVietnamese()
 def getListOfNumerals(start, end):
