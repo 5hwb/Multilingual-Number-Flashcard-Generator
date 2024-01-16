@@ -14,7 +14,7 @@ labindalawa	12
 labintatlo	13
 labing-apat	14
 labinlima	15
-labin-anim	16
+labing-anim	16
 labimpito	17
 labingwalo	18
 labinsiyam	19

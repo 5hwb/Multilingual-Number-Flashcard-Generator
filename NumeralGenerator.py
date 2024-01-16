@@ -818,7 +818,7 @@ class NumeralGeneratorTagalog(NumeralGenerator):
 			'labintatlo', # 13
 			'labing-apat', # 14
 			'labinlima', # 15
-			'labin-anim', # 16
+			'labing-anim', # 16
 			'labimpito', # 17
 			'labingwalo', # 18
 			'labinsiyam' # 19
@@ -857,14 +857,14 @@ class NumeralGeneratorTagalog(NumeralGenerator):
 			return self.tens[ii] + '\'t ' + self.get1(i, True)
 	
 	def get100(self, iii, ii, i, isNoZero=False):
-		theOne = self.get1(iii, True)[:-1] + 'u' if (iii == 3 or iii == 7 or iii == 8) else self.get1(iii, True)
+		theOne = self.get1(iii, True)
 		theTens = '' if (ii == 0 and i == 0) else ' at ' + self.get10(ii, i, True)
 		if iii == 0: # < 100
 			return self.get10(ii, i, isNoZero)
 		if iii == 4 or iii == 6 or iii == 9: # 400, 600, 900
-			return theOne + 'na' + self.altHundred + theTens
+			return theOne + ' na ' + self.altHundred + theTens
 		else: # 200+
-			return theOne + 'n' + self.hundred + theTens
+			return theOne + 'ng ' + self.hundred + theTens
 	
 	def get1000(self, iv, iii, ii, i, isNoZero=False):
 		theHundreds = '' if (iii == 0 and ii == 0 and i == 0) else '\'t ' + self.get100(iii, ii, i, True)
