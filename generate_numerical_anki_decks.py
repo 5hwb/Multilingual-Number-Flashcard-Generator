@@ -1,5 +1,5 @@
 from file_io import save_str_to_file
-from NumeralGenerator import NumeralGeneratorArmenianRomanised, NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, \
+from numeral_generator import NumeralGeneratorArmenianRomanised, NumeralGeneratorChineseHanzi, NumeralGeneratorChineseMandarin, \
 NumeralGeneratorEnglish, NumeralGeneratorFinnish, NumeralGeneratorFrench, NumeralGeneratorGeorgian, NumeralGeneratorGeorgianRomanised, \
 NumeralGeneratorGerman, NumeralGeneratorIndonesian, NumeralGeneratorItalian, NumeralGeneratorTagalog, NumeralGeneratorTurkish, NumeralGeneratorVietnamese
 

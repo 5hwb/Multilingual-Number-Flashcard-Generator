@@ -15,7 +15,7 @@ Currently, the flashcards for the following languages are fully implemented:
 - Georgian
 - Georgian (romanised)
 - German
-- Indonesian
+- Indonesian/Malay
 - Italian
 - Tagalog
 - Turkish
