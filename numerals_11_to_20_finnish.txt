@@ -1,14 +1,3 @@
-nolla	0
-yksi	1
-kaksi	2
-kolme	3
-neljä	4
-viisi	5
-kuusi	6
-seitsemän	7
-kahdeksan	8
-yhdeksän	9
-kymmenen	10
 yksitoista	11
 kaksitoista	12
 kolmetoista	13

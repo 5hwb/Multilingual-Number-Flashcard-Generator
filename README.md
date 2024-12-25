@@ -4,7 +4,7 @@ This is a set of flashcard files ('decks') for numerals from other languages, wh
 
 Anki is available on Windows, Linux, Mac and Android and can be downloaded from [their website](https://apps.ankiweb.net/).
 
-Currently, the following languages are fully implemented:
+Currently, the flashcards for the following languages are fully implemented:
 
 - Armenian (romanised)
 - Chinese (hanzi)
@@ -20,10 +20,6 @@ Currently, the following languages are fully implemented:
 - Tagalog
 - Turkish
 - Vietnamese
-
-These languages are currently in development:
-
-- N/A
 
 ## Screenshots of generated number flashcards
 
@@ -49,5 +45,4 @@ These languages are currently in development:
 
 ## TODOs
 
-- Create num generator for Cantonese, Japanese, Korean, Malay/Indonesian, Thai, Dutch, Irish, Italian, Norwegian, Portuguese, Russian, Spanish, Swedish, other widely studied languages
-- Create num generator for Hungarian, Armenian, Basque!
+- Create num generator for Cantonese, Japanese, Korean, Thai, Dutch, Irish, Norwegian, Portuguese, Russian, Spanish, Swedish, other widely studied languages

@@ -1,14 +1,3 @@
-líng	0
-yī	1
-èr	2
-sān	3
-sì	4
-wǔ	5
-liù	6
-qī	7
-bā	8
-jiǔ	9
-shí 	10
 shí yī	11
 shí èr	12
 shí sān	13

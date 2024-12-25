@@ -1,14 +1,3 @@
-zro	0
-mek	1
-yerku	2
-yerek'	3
-ch'ors	4
-hing	5
-vets'	6
-yot'	7
-ut'	8
-iny	9
-tasy	10
 tasnmek	11
 tasnyerku	12
 tasnyerek'	13

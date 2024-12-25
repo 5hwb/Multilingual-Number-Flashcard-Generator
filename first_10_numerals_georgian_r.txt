@@ -1,0 +1,11 @@
+nuli	0
+erti	1
+ori	2
+sami	3
+otkhi	4
+khuti	5
+ekvsi	6
+švidi	7
+rva	8
+tskhra	9
+ati	10

@@ -1,0 +1,80 @@
+kaksikymmentä yksi	21
+kaksikymmentä kaksi	22
+kaksikymmentä kolme	23
+kaksikymmentä neljä	24
+kaksikymmentä viisi	25
+kaksikymmentä kuusi	26
+kaksikymmentä seitsemän	27
+kaksikymmentä kahdeksan	28
+kaksikymmentä yhdeksän	29
+kolmekymmentä 	30
+kolmekymmentä yksi	31
+kolmekymmentä kaksi	32
+kolmekymmentä kolme	33
+kolmekymmentä neljä	34
+kolmekymmentä viisi	35
+kolmekymmentä kuusi	36
+kolmekymmentä seitsemän	37
+kolmekymmentä kahdeksan	38
+kolmekymmentä yhdeksän	39
+neljäkymmentä 	40
+neljäkymmentä yksi	41
+neljäkymmentä kaksi	42
+neljäkymmentä kolme	43
+neljäkymmentä neljä	44
+neljäkymmentä viisi	45
+neljäkymmentä kuusi	46
+neljäkymmentä seitsemän	47
+neljäkymmentä kahdeksan	48
+neljäkymmentä yhdeksän	49
+viisikymmentä 	50
+viisikymmentä yksi	51
+viisikymmentä kaksi	52
+viisikymmentä kolme	53
+viisikymmentä neljä	54
+viisikymmentä viisi	55
+viisikymmentä kuusi	56
+viisikymmentä seitsemän	57
+viisikymmentä kahdeksan	58
+viisikymmentä yhdeksän	59
+kuusikymmentä 	60
+kuusikymmentä yksi	61
+kuusikymmentä kaksi	62
+kuusikymmentä kolme	63
+kuusikymmentä neljä	64
+kuusikymmentä viisi	65
+kuusikymmentä kuusi	66
+kuusikymmentä seitsemän	67
+kuusikymmentä kahdeksan	68
+kuusikymmentä yhdeksän	69
+seitsemänkymmentä 	70
+seitsemänkymmentä yksi	71
+seitsemänkymmentä kaksi	72
+seitsemänkymmentä kolme	73
+seitsemänkymmentä neljä	74
+seitsemänkymmentä viisi	75
+seitsemänkymmentä kuusi	76
+seitsemänkymmentä seitsemän	77
+seitsemänkymmentä kahdeksan	78
+seitsemänkymmentä yhdeksän	79
+kahdeksankymmentä 	80
+kahdeksankymmentä yksi	81
+kahdeksankymmentä kaksi	82
+kahdeksankymmentä kolme	83
+kahdeksankymmentä neljä	84
+kahdeksankymmentä viisi	85
+kahdeksankymmentä kuusi	86
+kahdeksankymmentä seitsemän	87
+kahdeksankymmentä kahdeksan	88
+kahdeksankymmentä yhdeksän	89
+yhdeksänkymmentä 	90
+yhdeksänkymmentä yksi	91
+yhdeksänkymmentä kaksi	92
+yhdeksänkymmentä kolme	93
+yhdeksänkymmentä neljä	94
+yhdeksänkymmentä viisi	95
+yhdeksänkymmentä kuusi	96
+yhdeksänkymmentä seitsemän	97
+yhdeksänkymmentä kahdeksan	98
+yhdeksänkymmentä yhdeksän	99
+sata 	100

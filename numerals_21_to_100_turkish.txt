@@ -1,0 +1,80 @@
+yirmi bir	21
+yirmi iki	22
+yirmi üç	23
+yirmi dört	24
+yirmi beş	25
+yirmi altı	26
+yirmi yedi	27
+yirmi sekiz	28
+yirmi dokuz	29
+otuz	30
+otuz bir	31
+otuz iki	32
+otuz üç	33
+otuz dört	34
+otuz beş	35
+otuz altı	36
+otuz yedi	37
+otuz sekiz	38
+otuz dokuz	39
+kırk	40
+kırk bir	41
+kırk iki	42
+kırk üç	43
+kırk dört	44
+kırk beş	45
+kırk altı	46
+kırk yedi	47
+kırk sekiz	48
+kırk dokuz	49
+elli	50
+elli bir	51
+elli iki	52
+elli üç	53
+elli dört	54
+elli beş	55
+elli altı	56
+elli yedi	57
+elli sekiz	58
+elli dokuz	59
+altmış	60
+altmış bir	61
+altmış iki	62
+altmış üç	63
+altmış dört	64
+altmış beş	65
+altmış altı	66
+altmış yedi	67
+altmış sekiz	68
+altmış dokuz	69
+yetmiş	70
+yetmiş bir	71
+yetmiş iki	72
+yetmiş üç	73
+yetmiş dört	74
+yetmiş beş	75
+yetmiş altı	76
+yetmiş yedi	77
+yetmiş sekiz	78
+yetmiş dokuz	79
+seksen	80
+seksen bir	81
+seksen iki	82
+seksen üç	83
+seksen dört	84
+seksen beş	85
+seksen altı	86
+seksen yedi	87
+seksen sekiz	88
+seksen dokuz	89
+doksan	90
+doksan bir	91
+doksan iki	92
+doksan üç	93
+doksan dört	94
+doksan beş	95
+doksan altı	96
+doksan yedi	97
+doksan sekiz	98
+doksan dokuz	99
+yüz 	100
